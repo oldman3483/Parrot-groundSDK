@@ -1,3 +1,4 @@
+
 # -*- coding: UTF-8 -*-
 
 import olympe
@@ -9,10 +10,12 @@ DRONE_IP = "10.202.0.1"
 if __name__ == "__main__":
     drone = olympe.Drone(DRONE_IP)
     drone.connect()
+    
     assert drone(
         TakeOff()
         >> FlyingStateChanged(state="hovering", _timeout=5)
     ).wait().success()
+    '''
     assert drone(
         moveBy(10, 10, 0, 0)
         
@@ -20,6 +23,12 @@ if __name__ == "__main__":
     ).wait().success()
     assert drone(
         moveBy(10, 10, 0, 10)
+        
+        >> FlyingStateChanged(state="hovering", _timeout=5)
+    ).wait().success()
+    '''
+    assert drone(
+        moveTo(48.878,2.36778, 5,0,0)
         
         >> FlyingStateChanged(state="hovering", _timeout=5)
     ).wait().success()
