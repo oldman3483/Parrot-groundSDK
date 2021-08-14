@@ -1,5 +1,5 @@
-/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o: \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/src/varint.c /usr/include/stdc-predef.h \
+/home/zxli/code/Parrot-groundSDK/out/olympe-linux/build/libfutils/obj/src/varint.c.o: \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/src/varint.c /usr/include/stdc-predef.h \
  /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -52,7 +52,7 @@
  /usr/include/strings.h \
  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/varint.h
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/varint.h
 
 /usr/include/stdc-predef.h:
 
@@ -172,4 +172,4 @@
 
 /usr/include/x86_64-linux-gnu/bits/string_fortified.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/varint.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/varint.h:

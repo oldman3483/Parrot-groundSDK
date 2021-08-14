@@ -1,14 +1,14 @@
-TARGET_GLOBAL_C_INCLUDES := /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include
+TARGET_GLOBAL_C_INCLUDES := /home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging/usr/include/x86_64-linux-gnu /home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging/usr/include
 TARGET_GLOBAL_ASFLAGS := 
 TARGET_GLOBAL_OBJCFLAGS := -fobjc-arc
 TARGET_GLOBAL_FFLAGS := 
-TARGET_GLOBAL_VALAFLAGS := --vapidir=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging-host/usr/share/vala-0.20/vapi --vapidir=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/share/vala/vapi --target-glib=2.36
+TARGET_GLOBAL_VALAFLAGS := --vapidir=/home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging-host/usr/share/vala-0.20/vapi --vapidir=/home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging/usr/share/vala/vapi --target-glib=2.36
 TARGET_GLOBAL_PCHFLAGS := -x c++-header
 TARGET_GLOBAL_LDLIBS := -pthread -lrt
 PRIVATE_GLOBAL_CFLAGS := -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD -m64 -fPIC -msse -msse2 -mssse3
 PRIVATE_GLOBAL_CXXFLAGS := 
-PRIVATE_GLOBAL_LDFLAGS := -O2 -m64 -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib
-PRIVATE_C_INCLUDES := /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils /home/zxli/code/parrot-groundsdk/packages/common/libfutils /home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include
+PRIVATE_GLOBAL_LDFLAGS := -O2 -m64 -L/home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging/lib -L/home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging/usr/lib
+PRIVATE_C_INCLUDES := /home/zxli/code/Parrot-groundSDK/out/olympe-linux/build/libfutils /home/zxli/code/Parrot-groundSDK/packages/common/libfutils /home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include
 PRIVATE_ASFLAGS := 
 PRIVATE_CFLAGS := -D_FILE_OFFSET_BITS=64 -DBUILD_LIBULOG
 PRIVATE_CXXFLAGS := 

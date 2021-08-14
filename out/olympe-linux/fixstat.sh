@@ -1,2 +1,2 @@
 #!/bin/sh
-/home/zxli/code/parrot-groundsdk/build/alchemy/scripts/fixstat.py "$@"
+/home/zxli/code/Parrot-groundSDK/build/alchemy/scripts/fixstat.py "$@"

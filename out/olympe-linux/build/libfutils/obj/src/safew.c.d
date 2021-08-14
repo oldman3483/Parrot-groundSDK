@@ -1,5 +1,5 @@
-/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o: \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/src/safew.c /usr/include/stdc-predef.h \
+/home/zxli/code/Parrot-groundSDK/out/olympe-linux/build/libfutils/obj/src/safew.c.o: \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/src/safew.c /usr/include/stdc-predef.h \
  /usr/include/unistd.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -56,9 +56,9 @@
  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/src/safew_types.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/safew.h \
- /home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/src/safew_types.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/safew.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h /usr/include/string.h \
@@ -194,11 +194,11 @@
 
 /usr/include/x86_64-linux-gnu/bits/stdlib.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/src/safew_types.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/src/safew_types.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/safew.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/safew.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h:
 

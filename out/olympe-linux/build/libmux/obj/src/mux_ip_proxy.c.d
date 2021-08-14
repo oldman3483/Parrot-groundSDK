@@ -1,5 +1,5 @@
-/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o: \
- /home/zxli/code/parrot-groundsdk/packages/common/libmux/src/mux_ip_proxy.c /usr/include/stdc-predef.h \
+/home/zxli/code/Parrot-groundSDK/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o: \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libmux/src/mux_ip_proxy.c /usr/include/stdc-predef.h \
  /usr/include/arpa/inet.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -44,7 +44,7 @@
  /usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h \
  /usr/include/x86_64-linux-gnu/bits/socket2.h \
  /usr/include/x86_64-linux-gnu/bits/in.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/hash.h /usr/include/stdlib.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/hash.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
@@ -58,8 +58,8 @@
  /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/list.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libmux/src/mux_priv.h /usr/include/inttypes.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/list.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libmux/src/mux_priv.h /usr/include/inttypes.h \
  /usr/include/stdio.h /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
  /usr/include/x86_64-linux-gnu/bits/libio.h \
@@ -100,14 +100,14 @@
  /usr/include/asm-generic/ioctl.h \
  /usr/include/x86_64-linux-gnu/bits/ioctl-types.h \
  /usr/include/x86_64-linux-gnu/sys/ttydefaults.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libpomp/include/libpomp.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libmux/include/libmux.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/random.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libmux/src/mux_log.h \
- /home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libpomp/include/libpomp.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libmux/include/libmux.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/random.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libmux/src/mux_log.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libmux/src/mux_channel.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libmux/src/mux_ip_proxy_priv.h
+ /home/zxli/code/Parrot-groundSDK/packages/common/libmux/src/mux_channel.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libmux/src/mux_ip_proxy_priv.h
 
 /usr/include/stdc-predef.h:
 
@@ -205,7 +205,7 @@
 
 /usr/include/x86_64-linux-gnu/bits/in.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/hash.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/hash.h:
 
 /usr/include/stdlib.h:
 
@@ -245,9 +245,9 @@
 
 /usr/include/asm-generic/errno-base.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/list.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/list.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libmux/src/mux_priv.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libmux/src/mux_priv.h:
 
 /usr/include/inttypes.h:
 
@@ -345,18 +345,18 @@
 
 /usr/include/x86_64-linux-gnu/sys/ttydefaults.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libpomp/include/libpomp.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libpomp/include/libpomp.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libmux/include/libmux.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libmux/include/libmux.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/random.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/random.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libmux/src/mux_log.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libmux/src/mux_log.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libmux/src/mux_channel.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libmux/src/mux_channel.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libmux/src/mux_ip_proxy_priv.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libmux/src/mux_ip_proxy_priv.h:

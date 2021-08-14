@@ -31,8 +31,8 @@ ${SUDO} apt-get update || true # who doesn't have invalid/broken apt sources
 ${SUDO} apt-get -y install python3 python3-dev python3-pip wget
 
 # olympe-deps build dependencies
-CLANG_VERSION=6.0
-${SUDO} /usr/bin/python3 -m pip install clang~=${CLANG_VERSION}
+${SUDO} /usr/bin/python3 -m pip install clang
+CLANG_VERSION=$(/usr/bin/python3 -m pip show clang |grep '^Version' |cut -d' ' -f2 |cut -c1-3)
 ${SUDO} apt-get -y install libclang-${CLANG_VERSION}-dev
 
 # pdraw dependencies
@@ -78,3 +78,13 @@ PY_REQS_TXT=$(find "${MODULES_DIR}/" -maxdepth 3 -mindepth 1 -name requirements.
 #    files that belong to a previous version of a dependency are removed
 ${ENV_DIR}/setenv pip uninstall --yes $(echo "$PY_REQS_TXT"|xargs -d '\n' -I{} echo -r {})
 ${ENV_DIR}/setenv pip install --ignore-installed $(echo "$PY_REQS_TXT"|xargs -d '\n' -I{} echo -r {})
+
+# Add workspace builts python package directory to sys.path
+PY_PRINT_VERSION=$(cat <<-END
+from sys import version_info;
+print('{}.{}'.format(version_info.major, version_info.minor))
+END
+)
+PY_XY=$($PYTHON -c "$PY_PRINT_VERSION")
+PY_PREFIX="$PYTHON_ENV_DIR/py3"
+cp "${ENV_DIR}/python/sitecustomize.py" "$PY_PREFIX/lib/python$PY_XY"

@@ -69,5 +69,5 @@ endif()
 
 
 set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "rt;gcc;gcc_s;pthread;c;gcc;gcc_s")
-set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu;/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib;/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu;/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib;/usr/lib/gcc/x86_64-linux-gnu/7;/usr/lib/x86_64-linux-gnu;/usr/lib;/lib/x86_64-linux-gnu;/lib")
+set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "/home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging/lib/x86_64-linux-gnu;/home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging/lib;/home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu;/home/zxli/code/Parrot-groundSDK/out/olympe-linux/staging/usr/lib;/usr/lib/gcc/x86_64-linux-gnu/7;/usr/lib/x86_64-linux-gnu;/usr/lib;/lib/x86_64-linux-gnu;/lib")
 set(CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")

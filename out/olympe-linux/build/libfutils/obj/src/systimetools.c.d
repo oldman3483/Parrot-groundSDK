@@ -1,5 +1,5 @@
-/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o: \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/src/systimetools.c /usr/include/stdc-predef.h \
+/home/zxli/code/Parrot-groundSDK/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o: \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/src/systimetools.c /usr/include/stdc-predef.h \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -28,7 +28,7 @@
  /usr/include/errno.h /usr/include/x86_64-linux-gnu/bits/errno.h \
  /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/systimetools.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/systimetools.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
@@ -48,7 +48,7 @@
  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/select2.h \
- /home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h /usr/include/stdlib.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
@@ -137,7 +137,7 @@
 
 /usr/include/asm-generic/errno-base.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/systimetools.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/systimetools.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h:
 
@@ -181,7 +181,7 @@
 
 /usr/include/x86_64-linux-gnu/bits/select2.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h:
 
 /usr/include/stdlib.h:
 

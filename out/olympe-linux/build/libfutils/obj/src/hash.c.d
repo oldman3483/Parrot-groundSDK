@@ -1,5 +1,5 @@
-/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o: \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/src/hash.c /usr/include/stdc-predef.h \
+/home/zxli/code/Parrot-groundSDK/out/olympe-linux/build/libfutils/obj/src/hash.c.o: \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/src/hash.c /usr/include/stdc-predef.h \
  /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -13,7 +13,7 @@
  /usr/include/strings.h \
  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/hash.h /usr/include/stdlib.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/hash.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
@@ -52,7 +52,7 @@
  /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/list.h
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/list.h
 
 /usr/include/stdc-predef.h:
 
@@ -84,7 +84,7 @@
 
 /usr/include/x86_64-linux-gnu/bits/string_fortified.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/hash.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/hash.h:
 
 /usr/include/stdlib.h:
 
@@ -174,4 +174,4 @@
 
 /usr/include/asm-generic/errno-base.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/list.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/list.h:

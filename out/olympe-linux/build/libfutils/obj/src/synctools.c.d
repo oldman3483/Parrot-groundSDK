@@ -1,5 +1,5 @@
-/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o: \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/src/synctools.c /usr/include/stdc-predef.h \
+/home/zxli/code/Parrot-groundSDK/out/olympe-linux/build/libfutils/obj/src/synctools.c.o: \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/src/synctools.c /usr/include/stdc-predef.h \
  /usr/include/unistd.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -30,8 +30,8 @@
  /usr/include/strings.h \
  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/synctools.h \
- /home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h /usr/include/stdlib.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/synctools.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
@@ -142,9 +142,9 @@
 
 /usr/include/x86_64-linux-gnu/bits/string_fortified.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/synctools.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/synctools.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h:
 
 /usr/include/stdlib.h:
 

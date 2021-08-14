@@ -1,5 +1,5 @@
-/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o: \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/src/mbox.c /usr/include/stdc-predef.h \
+/home/zxli/code/Parrot-groundSDK/out/olympe-linux/build/libfutils/obj/src/mbox.c.o: \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/src/mbox.c /usr/include/stdc-predef.h \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -74,9 +74,9 @@
  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
  /usr/include/linux/limits.h \
  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/fdutils.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/mbox.h \
- /home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/fdutils.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/mbox.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h /usr/include/time.h \
@@ -255,11 +255,11 @@
 
 /usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/fdutils.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/fdutils.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/mbox.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/mbox.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h:
 

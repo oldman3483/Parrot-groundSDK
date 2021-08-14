@@ -1,5 +1,5 @@
-/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o: \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/src/dynmbox.c /usr/include/stdc-predef.h \
+/home/zxli/code/Parrot-groundSDK/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o: \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/src/dynmbox.c /usr/include/stdc-predef.h \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -86,7 +86,7 @@
  /usr/include/x86_64-linux-gnu/sys/uio.h \
  /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/uio-ext.h \
- /home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h /usr/include/time.h \
@@ -95,8 +95,8 @@
  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/fdutils.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/dynmbox.h
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/fdutils.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/dynmbox.h
 
 /usr/include/stdc-predef.h:
 
@@ -296,7 +296,7 @@
 
 /usr/include/x86_64-linux-gnu/bits/uio-ext.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h:
 
@@ -318,6 +318,6 @@
 
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/fdutils.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/fdutils.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/dynmbox.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/dynmbox.h:

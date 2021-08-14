@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: /home/zxli/code/parrot-groundsdk/packages/common/json
-BuildDirectory: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj
+SourceDirectory: /home/zxli/code/Parrot-groundSDK/packages/common/json
+BuildDirectory: /home/zxli/code/Parrot-groundSDK/out/olympe-linux/build/json/obj
 
 # Where to place the cost data store
 CostDataFile: 
@@ -36,7 +36,7 @@ ScpCommand: /usr/bin/scp
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/bin/cmake" "/home/zxli/code/parrot-groundsdk/packages/common/json"
+ConfigureCommand: "/usr/bin/cmake" "/home/zxli/code/Parrot-groundSDK/packages/common/json"
 MakeCommand: /usr/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}" -- -i
 DefaultCTestConfigurationType: Release
 

@@ -1,5 +1,5 @@
-/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o: \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/src/inotify.c /usr/include/stdc-predef.h \
+/home/zxli/code/Parrot-groundSDK/out/olympe-linux/build/libfutils/obj/src/inotify.c.o: \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/src/inotify.c /usr/include/stdc-predef.h \
  /usr/include/unistd.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -31,7 +31,7 @@
  /usr/include/asm-generic/ioctl.h \
  /usr/include/x86_64-linux-gnu/bits/ioctl-types.h \
  /usr/include/x86_64-linux-gnu/sys/ttydefaults.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/inotify.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/inotify.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
@@ -40,8 +40,8 @@
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/include/x86_64-linux-gnu/sys/inotify.h \
  /usr/include/x86_64-linux-gnu/bits/inotify.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/fdutils.h \
- /home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h /usr/include/stdlib.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/fdutils.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
@@ -156,7 +156,7 @@
 
 /usr/include/x86_64-linux-gnu/sys/ttydefaults.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/inotify.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/inotify.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
 
@@ -176,9 +176,9 @@
 
 /usr/include/x86_64-linux-gnu/bits/inotify.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/fdutils.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/fdutils.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h:
 
 /usr/include/stdlib.h:
 

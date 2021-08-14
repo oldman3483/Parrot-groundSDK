@@ -1,5 +1,5 @@
-/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libulog/obj/ulog_write.c.o: \
- /home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/ulog_write.c /usr/include/stdc-predef.h \
+/home/zxli/code/Parrot-groundSDK/out/olympe-linux/build/libulog/obj/ulog_write.c.o: \
+ /home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/ulog_write.c /usr/include/stdc-predef.h \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -81,12 +81,12 @@
  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
  /usr/include/x86_64-linux-gnu/bits/setjmp.h \
- /home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
- /home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulogger.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulogger.h \
  /usr/include/x86_64-linux-gnu/sys/ioctl.h \
  /usr/include/x86_64-linux-gnu/bits/ioctls.h \
  /usr/include/x86_64-linux-gnu/asm/ioctls.h \
@@ -95,7 +95,7 @@
  /usr/include/asm-generic/ioctl.h \
  /usr/include/x86_64-linux-gnu/bits/ioctl-types.h \
  /usr/include/x86_64-linux-gnu/sys/ttydefaults.h \
- /home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/ulog_common.h
+ /home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/ulog_common.h
 
 /usr/include/stdc-predef.h:
 
@@ -287,7 +287,7 @@
 
 /usr/include/x86_64-linux-gnu/bits/setjmp.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h:
 
@@ -299,7 +299,7 @@
 
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulogger.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulogger.h:
 
 /usr/include/x86_64-linux-gnu/sys/ioctl.h:
 
@@ -319,4 +319,4 @@
 
 /usr/include/x86_64-linux-gnu/sys/ttydefaults.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/ulog_common.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/ulog_common.h:

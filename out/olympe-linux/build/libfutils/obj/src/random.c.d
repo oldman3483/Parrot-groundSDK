@@ -1,6 +1,6 @@
-/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o: \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/src/random.c /usr/include/stdc-predef.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/random.h /usr/include/errno.h \
+/home/zxli/code/Parrot-groundSDK/out/olympe-linux/build/libfutils/obj/src/random.c.o: \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/src/random.c /usr/include/stdc-predef.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/random.h /usr/include/errno.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/bits/long-double.h \
@@ -68,7 +68,7 @@
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd.h \
- /home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h \
+ /home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h /usr/include/time.h \
  /usr/include/x86_64-linux-gnu/bits/time.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
@@ -79,7 +79,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/random.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/random.h:
 
 /usr/include/errno.h:
 
@@ -239,7 +239,7 @@
 
 /usr/include/x86_64-linux-gnu/bits/unistd.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/ulog/libulog/include/ulog.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/ulog/libulog/include/ulog.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
 

@@ -1,5 +1,5 @@
-/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o: \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/src/fdutils.c /usr/include/stdc-predef.h \
+/home/zxli/code/Parrot-groundSDK/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o: \
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/src/fdutils.c /usr/include/stdc-predef.h \
  /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -50,7 +50,7 @@
  /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
  /usr/include/linux/falloc.h /usr/include/x86_64-linux-gnu/bits/stat.h \
  /usr/include/x86_64-linux-gnu/bits/fcntl2.h \
- /home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/fdutils.h
+ /home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/fdutils.h
 
 /usr/include/stdc-predef.h:
 
@@ -168,4 +168,4 @@
 
 /usr/include/x86_64-linux-gnu/bits/fcntl2.h:
 
-/home/zxli/code/parrot-groundsdk/packages/common/libfutils/include/futils/fdutils.h:
+/home/zxli/code/Parrot-groundSDK/packages/common/libfutils/include/futils/fdutils.h:
