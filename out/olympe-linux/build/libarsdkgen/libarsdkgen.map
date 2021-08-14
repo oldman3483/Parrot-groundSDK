@@ -1,0 +1,1301 @@
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_dec.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_dec.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_dec.c.o
+ .debug_info    0x0000000000000000     0x2940 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_dec.c.o
+ .debug_abbrev  0x0000000000000000       0xdb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_dec.c.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_dec.c.o
+ .debug_line    0x0000000000000000      0x12f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_dec.c.o
+ .debug_str     0x0000000000000000     0xaa9e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_dec.c.o
+ .comment       0x0000000000000000       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_dec.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_dec.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_enc.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_enc.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_enc.c.o
+ .debug_info    0x0000000000000000     0x2879 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_enc.c.o
+ .debug_abbrev  0x0000000000000000       0xad /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_enc.c.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_enc.c.o
+ .debug_line    0x0000000000000000       0xe9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_enc.c.o
+ .debug_str     0x0000000000000000     0xaa13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_enc.c.o
+ .comment       0x0000000000000000       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_enc.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_enc.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_dec.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_enc.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libpomp.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libm.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libm.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libmvec_nonshared.a
+LOAD /lib/x86_64-linux-gnu/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0     0x1930
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0     0x1930 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x0000000000001b20     0x4e60
+ *(.dynsym)
+ .dynsym        0x0000000000001b20     0x4e60 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000006980     0xa5a9
+ *(.dynstr)
+ .dynstr        0x0000000000006980     0xa5a9 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000010f2a        0x0
+ *(.gnu.version)
+ .gnu.version   0x0000000000010f2a        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000010f30        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000010f30        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000010f30        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000010f30        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000010f30    0x24ed0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000010f30        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.local
+                0x0000000000010f30     0x1428 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro
+                0x0000000000012358     0x4d40 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro.local
+                0x0000000000017098    0x1ecc0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000035d58       0x78 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000035dd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000035dd0       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000035de8       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000035e00        0x0
+ *(.rela.plt)
+ .rela.plt      0x0000000000035e00        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000035e00       0x17
+ *(SORT_NONE(.init))
+ .init          0x0000000000035e00       0x12 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000035e00                _init
+ .init          0x0000000000035e12        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000035e20       0x10
+ *(.plt)
+ .plt           0x0000000000035e20       0x10 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.plt.got        0x0000000000035e30        0x8
+ *(.plt.got)
+ .plt.got       0x0000000000035e30        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000035e40       0xe8
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000035e40       0xda /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *fill*         0x0000000000035f1a        0x6 
+ .text.arsdk_get_cmd_table
+                0x0000000000035f20        0x8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+                0x0000000000035f20                arsdk_get_cmd_table
+ *(.gnu.warning)
+
+.fini           0x0000000000035f28        0x9
+ *(SORT_NONE(.fini))
+ .fini          0x0000000000035f28        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000035f28                _fini
+ .fini          0x0000000000035f2c        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+
+.rodata         0x0000000000035f38     0xa878
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000035f38     0x5282 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+                                       0x5618 (size before relaxing)
+ *fill*         0x000000000003b1ba        0x6 
+ .rodata.str1.8
+                0x000000000003b1c0     0x55f0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+                                       0x55eb (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x00000000000407b0       0x24
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x00000000000407b0       0x24 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+                0x00000000000407b0                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x00000000000407d8       0x70
+ *(.eh_frame)
+ .eh_frame      0x00000000000407d8       0x40 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000040818       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000040830       0x14 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000040844        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000241650                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000241650        0x8
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000241650        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.fini_array     0x0000000000241658        0x8
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000241658        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x0000000000241660    0x22810
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x0000000000241660    0x20330 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+                0x0000000000241660                g_arsdk_cmd_desc_Move_Info
+                0x00000000002416c0                g_arsdk_cmd_desc_Move_Extended_move_by
+                0x00000000002417e0                g_arsdk_cmd_desc_Move_Extended_move_to
+                0x0000000000241a40                g_arsdk_cmd_desc_Security_edition_Log_storage_state
+                0x0000000000241aa0                g_arsdk_cmd_desc_Security_edition_Capabilities
+                0x0000000000241b00                g_arsdk_cmd_desc_Security_edition_Deactivate_logs
+                0x0000000000241b60                g_arsdk_cmd_desc_Dri_Dri_type
+                0x0000000000241c00                g_arsdk_cmd_desc_Dri_Drone_id
+                0x0000000000241c80                g_arsdk_cmd_desc_Dri_Dri_state
+                0x0000000000241ce0                g_arsdk_cmd_desc_Dri_Capabilities
+                0x0000000000241d40                g_arsdk_cmd_desc_Dri_Set_dri_type
+                0x0000000000241dc0                g_arsdk_cmd_desc_Dri_Dri_mode
+                0x0000000000241f00                g_arsdk_cmd_desc_Gauge_fw_updater_Progress
+                0x0000000000241f80                g_arsdk_cmd_desc_Gauge_fw_updater_Status
+                0x0000000000242020                g_arsdk_cmd_desc_Gauge_fw_updater_Update
+                0x0000000000242060                g_arsdk_cmd_desc_Gauge_fw_updater_Prepare
+                0x00000000002421c0                g_arsdk_cmd_desc_Piloting_style_Capabilities
+                0x0000000000242220                g_arsdk_cmd_desc_Piloting_style_Style
+                0x0000000000242280                g_arsdk_cmd_desc_Piloting_style_Set_style
+                0x0000000000242300                g_arsdk_cmd_desc_Leds_Switch_state
+                0x0000000000242360                g_arsdk_cmd_desc_Leds_Capabilities
+                0x00000000002423c0                g_arsdk_cmd_desc_Leds_Deactivate
+                0x0000000000242400                g_arsdk_cmd_desc_Leds_Activate
+                0x0000000000242460                g_arsdk_cmd_desc_Thermal_Shutter_mode
+                0x00000000002424c0                g_arsdk_cmd_desc_Thermal_Sensitivity
+                0x0000000000242520                g_arsdk_cmd_desc_Thermal_Background_temperature
+                0x0000000000242580                g_arsdk_cmd_desc_Thermal_Emissivity
+                0x00000000002425e0                g_arsdk_cmd_desc_Thermal_Rendering
+                0x0000000000242660                g_arsdk_cmd_desc_Thermal_Palette_settings
+                0x0000000000242780                g_arsdk_cmd_desc_Thermal_Palette_part
+                0x0000000000242860                g_arsdk_cmd_desc_Thermal_Capabilities
+                0x00000000002428c0                g_arsdk_cmd_desc_Thermal_Mode
+                0x0000000000242920                g_arsdk_cmd_desc_Thermal_Trigg_shutter
+                0x0000000000242960                g_arsdk_cmd_desc_Thermal_Set_shutter_mode
+                0x00000000002429c0                g_arsdk_cmd_desc_Thermal_Set_sensitivity
+                0x0000000000242a20                g_arsdk_cmd_desc_Thermal_Set_background_temperature
+                0x0000000000242a80                g_arsdk_cmd_desc_Thermal_Set_emissivity
+                0x0000000000242ae0                g_arsdk_cmd_desc_Thermal_Set_rendering
+                0x0000000000242b60                g_arsdk_cmd_desc_Thermal_Set_palette_settings
+                0x0000000000242c80                g_arsdk_cmd_desc_Thermal_Set_palette_part
+                0x0000000000242d60                g_arsdk_cmd_desc_Thermal_Set_mode
+                0x0000000000242f20                g_arsdk_cmd_desc_Precise_home_State
+                0x0000000000242f80                g_arsdk_cmd_desc_Precise_home_Mode
+                0x0000000000242fe0                g_arsdk_cmd_desc_Precise_home_Capabilities
+                0x0000000000243040                g_arsdk_cmd_desc_Precise_home_Set_mode
+                0x0000000000243100                g_arsdk_cmd_desc_Mediastore_Counters
+                0x00000000002431c0                g_arsdk_cmd_desc_Mediastore_State
+                0x0000000000243260                g_arsdk_cmd_desc_Battery_Serial
+                0x00000000002432c0                g_arsdk_cmd_desc_Battery_Cycle_count
+                0x0000000000243320                g_arsdk_cmd_desc_Battery_Voltage
+                0x0000000000243380                g_arsdk_cmd_desc_Battery_Health
+                0x00000000002433e0                g_arsdk_cmd_desc_Battery_Alert
+                0x0000000000243500                g_arsdk_cmd_desc_Gimbal_Alert
+                0x0000000000243580                g_arsdk_cmd_desc_Gimbal_Calibration_result
+                0x0000000000243600                g_arsdk_cmd_desc_Gimbal_Calibration_state
+                0x0000000000243680                g_arsdk_cmd_desc_Gimbal_Offsets
+                0x0000000000243820                g_arsdk_cmd_desc_Gimbal_Axis_lock_state
+                0x00000000002438a0                g_arsdk_cmd_desc_Gimbal_Attitude
+                0x0000000000243a20                g_arsdk_cmd_desc_Gimbal_Max_speed
+                0x0000000000243ba0                g_arsdk_cmd_desc_Gimbal_Absolute_attitude_bounds
+                0x0000000000243cc0                g_arsdk_cmd_desc_Gimbal_Relative_attitude_bounds
+                0x0000000000243de0                g_arsdk_cmd_desc_Gimbal_Gimbal_capabilities
+                0x0000000000243e80                g_arsdk_cmd_desc_Gimbal_Cancel_calibration
+                0x0000000000243ee0                g_arsdk_cmd_desc_Gimbal_Calibrate
+                0x0000000000243f40                g_arsdk_cmd_desc_Gimbal_Reset_orientation
+                0x0000000000243fa0                g_arsdk_cmd_desc_Gimbal_Set_offsets
+                0x0000000000244060                g_arsdk_cmd_desc_Gimbal_Stop_offsets_update
+                0x00000000002440c0                g_arsdk_cmd_desc_Gimbal_Start_offsets_update
+                0x0000000000244120                g_arsdk_cmd_desc_Gimbal_Set_target
+                0x0000000000244260                g_arsdk_cmd_desc_Gimbal_Set_max_speed
+                0x00000000002444c0                g_arsdk_cmd_desc_Sequoia_cam_Live_stitch_pictures_in_progress_number_changed
+                0x0000000000244560                g_arsdk_cmd_desc_Sequoia_cam_System_status
+                0x0000000000244600                g_arsdk_cmd_desc_Sequoia_cam_Storage_infos
+                0x00000000002447e0                g_arsdk_cmd_desc_Sequoia_cam_Live_stitch_last_picture_id_changed
+                0x0000000000244880                g_arsdk_cmd_desc_Sequoia_cam_Live_stitch_mask_changed
+                0x0000000000244920                g_arsdk_cmd_desc_Sequoia_cam_Session_state_changed
+                0x0000000000244a00                g_arsdk_cmd_desc_Sequoia_cam_Radiometric_calib_result
+                0x0000000000244aa0                g_arsdk_cmd_desc_Sequoia_cam_Radiometric_calib_status
+                0x0000000000244b40                g_arsdk_cmd_desc_Sequoia_cam_Factory_reset
+                0x0000000000244ba0                g_arsdk_cmd_desc_Sequoia_cam_Get_storage_infos
+                0x0000000000244c00                g_arsdk_cmd_desc_Sequoia_cam_Set_live_stitch_mask
+                0x0000000000244c80                g_arsdk_cmd_desc_Sequoia_cam_Close_session
+                0x0000000000244ce0                g_arsdk_cmd_desc_Sequoia_cam_Open_session
+                0x0000000000244d60                g_arsdk_cmd_desc_Sequoia_cam_Radiometric_calib_start
+                0x0000000000244ee0                g_arsdk_cmd_desc_Rth_Ending_hovering_altitude
+                0x0000000000244f80                g_arsdk_cmd_desc_Rth_Ending_behavior
+                0x0000000000244fe0                g_arsdk_cmd_desc_Rth_Auto_trigger_mode
+                0x0000000000245040                g_arsdk_cmd_desc_Rth_Min_altitude
+                0x00000000002450e0                g_arsdk_cmd_desc_Rth_Rth_auto_trigger
+                0x0000000000245160                g_arsdk_cmd_desc_Rth_Home_reachability
+                0x00000000002451c0                g_arsdk_cmd_desc_Rth_State
+                0x0000000000245240                g_arsdk_cmd_desc_Rth_Delay
+                0x00000000002452e0                g_arsdk_cmd_desc_Rth_Followee_location
+                0x0000000000245380                g_arsdk_cmd_desc_Rth_Custom_location
+                0x0000000000245420                g_arsdk_cmd_desc_Rth_Takeoff_location
+                0x00000000002454e0                g_arsdk_cmd_desc_Rth_Preferred_home_type
+                0x0000000000245540                g_arsdk_cmd_desc_Rth_Home_type
+                0x00000000002455a0                g_arsdk_cmd_desc_Rth_Home_type_capabilities
+                0x0000000000245600                g_arsdk_cmd_desc_Rth_Set_ending_hovering_altitude
+                0x0000000000245660                g_arsdk_cmd_desc_Rth_Set_ending_behavior
+                0x00000000002456c0                g_arsdk_cmd_desc_Rth_Set_auto_trigger_mode
+                0x0000000000245720                g_arsdk_cmd_desc_Rth_Set_min_altitude
+                0x0000000000245780                g_arsdk_cmd_desc_Rth_Cancel_auto_trigger
+                0x00000000002457c0                g_arsdk_cmd_desc_Rth_Abort
+                0x0000000000245800                g_arsdk_cmd_desc_Rth_Return_to_home
+                0x0000000000245840                g_arsdk_cmd_desc_Rth_Set_delay
+                0x00000000002458a0                g_arsdk_cmd_desc_Rth_Set_custom_location
+                0x0000000000245940                g_arsdk_cmd_desc_Rth_Set_preferred_home_type
+                0x0000000000245b60                g_arsdk_cmd_desc_User_storage_Format_progress
+                0x0000000000245be0                g_arsdk_cmd_desc_User_storage_Decryption
+                0x0000000000245c40                g_arsdk_cmd_desc_User_storage_Format_result
+                0x0000000000245ca0                g_arsdk_cmd_desc_User_storage_Sdcard_uuid
+                0x0000000000245d00                g_arsdk_cmd_desc_User_storage_State
+                0x0000000000245de0                g_arsdk_cmd_desc_User_storage_Monitor
+                0x0000000000245e40                g_arsdk_cmd_desc_User_storage_Info
+                0x0000000000245ec0                g_arsdk_cmd_desc_User_storage_Supported_formatting_types
+                0x0000000000245f20                g_arsdk_cmd_desc_User_storage_Capabilities
+                0x0000000000245f80                g_arsdk_cmd_desc_User_storage_Encryption_password
+                0x0000000000246000                g_arsdk_cmd_desc_User_storage_Stop_monitoring
+                0x0000000000246040                g_arsdk_cmd_desc_User_storage_Start_monitoring
+                0x00000000002460a0                g_arsdk_cmd_desc_User_storage_Format_with_encryption
+                0x0000000000246140                g_arsdk_cmd_desc_User_storage_Format_with_type
+                0x00000000002461c0                g_arsdk_cmd_desc_User_storage_Format
+                0x0000000000246460                g_arsdk_cmd_desc_Animation_Spherical_photo_panorama_state
+                0x00000000002464c0                g_arsdk_cmd_desc_Animation_Vertical_180_photo_panorama_state
+                0x0000000000246520                g_arsdk_cmd_desc_Animation_Horizontal_180_photo_panorama_state
+                0x0000000000246580                g_arsdk_cmd_desc_Animation_Position_twist_up_state
+                0x0000000000246680                g_arsdk_cmd_desc_Animation_Twist_up_state
+                0x0000000000246780                g_arsdk_cmd_desc_Animation_Vertigo_state
+                0x0000000000246860                g_arsdk_cmd_desc_Animation_Dolly_slide_state
+                0x0000000000246940                g_arsdk_cmd_desc_Animation_Candle_state
+                0x0000000000246a00                g_arsdk_cmd_desc_Animation_Parabola_state
+                0x0000000000246ac0                g_arsdk_cmd_desc_Animation_Spiral_state
+                0x0000000000246bc0                g_arsdk_cmd_desc_Animation_Vertical_reveal_state
+                0x0000000000246cc0                g_arsdk_cmd_desc_Animation_Horizontal_reveal_state
+                0x0000000000246d80                g_arsdk_cmd_desc_Animation_Dronie_state
+                0x0000000000246e40                g_arsdk_cmd_desc_Animation_Horizontal_panorama_state
+                0x0000000000246ee0                g_arsdk_cmd_desc_Animation_Flip_state
+                0x0000000000246f60                g_arsdk_cmd_desc_Animation_State
+                0x0000000000246fe0                g_arsdk_cmd_desc_Animation_Availability
+                0x0000000000247040                g_arsdk_cmd_desc_Animation_Start_spherical_photo_panorama
+                0x0000000000247080                g_arsdk_cmd_desc_Animation_Start_vertical_180_photo_panorama
+                0x00000000002470c0                g_arsdk_cmd_desc_Animation_Start_horizontal_180_photo_panorama
+                0x0000000000247100                g_arsdk_cmd_desc_Animation_Start_position_twist_up
+                0x0000000000247200                g_arsdk_cmd_desc_Animation_Start_twist_up
+                0x0000000000247300                g_arsdk_cmd_desc_Animation_Start_vertigo
+                0x00000000002473e0                g_arsdk_cmd_desc_Animation_Start_dolly_slide
+                0x00000000002474c0                g_arsdk_cmd_desc_Animation_Start_candle
+                0x0000000000247580                g_arsdk_cmd_desc_Animation_Start_parabola
+                0x0000000000247640                g_arsdk_cmd_desc_Animation_Start_spiral
+                0x0000000000247740                g_arsdk_cmd_desc_Animation_Start_vertical_reveal
+                0x0000000000247840                g_arsdk_cmd_desc_Animation_Start_horizontal_reveal
+                0x0000000000247900                g_arsdk_cmd_desc_Animation_Start_dronie
+                0x00000000002479c0                g_arsdk_cmd_desc_Animation_Start_horizontal_panorama
+                0x0000000000247a60                g_arsdk_cmd_desc_Animation_Start_flip
+                0x0000000000247ac0                g_arsdk_cmd_desc_Animation_Cancel
+                0x0000000000247f80                g_arsdk_cmd_desc_Camera_Alignment_offsets
+                0x0000000000248100                g_arsdk_cmd_desc_Camera_Next_photo_delay
+                0x0000000000248180                g_arsdk_cmd_desc_Camera_Camera_states
+                0x00000000002481e0                g_arsdk_cmd_desc_Camera_Autorecord
+                0x0000000000248260                g_arsdk_cmd_desc_Camera_Recording_state
+                0x0000000000248320                g_arsdk_cmd_desc_Camera_Recording_progress
+                0x00000000002483c0                g_arsdk_cmd_desc_Camera_Photo_state
+                0x0000000000248460                g_arsdk_cmd_desc_Camera_Photo_progress
+                0x0000000000248520                g_arsdk_cmd_desc_Camera_Streaming_mode
+                0x00000000002485a0                g_arsdk_cmd_desc_Camera_Photo_mode
+                0x00000000002486c0                g_arsdk_cmd_desc_Camera_Recording_mode
+                0x00000000002487c0                g_arsdk_cmd_desc_Camera_Camera_mode
+                0x0000000000248840                g_arsdk_cmd_desc_Camera_Hdr
+                0x00000000002488e0                g_arsdk_cmd_desc_Camera_Hdr_setting
+                0x0000000000248960                g_arsdk_cmd_desc_Camera_Zoom_velocity_quality_degradation
+                0x00000000002489e0                g_arsdk_cmd_desc_Camera_Max_zoom_speed
+                0x0000000000248aa0                g_arsdk_cmd_desc_Camera_Zoom_info
+                0x0000000000248b60                g_arsdk_cmd_desc_Camera_Zoom_level
+                0x0000000000248be0                g_arsdk_cmd_desc_Camera_Style
+                0x0000000000248d80                g_arsdk_cmd_desc_Camera_Antiflicker_mode
+                0x0000000000248e00                g_arsdk_cmd_desc_Camera_Ev_compensation
+                0x0000000000248e80                g_arsdk_cmd_desc_Camera_White_balance
+                0x0000000000248f40                g_arsdk_cmd_desc_Camera_Exposure
+                0x0000000000249080                g_arsdk_cmd_desc_Camera_Exposure_settings
+                0x00000000002491e0                g_arsdk_cmd_desc_Camera_Antiflicker_capabilities
+                0x0000000000249240                g_arsdk_cmd_desc_Camera_Photo_capabilities
+                0x0000000000249340                g_arsdk_cmd_desc_Camera_Recording_capabilities
+                0x0000000000249440                g_arsdk_cmd_desc_Camera_Camera_capabilities
+                0x00000000002496c0                g_arsdk_cmd_desc_Camera_Reset_alignment_offsets
+                0x0000000000249720                g_arsdk_cmd_desc_Camera_Set_alignment_offsets
+                0x00000000002497e0                g_arsdk_cmd_desc_Camera_Set_autorecord
+                0x0000000000249860                g_arsdk_cmd_desc_Camera_Stop_recording
+                0x00000000002498c0                g_arsdk_cmd_desc_Camera_Start_recording
+                0x0000000000249920                g_arsdk_cmd_desc_Camera_Stop_photo
+                0x0000000000249980                g_arsdk_cmd_desc_Camera_Take_photo
+                0x00000000002499e0                g_arsdk_cmd_desc_Camera_Set_streaming_mode
+                0x0000000000249a60                g_arsdk_cmd_desc_Camera_Set_photo_mode
+                0x0000000000249b80                g_arsdk_cmd_desc_Camera_Set_recording_mode
+                0x0000000000249c60                g_arsdk_cmd_desc_Camera_Set_camera_mode
+                0x0000000000249ce0                g_arsdk_cmd_desc_Camera_Set_hdr_setting
+                0x0000000000249d60                g_arsdk_cmd_desc_Camera_Set_zoom_velocity_quality_degradation
+                0x0000000000249de0                g_arsdk_cmd_desc_Camera_Set_max_zoom_speed
+                0x0000000000249e60                g_arsdk_cmd_desc_Camera_Reset_zoom
+                0x0000000000249ec0                g_arsdk_cmd_desc_Camera_Set_zoom_target
+                0x0000000000249f60                g_arsdk_cmd_desc_Camera_Set_style_params
+                0x000000000024a020                g_arsdk_cmd_desc_Camera_Set_style
+                0x000000000024a0a0                g_arsdk_cmd_desc_Camera_Set_antiflicker_mode
+                0x000000000024a100                g_arsdk_cmd_desc_Camera_Set_ev_compensation
+                0x000000000024a180                g_arsdk_cmd_desc_Camera_Set_white_balance_lock
+                0x000000000024a200                g_arsdk_cmd_desc_Camera_Set_white_balance
+                0x000000000024a2a0                g_arsdk_cmd_desc_Camera_Unlock_exposure
+                0x000000000024a300                g_arsdk_cmd_desc_Camera_Lock_exposure_on_roi
+                0x000000000024a3a0                g_arsdk_cmd_desc_Camera_Lock_exposure
+                0x000000000024a400                g_arsdk_cmd_desc_Camera_Set_exposure_settings
+                0x000000000024b580                g_arsdk_cmd_desc_Thermal_cam_Flat_field_calibration_mode
+                0x000000000024b620                g_arsdk_cmd_desc_Thermal_cam_Flat_field_calibration_status
+                0x000000000024b6c0                g_arsdk_cmd_desc_Thermal_cam_Charging_status
+                0x000000000024b760                g_arsdk_cmd_desc_Thermal_cam_Calibration_infos
+                0x000000000024b840                g_arsdk_cmd_desc_Thermal_cam_Sensitivity
+                0x000000000024b900                g_arsdk_cmd_desc_Thermal_cam_Camera_state
+                0x000000000024b9a0                g_arsdk_cmd_desc_Thermal_cam_Set_flat_field_calibration_mode
+                0x000000000024ba20                g_arsdk_cmd_desc_Thermal_cam_Flat_field_calibrate
+                0x000000000024ba80                g_arsdk_cmd_desc_Thermal_cam_Set_sensitivity
+                0x000000000024bb00                g_arsdk_cmd_desc_Thermal_cam_Deactivate
+                0x000000000024bb60                g_arsdk_cmd_desc_Thermal_cam_Activate
+                0x000000000024bcc0                g_arsdk_cmd_desc_Mapper_mini_Axis_mapping_item
+                0x000000000024bdc0                g_arsdk_cmd_desc_Mapper_mini_Button_mapping_item
+                0x000000000024bea0                g_arsdk_cmd_desc_Mapper_mini_Reset_mapping
+                0x000000000024bf00                g_arsdk_cmd_desc_Mapper_mini_Map_axis_action
+                0x000000000024bfc0                g_arsdk_cmd_desc_Mapper_mini_Map_button_action
+                0x000000000024c280                g_arsdk_cmd_desc_Controller_info_Validity_from_drone
+                0x000000000024c2e0                g_arsdk_cmd_desc_Controller_info_Barometer
+                0x000000000024c360                g_arsdk_cmd_desc_Controller_info_Gps
+                0x000000000024c4c0                g_arsdk_cmd_desc_Debug_Tag_notify
+                0x000000000024c520                g_arsdk_cmd_desc_Debug_Settings_list
+                0x000000000024c5a0                g_arsdk_cmd_desc_Debug_Settings_info
+                0x000000000024c700                g_arsdk_cmd_desc_Debug_Tag
+                0x000000000024c760                g_arsdk_cmd_desc_Debug_Set_setting
+                0x000000000024c7e0                g_arsdk_cmd_desc_Debug_Get_all_settings
+                0x000000000024c880                g_arsdk_cmd_desc_Mapper_Volatile_mapping_state
+                0x000000000024c8e0                g_arsdk_cmd_desc_Mapper_Active_product
+                0x000000000024c940                g_arsdk_cmd_desc_Mapper_Inverted_map_item
+                0x000000000024ca20                g_arsdk_cmd_desc_Mapper_Expo_map_item
+                0x000000000024cb00                g_arsdk_cmd_desc_Mapper_Application_button_event
+                0x000000000024cb60                g_arsdk_cmd_desc_Mapper_Application_axis_event
+                0x000000000024cbe0                g_arsdk_cmd_desc_Mapper_Axis_mapping_item
+                0x000000000024cce0                g_arsdk_cmd_desc_Mapper_Button_mapping_item
+                0x000000000024cdc0                g_arsdk_cmd_desc_Mapper_Grab_axis_event
+                0x000000000024ce40                g_arsdk_cmd_desc_Mapper_Grab_button_event
+                0x000000000024cec0                g_arsdk_cmd_desc_Mapper_Grab_state
+                0x000000000024cf60                g_arsdk_cmd_desc_Mapper_Exit_volatile_mapping
+                0x000000000024cfa0                g_arsdk_cmd_desc_Mapper_Enter_volatile_mapping
+                0x000000000024cfe0                g_arsdk_cmd_desc_Mapper_Set_inverted
+                0x000000000024d080                g_arsdk_cmd_desc_Mapper_Set_expo
+                0x000000000024d120                g_arsdk_cmd_desc_Mapper_Reset_mapping
+                0x000000000024d180                g_arsdk_cmd_desc_Mapper_Map_axis_action
+                0x000000000024d240                g_arsdk_cmd_desc_Mapper_Map_button_action
+                0x000000000024d2e0                g_arsdk_cmd_desc_Mapper_Grab
+                0x000000000024d740                g_arsdk_cmd_desc_Drone_manager_Known_drone_item
+                0x000000000024d840                g_arsdk_cmd_desc_Drone_manager_Connection_refused
+                0x000000000024d8e0                g_arsdk_cmd_desc_Drone_manager_Authentication_failed
+                0x000000000024d980                g_arsdk_cmd_desc_Drone_manager_Connection_state
+                0x000000000024da40                g_arsdk_cmd_desc_Drone_manager_Drone_list_item
+                0x000000000024dbc0                g_arsdk_cmd_desc_Drone_manager_Forget
+                0x000000000024dc20                g_arsdk_cmd_desc_Drone_manager_Connect
+                0x000000000024dca0                g_arsdk_cmd_desc_Drone_manager_Discover_drones
+                0x000000000024dd60                g_arsdk_cmd_desc_Rc_Channel_action_item
+                0x000000000024de20                g_arsdk_cmd_desc_Rc_Calibration_state
+                0x000000000024df00                g_arsdk_cmd_desc_Rc_Channel_value
+                0x000000000024dfc0                g_arsdk_cmd_desc_Rc_Channels_monitor_state
+                0x000000000024e020                g_arsdk_cmd_desc_Rc_Receiver_state
+                0x000000000024e0c0                g_arsdk_cmd_desc_Rc_Enable_receiver
+                0x000000000024e120                g_arsdk_cmd_desc_Rc_Reset_calibration
+                0x000000000024e160                g_arsdk_cmd_desc_Rc_Abort_calibration
+                0x000000000024e1a0                g_arsdk_cmd_desc_Rc_Invert_channel
+                0x000000000024e220                g_arsdk_cmd_desc_Rc_Start_calibration
+                0x000000000024e2c0                g_arsdk_cmd_desc_Rc_Monitor_channels
+                0x000000000024e4a0                g_arsdk_cmd_desc_Wifi_Supported_security_types
+                0x000000000024e500                g_arsdk_cmd_desc_Wifi_Supported_countries
+                0x000000000024e560                g_arsdk_cmd_desc_Wifi_Rssi_changed
+                0x000000000024e5c0                g_arsdk_cmd_desc_Wifi_Environment_changed
+                0x000000000024e620                g_arsdk_cmd_desc_Wifi_Country_changed
+                0x000000000024e6a0                g_arsdk_cmd_desc_Wifi_Security_changed
+                0x000000000024e740                g_arsdk_cmd_desc_Wifi_Ap_channel_changed
+                0x000000000024e7e0                g_arsdk_cmd_desc_Wifi_Authorized_channel
+                0x000000000024e8a0                g_arsdk_cmd_desc_Wifi_Scanned_item
+                0x000000000024e980                g_arsdk_cmd_desc_Wifi_Set_environment
+                0x000000000024e9e0                g_arsdk_cmd_desc_Wifi_Set_country
+                0x000000000024ea60                g_arsdk_cmd_desc_Wifi_Set_security
+                0x000000000024eb00                g_arsdk_cmd_desc_Wifi_Set_ap_channel
+                0x000000000024eba0                g_arsdk_cmd_desc_Wifi_Update_authorized_channels
+                0x000000000024ebe0                g_arsdk_cmd_desc_Wifi_Scan
+                0x000000000024ed20                g_arsdk_cmd_desc_Follow_me_Target_is_controller
+                0x000000000024ed80                g_arsdk_cmd_desc_Follow_me_Target_image_detection_state
+                0x000000000024ede0                g_arsdk_cmd_desc_Follow_me_Target_framing_position_changed
+                0x000000000024ee60                g_arsdk_cmd_desc_Follow_me_Dolly_slide_anim_config
+                0x000000000024ef20                g_arsdk_cmd_desc_Follow_me_Candle_anim_config
+                0x000000000024efc0                g_arsdk_cmd_desc_Follow_me_Boomerang_anim_config
+                0x000000000024f060                g_arsdk_cmd_desc_Follow_me_Swing_anim_config
+                0x000000000024f100                g_arsdk_cmd_desc_Follow_me_Helicoid_anim_config
+                0x000000000024f1c0                g_arsdk_cmd_desc_Follow_me_Target_trajectory
+                0x000000000024f2c0                g_arsdk_cmd_desc_Follow_me_Leash_config
+                0x000000000024f380                g_arsdk_cmd_desc_Follow_me_Relative_config
+                0x000000000024f440                g_arsdk_cmd_desc_Follow_me_Geographic_config
+                0x000000000024f500                g_arsdk_cmd_desc_Follow_me_Mode_info
+                0x000000000024f5a0                g_arsdk_cmd_desc_Follow_me_State
+                0x000000000024f660                g_arsdk_cmd_desc_Follow_me_Set_target_is_controller
+                0x000000000024f6c0                g_arsdk_cmd_desc_Follow_me_Target_image_detection
+                0x000000000024f7c0                g_arsdk_cmd_desc_Follow_me_Target_framing_position
+                0x000000000024f840                g_arsdk_cmd_desc_Follow_me_Start_dolly_slide_anim
+                0x000000000024f900                g_arsdk_cmd_desc_Follow_me_Start_candle_anim
+                0x000000000024f9a0                g_arsdk_cmd_desc_Follow_me_Start_boomerang_anim
+                0x000000000024fa40                g_arsdk_cmd_desc_Follow_me_Start_swing_anim
+                0x000000000024fae0                g_arsdk_cmd_desc_Follow_me_Start_helicoid_anim
+                0x000000000024fba0                g_arsdk_cmd_desc_Follow_me_Stop_animation
+                0x000000000024fbe0                g_arsdk_cmd_desc_Follow_me_Configure_leash
+                0x000000000024fca0                g_arsdk_cmd_desc_Follow_me_Configure_relative
+                0x000000000024fd60                g_arsdk_cmd_desc_Follow_me_Configure_geographic
+                0x000000000024fe20                g_arsdk_cmd_desc_Follow_me_Stop
+                0x000000000024fe60                g_arsdk_cmd_desc_Follow_me_Start
+                0x00000000002501c0                g_arsdk_cmd_desc_Generic_Default
+                0x0000000000250240                g_arsdk_cmd_desc_Powerup_SoundsState_BuzzChanged
+                0x00000000002502a0                g_arsdk_cmd_desc_Powerup_VideoSettingsState_VideoModeChanged
+                0x0000000000250300                g_arsdk_cmd_desc_Powerup_VideoSettingsState_AutorecordChanged
+                0x0000000000250360                g_arsdk_cmd_desc_Powerup_MediaStreamingState_VideoEnableChanged
+                0x00000000002503c0                g_arsdk_cmd_desc_Powerup_NetworkState_LinkQualityChanged
+                0x0000000000250420                g_arsdk_cmd_desc_Powerup_NetworkState_AllWifiAuthChannelChanged
+                0x0000000000250460                g_arsdk_cmd_desc_Powerup_NetworkState_WifiAuthChannelListChanged
+                0x0000000000250500                g_arsdk_cmd_desc_Powerup_NetworkState_AllWifiScanChanged
+                0x0000000000250540                g_arsdk_cmd_desc_Powerup_NetworkState_WifiScanListChanged
+                0x0000000000250600                g_arsdk_cmd_desc_Powerup_NetworkSettingsState_WifiSelectionChanged
+                0x00000000002506a0                g_arsdk_cmd_desc_Powerup_MediaRecordEvent_VideoEventChanged
+                0x0000000000250720                g_arsdk_cmd_desc_Powerup_MediaRecordEvent_PictureEventChanged
+                0x00000000002507a0                g_arsdk_cmd_desc_Powerup_MediaRecordState_VideoStateChangedV2
+                0x0000000000250820                g_arsdk_cmd_desc_Powerup_MediaRecordState_PictureStateChangedV2
+                0x00000000002508a0                g_arsdk_cmd_desc_Powerup_PilotingSettingsState_SettingChanged
+                0x0000000000250980                g_arsdk_cmd_desc_Powerup_PilotingState_AltitudeChanged
+                0x00000000002509e0                g_arsdk_cmd_desc_Powerup_PilotingState_AttitudeChanged
+                0x0000000000250a80                g_arsdk_cmd_desc_Powerup_PilotingState_MotorModeChanged
+                0x0000000000250ae0                g_arsdk_cmd_desc_Powerup_PilotingState_FlyingStateChanged
+                0x0000000000250b40                g_arsdk_cmd_desc_Powerup_PilotingState_AlertStateChanged
+                0x0000000000250ba0                g_arsdk_cmd_desc_Powerup_Sounds_Buzz
+                0x0000000000250c00                g_arsdk_cmd_desc_Powerup_VideoSettings_VideoMode
+                0x0000000000250c60                g_arsdk_cmd_desc_Powerup_VideoSettings_Autorecord
+                0x0000000000250cc0                g_arsdk_cmd_desc_Powerup_MediaStreaming_VideoEnable
+                0x0000000000250d20                g_arsdk_cmd_desc_Powerup_Network_WifiAuthChannel
+                0x0000000000250d60                g_arsdk_cmd_desc_Powerup_Network_WifiScan
+                0x0000000000250dc0                g_arsdk_cmd_desc_Powerup_NetworkSettings_WifiSelection
+                0x0000000000250e60                g_arsdk_cmd_desc_Powerup_MediaRecord_VideoV2
+                0x0000000000250ec0                g_arsdk_cmd_desc_Powerup_MediaRecord_PictureV2
+                0x0000000000250f00                g_arsdk_cmd_desc_Powerup_PilotingSettings_Set
+                0x0000000000250f80                g_arsdk_cmd_desc_Powerup_Piloting_MotorMode
+                0x0000000000250fe0                g_arsdk_cmd_desc_Powerup_Piloting_UserTakeOff
+                0x0000000000251040                g_arsdk_cmd_desc_Powerup_Piloting_PCMD
+                0x00000000002518a0                g_arsdk_cmd_desc_Skyctrl_CommonEventState_Shutdown
+                0x0000000000251900                g_arsdk_cmd_desc_Skyctrl_ButtonEvents_Settings
+                0x0000000000251940                g_arsdk_cmd_desc_Skyctrl_CalibrationState_MagnetoCalibrationStateV2
+                0x00000000002519a0                g_arsdk_cmd_desc_Skyctrl_CalibrationState_MagnetoCalibrationQualityUpdatesState
+                0x0000000000251a00                g_arsdk_cmd_desc_Skyctrl_CalibrationState_MagnetoCalibrationState
+                0x0000000000251ac0                g_arsdk_cmd_desc_Skyctrl_CoPilotingState_PilotingSource
+                0x0000000000251b20                g_arsdk_cmd_desc_Skyctrl_AxisFiltersState_AllPresetFiltersSent
+                0x0000000000251b60                g_arsdk_cmd_desc_Skyctrl_AxisFiltersState_PresetAxisFilters
+                0x0000000000251be0                g_arsdk_cmd_desc_Skyctrl_AxisFiltersState_AllCurrentFiltersSent
+                0x0000000000251c20                g_arsdk_cmd_desc_Skyctrl_AxisFiltersState_CurrentAxisFilters
+                0x0000000000251ca0                g_arsdk_cmd_desc_Skyctrl_AxisMappingsState_AllAvailableAxisMappingsSent
+                0x0000000000251ce0                g_arsdk_cmd_desc_Skyctrl_AxisMappingsState_AvailableAxisMappings
+                0x0000000000251d60                g_arsdk_cmd_desc_Skyctrl_AxisMappingsState_AllCurrentAxisMappingsSent
+                0x0000000000251da0                g_arsdk_cmd_desc_Skyctrl_AxisMappingsState_CurrentAxisMappings
+                0x0000000000251e20                g_arsdk_cmd_desc_Skyctrl_ButtonMappingsState_AllAvailableButtonsMappingsSent
+                0x0000000000251e60                g_arsdk_cmd_desc_Skyctrl_ButtonMappingsState_AvailableButtonMappings
+                0x0000000000251ee0                g_arsdk_cmd_desc_Skyctrl_ButtonMappingsState_AllCurrentButtonMappingsSent
+                0x0000000000251f20                g_arsdk_cmd_desc_Skyctrl_ButtonMappingsState_CurrentButtonMappings
+                0x0000000000251fa0                g_arsdk_cmd_desc_Skyctrl_GamepadInfosState_AllGamepadControlsSent
+                0x0000000000251fe0                g_arsdk_cmd_desc_Skyctrl_GamepadInfosState_GamepadControl
+                0x0000000000252080                g_arsdk_cmd_desc_Skyctrl_AccessPointSettingsState_WifiSecurityChanged
+                0x0000000000252100                g_arsdk_cmd_desc_Skyctrl_AccessPointSettingsState_WifiSelectionChanged
+                0x00000000002521a0                g_arsdk_cmd_desc_Skyctrl_AccessPointSettingsState_AccessPointChannelChanged
+                0x0000000000252200                g_arsdk_cmd_desc_Skyctrl_AccessPointSettingsState_AccessPointSSIDChanged
+                0x0000000000252260                g_arsdk_cmd_desc_Skyctrl_SkyControllerState_AttitudeChanged
+                0x0000000000252320                g_arsdk_cmd_desc_Skyctrl_SkyControllerState_BatteryState
+                0x0000000000252380                g_arsdk_cmd_desc_Skyctrl_SkyControllerState_GpsPositionChanged
+                0x0000000000252440                g_arsdk_cmd_desc_Skyctrl_SkyControllerState_GpsFixChanged
+                0x00000000002524a0                g_arsdk_cmd_desc_Skyctrl_SkyControllerState_BatteryChanged
+                0x0000000000252500                g_arsdk_cmd_desc_Skyctrl_CommonState_CurrentDateTimeChanged
+                0x0000000000252560                g_arsdk_cmd_desc_Skyctrl_CommonState_AllStatesChanged
+                0x00000000002525a0                g_arsdk_cmd_desc_Skyctrl_SettingsState_CPUID
+                0x0000000000252600                g_arsdk_cmd_desc_Skyctrl_SettingsState_ProductVersionChanged
+                0x0000000000252680                g_arsdk_cmd_desc_Skyctrl_SettingsState_ProductVariantChanged
+                0x00000000002526e0                g_arsdk_cmd_desc_Skyctrl_SettingsState_ProductSerialChanged
+                0x0000000000252740                g_arsdk_cmd_desc_Skyctrl_SettingsState_ResetChanged
+                0x0000000000252780                g_arsdk_cmd_desc_Skyctrl_SettingsState_AllSettingsChanged
+                0x00000000002527c0                g_arsdk_cmd_desc_Skyctrl_DeviceState_ConnexionChanged
+                0x0000000000252860                g_arsdk_cmd_desc_Skyctrl_DeviceState_DeviceList
+                0x00000000002528c0                g_arsdk_cmd_desc_Skyctrl_WifiState_WifiEnvironmentChanged
+                0x0000000000252920                g_arsdk_cmd_desc_Skyctrl_WifiState_WifiCountryChanged
+                0x0000000000252980                g_arsdk_cmd_desc_Skyctrl_WifiState_WifiAuthChannelListChangedV2
+                0x0000000000252a40                g_arsdk_cmd_desc_Skyctrl_WifiState_WifiSignalChanged
+                0x0000000000252aa0                g_arsdk_cmd_desc_Skyctrl_WifiState_AllWifiAuthChannelChanged
+                0x0000000000252ae0                g_arsdk_cmd_desc_Skyctrl_WifiState_WifiAuthChannelListChanged
+                0x0000000000252b80                g_arsdk_cmd_desc_Skyctrl_WifiState_ConnexionChanged
+                0x0000000000252c00                g_arsdk_cmd_desc_Skyctrl_WifiState_WifiList
+                0x0000000000252d00                g_arsdk_cmd_desc_Skyctrl_Factory_Reset
+                0x0000000000252d40                g_arsdk_cmd_desc_Skyctrl_Calibration_AbortCalibration
+                0x0000000000252d80                g_arsdk_cmd_desc_Skyctrl_Calibration_StartCalibration
+                0x0000000000252dc0                g_arsdk_cmd_desc_Skyctrl_Calibration_EnableMagnetoCalibrationQualityUpdates
+                0x0000000000252e20                g_arsdk_cmd_desc_Skyctrl_CoPiloting_SetPilotingSource
+                0x0000000000252e80                g_arsdk_cmd_desc_Skyctrl_AxisFilters_DefaultAxisFilters
+                0x0000000000252ec0                g_arsdk_cmd_desc_Skyctrl_AxisFilters_SetAxisFilter
+                0x0000000000252f40                g_arsdk_cmd_desc_Skyctrl_AxisFilters_GetPresetAxisFilters
+                0x0000000000252f80                g_arsdk_cmd_desc_Skyctrl_AxisFilters_GetCurrentAxisFilters
+                0x0000000000252fc0                g_arsdk_cmd_desc_Skyctrl_AxisMappings_DefaultAxisMapping
+                0x0000000000253000                g_arsdk_cmd_desc_Skyctrl_AxisMappings_SetAxisMapping
+                0x0000000000253080                g_arsdk_cmd_desc_Skyctrl_AxisMappings_GetAvailableAxisMappings
+                0x00000000002530c0                g_arsdk_cmd_desc_Skyctrl_AxisMappings_GetCurrentAxisMappings
+                0x0000000000253100                g_arsdk_cmd_desc_Skyctrl_ButtonMappings_DefaultButtonMapping
+                0x0000000000253140                g_arsdk_cmd_desc_Skyctrl_ButtonMappings_SetButtonMapping
+                0x00000000002531c0                g_arsdk_cmd_desc_Skyctrl_ButtonMappings_GetAvailableButtonMappings
+                0x0000000000253200                g_arsdk_cmd_desc_Skyctrl_ButtonMappings_GetCurrentButtonMappings
+                0x0000000000253240                g_arsdk_cmd_desc_Skyctrl_GamepadInfos_GetGamepadControls
+                0x0000000000253280                g_arsdk_cmd_desc_Skyctrl_Camera_ResetOrientation
+                0x00000000002532c0                g_arsdk_cmd_desc_Skyctrl_AccessPointSettings_WifiSecurity
+                0x0000000000253340                g_arsdk_cmd_desc_Skyctrl_AccessPointSettings_WifiSelection
+                0x00000000002533e0                g_arsdk_cmd_desc_Skyctrl_AccessPointSettings_AccessPointChannel
+                0x0000000000253440                g_arsdk_cmd_desc_Skyctrl_AccessPointSettings_AccessPointSSID
+                0x00000000002534a0                g_arsdk_cmd_desc_Skyctrl_Common_CurrentDateTime
+                0x0000000000253500                g_arsdk_cmd_desc_Skyctrl_Common_AllStates
+                0x0000000000253540                g_arsdk_cmd_desc_Skyctrl_Settings_Reset
+                0x0000000000253580                g_arsdk_cmd_desc_Skyctrl_Settings_AllSettings
+                0x00000000002535c0                g_arsdk_cmd_desc_Skyctrl_Device_ConnectToDevice
+                0x0000000000253620                g_arsdk_cmd_desc_Skyctrl_Device_RequestCurrentDevice
+                0x0000000000253660                g_arsdk_cmd_desc_Skyctrl_Device_RequestDeviceList
+                0x00000000002536a0                g_arsdk_cmd_desc_Skyctrl_Wifi_WifiAuthChannel
+                0x00000000002536e0                g_arsdk_cmd_desc_Skyctrl_Wifi_ForgetWifi
+                0x0000000000253740                g_arsdk_cmd_desc_Skyctrl_Wifi_ConnectToWifi
+                0x00000000002537e0                g_arsdk_cmd_desc_Skyctrl_Wifi_RequestCurrentWifi
+                0x0000000000253820                g_arsdk_cmd_desc_Skyctrl_Wifi_RequestWifiList
+                0x0000000000253bc0                g_arsdk_cmd_desc_Jpsumo_VideoSettingsState_AutorecordChanged
+                0x0000000000253c20                g_arsdk_cmd_desc_Jpsumo_MediaStreamingState_VideoEnableChanged
+                0x0000000000253c80                g_arsdk_cmd_desc_Jpsumo_SpeedSettingsState_OutdoorChanged
+                0x0000000000253ce0                g_arsdk_cmd_desc_Jpsumo_RoadPlanState_PlayScriptChanged
+                0x0000000000253d40                g_arsdk_cmd_desc_Jpsumo_RoadPlanState_ScriptDeleteChanged
+                0x0000000000253da0                g_arsdk_cmd_desc_Jpsumo_RoadPlanState_ScriptUploadChanged
+                0x0000000000253e00                g_arsdk_cmd_desc_Jpsumo_RoadPlanState_AllScriptsMetadataChanged
+                0x0000000000253e40                g_arsdk_cmd_desc_Jpsumo_RoadPlanState_ScriptMetadataListChanged
+                0x0000000000253f20                g_arsdk_cmd_desc_Jpsumo_AudioSettingsState_ThemeChanged
+                0x0000000000253f80                g_arsdk_cmd_desc_Jpsumo_AudioSettingsState_MasterVolumeChanged
+                0x0000000000253fe0                g_arsdk_cmd_desc_Jpsumo_NetworkState_LinkQualityChanged
+                0x0000000000254040                g_arsdk_cmd_desc_Jpsumo_NetworkState_AllWifiAuthChannelChanged
+                0x0000000000254080                g_arsdk_cmd_desc_Jpsumo_NetworkState_WifiAuthChannelListChanged
+                0x0000000000254120                g_arsdk_cmd_desc_Jpsumo_NetworkState_AllWifiScanChanged
+                0x0000000000254160                g_arsdk_cmd_desc_Jpsumo_NetworkState_WifiScanListChanged
+                0x0000000000254220                g_arsdk_cmd_desc_Jpsumo_NetworkSettingsState_WifiSelectionChanged
+                0x00000000002542c0                g_arsdk_cmd_desc_Jpsumo_MediaRecordEvent_VideoEventChanged
+                0x0000000000254340                g_arsdk_cmd_desc_Jpsumo_MediaRecordEvent_PictureEventChanged
+                0x00000000002543c0                g_arsdk_cmd_desc_Jpsumo_MediaRecordState_VideoStateChangedV2
+                0x0000000000254440                g_arsdk_cmd_desc_Jpsumo_MediaRecordState_PictureStateChangedV2
+                0x00000000002544c0                g_arsdk_cmd_desc_Jpsumo_MediaRecordState_VideoStateChanged
+                0x0000000000254540                g_arsdk_cmd_desc_Jpsumo_MediaRecordState_PictureStateChanged
+                0x00000000002545c0                g_arsdk_cmd_desc_Jpsumo_SettingsState_ProductGPSVersionChanged
+                0x0000000000254640                g_arsdk_cmd_desc_Jpsumo_AnimationsState_JumpMotorProblemChanged
+                0x00000000002546a0                g_arsdk_cmd_desc_Jpsumo_AnimationsState_JumpTypeChanged
+                0x0000000000254700                g_arsdk_cmd_desc_Jpsumo_AnimationsState_JumpLoadChanged
+                0x0000000000254760                g_arsdk_cmd_desc_Jpsumo_PilotingState_SpeedChanged
+                0x00000000002547e0                g_arsdk_cmd_desc_Jpsumo_PilotingState_AlertStateChanged
+                0x0000000000254840                g_arsdk_cmd_desc_Jpsumo_PilotingState_PostureChanged
+                0x00000000002548a0                g_arsdk_cmd_desc_Jpsumo_VideoSettings_Autorecord
+                0x0000000000254900                g_arsdk_cmd_desc_Jpsumo_MediaStreaming_VideoEnable
+                0x0000000000254960                g_arsdk_cmd_desc_Jpsumo_SpeedSettings_Outdoor
+                0x00000000002549c0                g_arsdk_cmd_desc_Jpsumo_RoadPlan_PlayScript
+                0x0000000000254a20                g_arsdk_cmd_desc_Jpsumo_RoadPlan_ScriptDelete
+                0x0000000000254a80                g_arsdk_cmd_desc_Jpsumo_RoadPlan_ScriptUploaded
+                0x0000000000254b00                g_arsdk_cmd_desc_Jpsumo_RoadPlan_AllScriptsMetadata
+                0x0000000000254b40                g_arsdk_cmd_desc_Jpsumo_AudioSettings_Theme
+                0x0000000000254ba0                g_arsdk_cmd_desc_Jpsumo_AudioSettings_MasterVolume
+                0x0000000000254c00                g_arsdk_cmd_desc_Jpsumo_Network_WifiAuthChannel
+                0x0000000000254c40                g_arsdk_cmd_desc_Jpsumo_Network_WifiScan
+                0x0000000000254ca0                g_arsdk_cmd_desc_Jpsumo_NetworkSettings_WifiSelection
+                0x0000000000254d40                g_arsdk_cmd_desc_Jpsumo_MediaRecord_VideoV2
+                0x0000000000254da0                g_arsdk_cmd_desc_Jpsumo_MediaRecord_PictureV2
+                0x0000000000254de0                g_arsdk_cmd_desc_Jpsumo_MediaRecord_Video
+                0x0000000000254e60                g_arsdk_cmd_desc_Jpsumo_MediaRecord_Picture
+                0x0000000000254ec0                g_arsdk_cmd_desc_Jpsumo_Animations_SimpleAnimation
+                0x0000000000254f20                g_arsdk_cmd_desc_Jpsumo_Animations_Jump
+                0x0000000000254f80                g_arsdk_cmd_desc_Jpsumo_Animations_JumpLoad
+                0x0000000000254fc0                g_arsdk_cmd_desc_Jpsumo_Animations_JumpCancel
+                0x0000000000255000                g_arsdk_cmd_desc_Jpsumo_Animations_JumpStop
+                0x0000000000255040                g_arsdk_cmd_desc_Jpsumo_Piloting_AddCapOffset
+                0x00000000002550a0                g_arsdk_cmd_desc_Jpsumo_Piloting_Posture
+                0x0000000000255100                g_arsdk_cmd_desc_Jpsumo_Piloting_PCMD
+                0x0000000000255a20                g_arsdk_cmd_desc_Minidrone_RemoteControllerState_BatteryLevel
+                0x0000000000255a80                g_arsdk_cmd_desc_Minidrone_RemoteControllerState_RawCommands
+                0x0000000000255b60                g_arsdk_cmd_desc_Minidrone_RemoteControllerState_RawMode
+                0x0000000000255bc0                g_arsdk_cmd_desc_Minidrone_RemoteControllerState_TakePictureButtonPressed
+                0x0000000000255c00                g_arsdk_cmd_desc_Minidrone_RemoteControllerState_RecordButtonPressed
+                0x0000000000255c40                g_arsdk_cmd_desc_Minidrone_RemoteControllerState_ConnectionChanged
+                0x0000000000255ca0                g_arsdk_cmd_desc_Minidrone_VideoSettingsState_VideoResolutionChanged
+                0x0000000000255d00                g_arsdk_cmd_desc_Minidrone_VideoSettingsState_ElectricFrequencyChanged
+                0x0000000000255d60                g_arsdk_cmd_desc_Minidrone_VideoSettingsState_AutorecordChanged
+                0x0000000000255dc0                g_arsdk_cmd_desc_Minidrone_MinicamState_MassStorageFormatChanged
+                0x0000000000255e20                g_arsdk_cmd_desc_Minidrone_MinicamState_VideoStateChanged
+                0x0000000000255ea0                g_arsdk_cmd_desc_Minidrone_MinicamState_PictureChanged
+                0x0000000000255f20                g_arsdk_cmd_desc_Minidrone_MinicamState_VersionChanged
+                0x0000000000255fa0                g_arsdk_cmd_desc_Minidrone_MinicamState_StateChanged
+                0x0000000000256000                g_arsdk_cmd_desc_Minidrone_MinicamState_ProductSerialChanged
+                0x0000000000256060                g_arsdk_cmd_desc_Minidrone_MinicamState_PowerModeChanged
+                0x00000000002560c0                g_arsdk_cmd_desc_Minidrone_NavigationDataState_DroneQuaternion
+                0x00000000002561a0                g_arsdk_cmd_desc_Minidrone_NavigationDataState_DroneAltitude
+                0x0000000000256220                g_arsdk_cmd_desc_Minidrone_NavigationDataState_DroneSpeed
+                0x00000000002562e0                g_arsdk_cmd_desc_Minidrone_NavigationDataState_DronePosition
+                0x00000000002563c0                g_arsdk_cmd_desc_Minidrone_UsbAccessoryState_GunState
+                0x0000000000256460                g_arsdk_cmd_desc_Minidrone_UsbAccessoryState_ClawState
+                0x0000000000256500                g_arsdk_cmd_desc_Minidrone_UsbAccessoryState_LightState
+                0x00000000002565c0                g_arsdk_cmd_desc_Minidrone_FloodControlState_FloodControlChanged
+                0x0000000000256620                g_arsdk_cmd_desc_Minidrone_SettingsState_CutOutModeChanged
+                0x0000000000256680                g_arsdk_cmd_desc_Minidrone_SettingsState_ProductInertialVersionChanged
+                0x0000000000256700                g_arsdk_cmd_desc_Minidrone_SettingsState_ProductMotorsVersionChanged
+                0x00000000002567c0                g_arsdk_cmd_desc_Minidrone_SpeedSettingsState_MaxPlaneModeRotationSpeedChanged
+                0x0000000000256860                g_arsdk_cmd_desc_Minidrone_SpeedSettingsState_MaxHorizontalSpeedChanged
+                0x0000000000256900                g_arsdk_cmd_desc_Minidrone_SpeedSettingsState_WheelsChanged
+                0x0000000000256960                g_arsdk_cmd_desc_Minidrone_SpeedSettingsState_MaxRotationSpeedChanged
+                0x0000000000256a00                g_arsdk_cmd_desc_Minidrone_SpeedSettingsState_MaxVerticalSpeedChanged
+                0x0000000000256aa0                g_arsdk_cmd_desc_Minidrone_PilotingSettingsState_PreferredPilotingModeChanged
+                0x0000000000256b00                g_arsdk_cmd_desc_Minidrone_PilotingSettingsState_MaxThrottleChanged
+                0x0000000000256b60                g_arsdk_cmd_desc_Minidrone_PilotingSettingsState_BankedTurnChanged
+                0x0000000000256bc0                g_arsdk_cmd_desc_Minidrone_PilotingSettingsState_MaxTiltChanged
+                0x0000000000256c60                g_arsdk_cmd_desc_Minidrone_PilotingSettingsState_MaxAltitudeChanged
+                0x0000000000256d00                g_arsdk_cmd_desc_Minidrone_MediaRecordEvent_PictureEventChanged
+                0x0000000000256d80                g_arsdk_cmd_desc_Minidrone_MediaRecordState_PictureStateChangedV2
+                0x0000000000256e00                g_arsdk_cmd_desc_Minidrone_MediaRecordState_PictureStateChanged
+                0x0000000000256e80                g_arsdk_cmd_desc_Minidrone_PilotingState_PilotingModeChanged
+                0x0000000000256ee0                g_arsdk_cmd_desc_Minidrone_PilotingState_PlaneGearBoxChanged
+                0x0000000000256f40                g_arsdk_cmd_desc_Minidrone_PilotingState_FlyingModeChanged
+                0x0000000000256fa0                g_arsdk_cmd_desc_Minidrone_PilotingState_AutoTakeOffModeChanged
+                0x0000000000257000                g_arsdk_cmd_desc_Minidrone_PilotingState_AlertStateChanged
+                0x0000000000257060                g_arsdk_cmd_desc_Minidrone_PilotingState_FlyingStateChanged
+                0x00000000002570c0                g_arsdk_cmd_desc_Minidrone_PilotingState_FlatTrimChanged
+                0x0000000000257100                g_arsdk_cmd_desc_Minidrone_Minicam_MassStorageFormat
+                0x0000000000257140                g_arsdk_cmd_desc_Minidrone_Minicam_Video
+                0x00000000002571a0                g_arsdk_cmd_desc_Minidrone_Minicam_Picture
+                0x00000000002571e0                g_arsdk_cmd_desc_Minidrone_VideoSettings_VideoResolution
+                0x0000000000257240                g_arsdk_cmd_desc_Minidrone_VideoSettings_ElectricFrequency
+                0x00000000002572a0                g_arsdk_cmd_desc_Minidrone_VideoSettings_Autorecord
+                0x0000000000257300                g_arsdk_cmd_desc_Minidrone_RemoteController_RawMode
+                0x0000000000257360                g_arsdk_cmd_desc_Minidrone_RemoteController_SetPairedRemote
+                0x0000000000257400                g_arsdk_cmd_desc_Minidrone_UsbAccessory_GunControl
+                0x0000000000257480                g_arsdk_cmd_desc_Minidrone_UsbAccessory_ClawControl
+                0x0000000000257500                g_arsdk_cmd_desc_Minidrone_UsbAccessory_LightControl
+                0x00000000002575a0                g_arsdk_cmd_desc_Minidrone_Configuration_ControllerName
+                0x0000000000257600                g_arsdk_cmd_desc_Minidrone_Configuration_ControllerType
+                0x0000000000257660                g_arsdk_cmd_desc_Minidrone_GPS_ControllerLongitudeForRun
+                0x00000000002576c0                g_arsdk_cmd_desc_Minidrone_GPS_ControllerLatitudeForRun
+                0x0000000000257720                g_arsdk_cmd_desc_Minidrone_Settings_CutOutMode
+                0x0000000000257780                g_arsdk_cmd_desc_Minidrone_SpeedSettings_MaxPlaneModeRotationSpeed
+                0x00000000002577e0                g_arsdk_cmd_desc_Minidrone_SpeedSettings_MaxHorizontalSpeed
+                0x0000000000257840                g_arsdk_cmd_desc_Minidrone_SpeedSettings_Wheels
+                0x00000000002578a0                g_arsdk_cmd_desc_Minidrone_SpeedSettings_MaxRotationSpeed
+                0x0000000000257900                g_arsdk_cmd_desc_Minidrone_SpeedSettings_MaxVerticalSpeed
+                0x0000000000257960                g_arsdk_cmd_desc_Minidrone_PilotingSettings_PreferredPilotingMode
+                0x00000000002579c0                g_arsdk_cmd_desc_Minidrone_PilotingSettings_MaxThrottle
+                0x0000000000257a20                g_arsdk_cmd_desc_Minidrone_PilotingSettings_BankedTurn
+                0x0000000000257a80                g_arsdk_cmd_desc_Minidrone_PilotingSettings_MaxTilt
+                0x0000000000257ae0                g_arsdk_cmd_desc_Minidrone_PilotingSettings_MaxAltitude
+                0x0000000000257b40                g_arsdk_cmd_desc_Minidrone_MediaRecord_PictureV2
+                0x0000000000257b80                g_arsdk_cmd_desc_Minidrone_MediaRecord_Picture
+                0x0000000000257be0                g_arsdk_cmd_desc_Minidrone_Animations_Cap
+                0x0000000000257c40                g_arsdk_cmd_desc_Minidrone_Animations_Flip
+                0x0000000000257ca0                g_arsdk_cmd_desc_Minidrone_Piloting_TogglePilotingMode
+                0x0000000000257ce0                g_arsdk_cmd_desc_Minidrone_Piloting_PlaneGearBox
+                0x0000000000257d40                g_arsdk_cmd_desc_Minidrone_Piloting_FlyingMode
+                0x0000000000257da0                g_arsdk_cmd_desc_Minidrone_Piloting_AutoTakeOffMode
+                0x0000000000257e00                g_arsdk_cmd_desc_Minidrone_Piloting_Emergency
+                0x0000000000257e40                g_arsdk_cmd_desc_Minidrone_Piloting_Landing
+                0x0000000000257e80                g_arsdk_cmd_desc_Minidrone_Piloting_PCMD
+                0x0000000000257f80                g_arsdk_cmd_desc_Minidrone_Piloting_TakeOff
+                0x0000000000257fc0                g_arsdk_cmd_desc_Minidrone_Piloting_FlatTrim
+                0x00000000002587c0                g_arsdk_cmd_desc_Ardrone3_SoundState_AlertSound
+                0x0000000000258820                g_arsdk_cmd_desc_Ardrone3_AccessoryState_Battery
+                0x00000000002588c0                g_arsdk_cmd_desc_Ardrone3_AccessoryState_ConnectedAccessories
+                0x00000000002589a0                g_arsdk_cmd_desc_Ardrone3_PROState_Features
+                0x0000000000258a00                g_arsdk_cmd_desc_Ardrone3_GPSState_HomeTypeChosenChanged
+                0x0000000000258a60                g_arsdk_cmd_desc_Ardrone3_GPSState_HomeTypeAvailabilityChanged
+                0x0000000000258ae0                g_arsdk_cmd_desc_Ardrone3_GPSState_NumberOfSatelliteChanged
+                0x0000000000258b40                g_arsdk_cmd_desc_Ardrone3_AntiflickeringState_ModeChanged
+                0x0000000000258ba0                g_arsdk_cmd_desc_Ardrone3_AntiflickeringState_ElectricFrequencyChanged
+                0x0000000000258c00                g_arsdk_cmd_desc_Ardrone3_CameraState_VelocityRange
+                0x0000000000258c80                g_arsdk_cmd_desc_Ardrone3_CameraState_DefaultCameraOrientationV2
+                0x0000000000258d00                g_arsdk_cmd_desc_Ardrone3_CameraState_OrientationV2
+                0x0000000000258d80                g_arsdk_cmd_desc_Ardrone3_CameraState_DefaultCameraOrientation
+                0x0000000000258e00                g_arsdk_cmd_desc_Ardrone3_CameraState_Orientation
+                0x0000000000258e80                g_arsdk_cmd_desc_Ardrone3_GPSSettingsState_ReturnHomeMinAltitudeChanged
+                0x0000000000258f20                g_arsdk_cmd_desc_Ardrone3_GPSSettingsState_GeofenceCenterChanged
+                0x0000000000258fa0                g_arsdk_cmd_desc_Ardrone3_GPSSettingsState_ReturnHomeDelayChanged
+                0x0000000000259000                g_arsdk_cmd_desc_Ardrone3_GPSSettingsState_HomeTypeChanged
+                0x0000000000259060                g_arsdk_cmd_desc_Ardrone3_GPSSettingsState_GPSUpdateStateChanged
+                0x00000000002590c0                g_arsdk_cmd_desc_Ardrone3_GPSSettingsState_GPSFixStateChanged
+                0x0000000000259120                g_arsdk_cmd_desc_Ardrone3_GPSSettingsState_ResetHomeChanged
+                0x00000000002591c0                g_arsdk_cmd_desc_Ardrone3_GPSSettingsState_HomeChanged
+                0x0000000000259260                g_arsdk_cmd_desc_Ardrone3_MediaStreamingState_VideoStreamModeChanged
+                0x00000000002592c0                g_arsdk_cmd_desc_Ardrone3_MediaStreamingState_VideoEnableChanged
+                0x0000000000259320                g_arsdk_cmd_desc_Ardrone3_PictureSettingsState_VideoResolutionsChanged
+                0x0000000000259380                g_arsdk_cmd_desc_Ardrone3_PictureSettingsState_VideoFramerateChanged
+                0x00000000002593e0                g_arsdk_cmd_desc_Ardrone3_PictureSettingsState_VideoRecordingModeChanged
+                0x0000000000259440                g_arsdk_cmd_desc_Ardrone3_PictureSettingsState_VideoStabilizationModeChanged
+                0x00000000002594a0                g_arsdk_cmd_desc_Ardrone3_PictureSettingsState_VideoAutorecordChanged
+                0x0000000000259520                g_arsdk_cmd_desc_Ardrone3_PictureSettingsState_TimelapseChanged
+                0x00000000002595e0                g_arsdk_cmd_desc_Ardrone3_PictureSettingsState_SaturationChanged
+                0x0000000000259680                g_arsdk_cmd_desc_Ardrone3_PictureSettingsState_ExpositionChanged
+                0x0000000000259720                g_arsdk_cmd_desc_Ardrone3_PictureSettingsState_AutoWhiteBalanceChanged
+                0x0000000000259780                g_arsdk_cmd_desc_Ardrone3_PictureSettingsState_PictureFormatChanged
+                0x00000000002597e0                g_arsdk_cmd_desc_Ardrone3_SettingsState_CPUID
+                0x0000000000259840                g_arsdk_cmd_desc_Ardrone3_SettingsState_P7ID
+                0x00000000002598a0                g_arsdk_cmd_desc_Ardrone3_SettingsState_MotorErrorLastErrorChanged
+                0x0000000000259900                g_arsdk_cmd_desc_Ardrone3_SettingsState_MotorFlightsStatusChanged
+                0x00000000002599a0                g_arsdk_cmd_desc_Ardrone3_SettingsState_MotorSoftwareVersionChanged
+                0x0000000000259a00                g_arsdk_cmd_desc_Ardrone3_SettingsState_MotorErrorStateChanged
+                0x0000000000259a80                g_arsdk_cmd_desc_Ardrone3_SettingsState_ProductGPSVersionChanged
+                0x0000000000259b00                g_arsdk_cmd_desc_Ardrone3_SettingsState_ProductMotorVersionListChanged
+                0x0000000000259bc0                g_arsdk_cmd_desc_Ardrone3_NetworkSettingsState_WifiSecurity
+                0x0000000000259c60                g_arsdk_cmd_desc_Ardrone3_NetworkSettingsState_WifiSecurityChanged
+                0x0000000000259cc0                g_arsdk_cmd_desc_Ardrone3_NetworkSettingsState_WifiSelectionChanged
+                0x0000000000259d60                g_arsdk_cmd_desc_Ardrone3_SpeedSettingsState_MaxPitchRollRotationSpeedChanged
+                0x0000000000259e00                g_arsdk_cmd_desc_Ardrone3_SpeedSettingsState_OutdoorChanged
+                0x0000000000259e60                g_arsdk_cmd_desc_Ardrone3_SpeedSettingsState_HullProtectionChanged
+                0x0000000000259ec0                g_arsdk_cmd_desc_Ardrone3_SpeedSettingsState_MaxRotationSpeedChanged
+                0x0000000000259f60                g_arsdk_cmd_desc_Ardrone3_SpeedSettingsState_MaxVerticalSpeedChanged
+                0x000000000025a000                g_arsdk_cmd_desc_Ardrone3_PilotingSettingsState_MotionDetection
+                0x000000000025a060                g_arsdk_cmd_desc_Ardrone3_PilotingSettingsState_PitchModeChanged
+                0x000000000025a0c0                g_arsdk_cmd_desc_Ardrone3_PilotingSettingsState_CirclingAltitudeChanged
+                0x000000000025a160                g_arsdk_cmd_desc_Ardrone3_PilotingSettingsState_CirclingRadiusChanged
+                0x000000000025a200                g_arsdk_cmd_desc_Ardrone3_PilotingSettingsState_CirclingDirectionChanged
+                0x000000000025a260                g_arsdk_cmd_desc_Ardrone3_PilotingSettingsState_MinAltitudeChanged
+                0x000000000025a300                g_arsdk_cmd_desc_Ardrone3_PilotingSettingsState_BankedTurnChanged
+                0x000000000025a360                g_arsdk_cmd_desc_Ardrone3_PilotingSettingsState_NoFlyOverMaxDistanceChanged
+                0x000000000025a3c0                g_arsdk_cmd_desc_Ardrone3_PilotingSettingsState_MaxDistanceChanged
+                0x000000000025a460                g_arsdk_cmd_desc_Ardrone3_PilotingSettingsState_AbsolutControlChanged
+                0x000000000025a4c0                g_arsdk_cmd_desc_Ardrone3_PilotingSettingsState_MaxTiltChanged
+                0x000000000025a560                g_arsdk_cmd_desc_Ardrone3_PilotingSettingsState_MaxAltitudeChanged
+                0x000000000025a600                g_arsdk_cmd_desc_Ardrone3_NetworkState_AllWifiAuthChannelChanged
+                0x000000000025a640                g_arsdk_cmd_desc_Ardrone3_NetworkState_WifiAuthChannelListChanged
+                0x000000000025a6e0                g_arsdk_cmd_desc_Ardrone3_NetworkState_AllWifiScanChanged
+                0x000000000025a720                g_arsdk_cmd_desc_Ardrone3_NetworkState_WifiScanListChanged
+                0x000000000025a7e0                g_arsdk_cmd_desc_Ardrone3_PilotingEvent_MoveByEnd
+                0x000000000025a8c0                g_arsdk_cmd_desc_Ardrone3_PilotingState_HeadingLockedStateChanged
+                0x000000000025a920                g_arsdk_cmd_desc_Ardrone3_PilotingState_AltitudeAboveGroundChanged
+                0x000000000025a980                g_arsdk_cmd_desc_Ardrone3_PilotingState_VibrationLevelChanged
+                0x000000000025a9e0                g_arsdk_cmd_desc_Ardrone3_PilotingState_WindStateChanged
+                0x000000000025aa40                g_arsdk_cmd_desc_Ardrone3_PilotingState_ForcedLandingAutoTrigger
+                0x000000000025aac0                g_arsdk_cmd_desc_Ardrone3_PilotingState_HoveringWarning
+                0x000000000025ab40                g_arsdk_cmd_desc_Ardrone3_PilotingState_MoveByChanged
+                0x000000000025aca0                g_arsdk_cmd_desc_Ardrone3_PilotingState_ReturnHomeBatteryCapacity
+                0x000000000025ad00                g_arsdk_cmd_desc_Ardrone3_PilotingState_PilotedPOIV2
+                0x000000000025ade0                g_arsdk_cmd_desc_Ardrone3_PilotingState_PilotedPOI
+                0x000000000025aea0                g_arsdk_cmd_desc_Ardrone3_PilotingState_MotionState
+                0x000000000025af00                g_arsdk_cmd_desc_Ardrone3_PilotingState_MoveToChanged
+                0x000000000025b000                g_arsdk_cmd_desc_Ardrone3_PilotingState_AirSpeedChanged
+                0x000000000025b060                g_arsdk_cmd_desc_Ardrone3_PilotingState_LandingStateChanged
+                0x000000000025b0c0                g_arsdk_cmd_desc_Ardrone3_PilotingState_GpsLocationChanged
+                0x000000000025b1c0                g_arsdk_cmd_desc_Ardrone3_PilotingState_AltitudeChanged
+                0x000000000025b220                g_arsdk_cmd_desc_Ardrone3_PilotingState_AttitudeChanged
+                0x000000000025b2c0                g_arsdk_cmd_desc_Ardrone3_PilotingState_SpeedChanged
+                0x000000000025b360                g_arsdk_cmd_desc_Ardrone3_PilotingState_PositionChanged
+                0x000000000025b400                g_arsdk_cmd_desc_Ardrone3_PilotingState_NavigateHomeStateChanged
+                0x000000000025b480                g_arsdk_cmd_desc_Ardrone3_PilotingState_AlertStateChanged
+                0x000000000025b4e0                g_arsdk_cmd_desc_Ardrone3_PilotingState_FlyingStateChanged
+                0x000000000025b540                g_arsdk_cmd_desc_Ardrone3_MediaRecordEvent_VideoEventChanged
+                0x000000000025b5c0                g_arsdk_cmd_desc_Ardrone3_MediaRecordEvent_PictureEventChanged
+                0x000000000025b640                g_arsdk_cmd_desc_Ardrone3_MediaRecordState_VideoResolutionState
+                0x000000000025b6c0                g_arsdk_cmd_desc_Ardrone3_MediaRecordState_VideoStateChangedV2
+                0x000000000025b740                g_arsdk_cmd_desc_Ardrone3_MediaRecordState_PictureStateChangedV2
+                0x000000000025b7c0                g_arsdk_cmd_desc_Ardrone3_MediaRecordState_VideoStateChanged
+                0x000000000025b840                g_arsdk_cmd_desc_Ardrone3_MediaRecordState_PictureStateChanged
+                0x000000000025b8c0                g_arsdk_cmd_desc_Ardrone3_Sound_StopAlertSound
+                0x000000000025b900                g_arsdk_cmd_desc_Ardrone3_Sound_StartAlertSound
+                0x000000000025b940                g_arsdk_cmd_desc_Ardrone3_Antiflickering_SetMode
+                0x000000000025b9a0                g_arsdk_cmd_desc_Ardrone3_Antiflickering_ElectricFrequency
+                0x000000000025ba00                g_arsdk_cmd_desc_Ardrone3_GPSSettings_ReturnHomeMinAltitude
+                0x000000000025ba60                g_arsdk_cmd_desc_Ardrone3_GPSSettings_ReturnHomeDelay
+                0x000000000025bac0                g_arsdk_cmd_desc_Ardrone3_GPSSettings_HomeType
+                0x000000000025bb20                g_arsdk_cmd_desc_Ardrone3_GPSSettings_SendControllerGPS
+                0x000000000025bc00                g_arsdk_cmd_desc_Ardrone3_GPSSettings_ResetHome
+                0x000000000025bc40                g_arsdk_cmd_desc_Ardrone3_GPSSettings_SetHome
+                0x000000000025bce0                g_arsdk_cmd_desc_Ardrone3_MediaStreaming_VideoStreamMode
+                0x000000000025bd40                g_arsdk_cmd_desc_Ardrone3_MediaStreaming_VideoEnable
+                0x000000000025bda0                g_arsdk_cmd_desc_Ardrone3_PictureSettings_VideoResolutions
+                0x000000000025be00                g_arsdk_cmd_desc_Ardrone3_PictureSettings_VideoFramerate
+                0x000000000025be60                g_arsdk_cmd_desc_Ardrone3_PictureSettings_VideoRecordingMode
+                0x000000000025bec0                g_arsdk_cmd_desc_Ardrone3_PictureSettings_VideoStabilizationMode
+                0x000000000025bf20                g_arsdk_cmd_desc_Ardrone3_PictureSettings_VideoAutorecordSelection
+                0x000000000025bfa0                g_arsdk_cmd_desc_Ardrone3_PictureSettings_TimelapseSelection
+                0x000000000025c020                g_arsdk_cmd_desc_Ardrone3_PictureSettings_SaturationSelection
+                0x000000000025c080                g_arsdk_cmd_desc_Ardrone3_PictureSettings_ExpositionSelection
+                0x000000000025c0e0                g_arsdk_cmd_desc_Ardrone3_PictureSettings_AutoWhiteBalanceSelection
+                0x000000000025c140                g_arsdk_cmd_desc_Ardrone3_PictureSettings_PictureFormatSelection
+                0x000000000025c1a0                g_arsdk_cmd_desc_Ardrone3_NetworkSettings_WifiSecurity
+                0x000000000025c240                g_arsdk_cmd_desc_Ardrone3_NetworkSettings_WifiSelection
+                0x000000000025c2e0                g_arsdk_cmd_desc_Ardrone3_SpeedSettings_MaxPitchRollRotationSpeed
+                0x000000000025c340                g_arsdk_cmd_desc_Ardrone3_SpeedSettings_Outdoor
+                0x000000000025c3a0                g_arsdk_cmd_desc_Ardrone3_SpeedSettings_HullProtection
+                0x000000000025c400                g_arsdk_cmd_desc_Ardrone3_SpeedSettings_MaxRotationSpeed
+                0x000000000025c460                g_arsdk_cmd_desc_Ardrone3_SpeedSettings_MaxVerticalSpeed
+                0x000000000025c4c0                g_arsdk_cmd_desc_Ardrone3_PilotingSettings_SetMotionDetectionMode
+                0x000000000025c520                g_arsdk_cmd_desc_Ardrone3_PilotingSettings_PitchMode
+                0x000000000025c580                g_arsdk_cmd_desc_Ardrone3_PilotingSettings_CirclingAltitude
+                0x000000000025c5e0                g_arsdk_cmd_desc_Ardrone3_PilotingSettings_CirclingRadius
+                0x000000000025c640                g_arsdk_cmd_desc_Ardrone3_PilotingSettings_CirclingDirection
+                0x000000000025c6a0                g_arsdk_cmd_desc_Ardrone3_PilotingSettings_MinAltitude
+                0x000000000025c700                g_arsdk_cmd_desc_Ardrone3_PilotingSettings_BankedTurn
+                0x000000000025c760                g_arsdk_cmd_desc_Ardrone3_PilotingSettings_NoFlyOverMaxDistance
+                0x000000000025c7c0                g_arsdk_cmd_desc_Ardrone3_PilotingSettings_MaxDistance
+                0x000000000025c820                g_arsdk_cmd_desc_Ardrone3_PilotingSettings_AbsolutControl
+                0x000000000025c880                g_arsdk_cmd_desc_Ardrone3_PilotingSettings_MaxTilt
+                0x000000000025c8e0                g_arsdk_cmd_desc_Ardrone3_PilotingSettings_MaxAltitude
+                0x000000000025c940                g_arsdk_cmd_desc_Ardrone3_Network_WifiAuthChannel
+                0x000000000025c980                g_arsdk_cmd_desc_Ardrone3_Network_WifiScan
+                0x000000000025c9e0                g_arsdk_cmd_desc_Ardrone3_MediaRecord_VideoV2
+                0x000000000025ca40                g_arsdk_cmd_desc_Ardrone3_MediaRecord_PictureV2
+                0x000000000025ca80                g_arsdk_cmd_desc_Ardrone3_MediaRecord_Video
+                0x000000000025cb00                g_arsdk_cmd_desc_Ardrone3_MediaRecord_Picture
+                0x000000000025cb60                g_arsdk_cmd_desc_Ardrone3_Camera_Velocity
+                0x000000000025cbe0                g_arsdk_cmd_desc_Ardrone3_Camera_OrientationV2
+                0x000000000025cc60                g_arsdk_cmd_desc_Ardrone3_Camera_Orientation
+                0x000000000025cce0                g_arsdk_cmd_desc_Ardrone3_Animations_Flip
+                0x000000000025cd40                g_arsdk_cmd_desc_Ardrone3_Piloting_CancelMoveBy
+                0x000000000025cd80                g_arsdk_cmd_desc_Ardrone3_Piloting_StopPilotedPOI
+                0x000000000025cdc0                g_arsdk_cmd_desc_Ardrone3_Piloting_StartPilotedPOIV2
+                0x000000000025ce80                g_arsdk_cmd_desc_Ardrone3_Piloting_StartPilotedPOI
+                0x000000000025cf20                g_arsdk_cmd_desc_Ardrone3_Piloting_CancelMoveTo
+                0x000000000025cf60                g_arsdk_cmd_desc_Ardrone3_Piloting_MoveTo
+                0x000000000025d040                g_arsdk_cmd_desc_Ardrone3_Piloting_Circle
+                0x000000000025d0a0                g_arsdk_cmd_desc_Ardrone3_Piloting_UserTakeOff
+                0x000000000025d100                g_arsdk_cmd_desc_Ardrone3_Piloting_MoveBy
+                0x000000000025d1c0                g_arsdk_cmd_desc_Ardrone3_Piloting_NavigateHome
+                0x000000000025d220                g_arsdk_cmd_desc_Ardrone3_Piloting_Emergency
+                0x000000000025d260                g_arsdk_cmd_desc_Ardrone3_Piloting_Landing
+                0x000000000025d2a0                g_arsdk_cmd_desc_Ardrone3_Piloting_PCMD
+                0x000000000025d3a0                g_arsdk_cmd_desc_Ardrone3_Piloting_TakeOff
+                0x000000000025e760                g_arsdk_cmd_desc_Common_UpdateState_UpdateStateChanged
+                0x000000000025e800                g_arsdk_cmd_desc_Common_RunState_RunIdChanged
+                0x000000000025e860                g_arsdk_cmd_desc_Common_ChargerState_ChargingInfo
+                0x000000000025e920                g_arsdk_cmd_desc_Common_ChargerState_LastChargeRateChanged
+                0x000000000025e980                g_arsdk_cmd_desc_Common_ChargerState_CurrentChargeStateChanged
+                0x000000000025ea00                g_arsdk_cmd_desc_Common_ChargerState_MaxChargeRateChanged
+                0x000000000025ea60                g_arsdk_cmd_desc_Common_AccessoryState_AccessoryConfigModificationEnabled
+                0x000000000025eac0                g_arsdk_cmd_desc_Common_AccessoryState_AccessoryConfigChanged
+                0x000000000025eb40                g_arsdk_cmd_desc_Common_AccessoryState_SupportedAccessoriesListChanged
+                0x000000000025eba0                g_arsdk_cmd_desc_Common_AnimationsState_List
+                0x000000000025ec40                g_arsdk_cmd_desc_Common_HeadlightsState_IntensityChanged
+                0x000000000025ecc0                g_arsdk_cmd_desc_Common_AudioState_AudioStreamingRunning
+                0x000000000025ed20                g_arsdk_cmd_desc_Common_ARLibsVersionsState_DeviceLibARCommandsVersion
+                0x000000000025ed80                g_arsdk_cmd_desc_Common_ARLibsVersionsState_SkyControllerLibARCommandsVersion
+                0x000000000025ede0                g_arsdk_cmd_desc_Common_ARLibsVersionsState_ControllerLibARCommandsVersion
+                0x000000000025ee40                g_arsdk_cmd_desc_Common_FlightPlanEvent_SpeedBridleEvent
+                0x000000000025ee80                g_arsdk_cmd_desc_Common_FlightPlanEvent_StartingErrorEvent
+                0x000000000025eec0                g_arsdk_cmd_desc_Common_FlightPlanState_LockStateChanged
+                0x000000000025ef20                g_arsdk_cmd_desc_Common_FlightPlanState_ComponentStateListChanged
+                0x000000000025efa0                g_arsdk_cmd_desc_Common_FlightPlanState_AvailabilityStateChanged
+                0x000000000025f000                g_arsdk_cmd_desc_Common_CameraSettingsState_CameraSettingsChanged
+                0x000000000025f0e0                g_arsdk_cmd_desc_Common_CalibrationState_PitotCalibrationStateChanged
+                0x000000000025f160                g_arsdk_cmd_desc_Common_CalibrationState_MagnetoCalibrationStartedChanged
+                0x000000000025f1c0                g_arsdk_cmd_desc_Common_CalibrationState_MagnetoCalibrationAxisToCalibrateChanged
+                0x000000000025f220                g_arsdk_cmd_desc_Common_CalibrationState_MagnetoCalibrationRequiredState
+                0x000000000025f280                g_arsdk_cmd_desc_Common_CalibrationState_MagnetoCalibrationStateChanged
+                0x000000000025f340                g_arsdk_cmd_desc_Common_FlightPlanSettingsState_ReturnHomeOnDisconnectChanged
+                0x000000000025f3c0                g_arsdk_cmd_desc_Common_MavlinkState_MissionItemExecuted
+                0x000000000025f420                g_arsdk_cmd_desc_Common_MavlinkState_MavlinkPlayErrorStateChanged
+                0x000000000025f480                g_arsdk_cmd_desc_Common_MavlinkState_MavlinkFilePlayingStateChanged
+                0x000000000025f520                g_arsdk_cmd_desc_Common_WifiSettingsState_OutdoorSettingsChanged
+                0x000000000025f580                g_arsdk_cmd_desc_Common_OverHeatState_OverHeatRegulationChanged
+                0x000000000025f5e0                g_arsdk_cmd_desc_Common_OverHeatState_OverHeatChanged
+                0x000000000025f620                g_arsdk_cmd_desc_Common_CommonState_BootId
+                0x000000000025f680                g_arsdk_cmd_desc_Common_CommonState_LinkSignalQuality
+                0x000000000025f6e0                g_arsdk_cmd_desc_Common_CommonState_CurrentDateTimeChanged
+                0x000000000025f740                g_arsdk_cmd_desc_Common_CommonState_VideoRecordingTimestamp
+                0x000000000025f7c0                g_arsdk_cmd_desc_Common_CommonState_MassStorageContentForCurrentRun
+                0x000000000025f880                g_arsdk_cmd_desc_Common_CommonState_MassStorageContent
+                0x000000000025f980                g_arsdk_cmd_desc_Common_CommonState_DeprecatedMassStorageContentChanged
+                0x000000000025fa60                g_arsdk_cmd_desc_Common_CommonState_CountryListKnown
+                0x000000000025fae0                g_arsdk_cmd_desc_Common_CommonState_ProductModel
+                0x000000000025fb40                g_arsdk_cmd_desc_Common_CommonState_SensorsStatesListChanged
+                0x000000000025fbc0                g_arsdk_cmd_desc_Common_CommonState_WifiSignalChanged
+                0x000000000025fc20                g_arsdk_cmd_desc_Common_CommonState_MassStorageInfoRemainingListChanged
+                0x000000000025fcc0                g_arsdk_cmd_desc_Common_CommonState_CurrentTimeChanged
+                0x000000000025fd20                g_arsdk_cmd_desc_Common_CommonState_CurrentDateChanged
+                0x000000000025fd80                g_arsdk_cmd_desc_Common_CommonState_MassStorageInfoStateListChanged
+                0x000000000025fe80                g_arsdk_cmd_desc_Common_CommonState_MassStorageStateListChanged
+                0x000000000025ff00                g_arsdk_cmd_desc_Common_CommonState_BatteryStateChanged
+                0x000000000025ff60                g_arsdk_cmd_desc_Common_CommonState_AllStatesChanged
+                0x000000000025ffa0                g_arsdk_cmd_desc_Common_SettingsState_BoardIdChanged
+                0x0000000000260000                g_arsdk_cmd_desc_Common_SettingsState_AutoCountryChanged
+                0x0000000000260060                g_arsdk_cmd_desc_Common_SettingsState_CountryChanged
+                0x00000000002600c0                g_arsdk_cmd_desc_Common_SettingsState_ProductSerialLowChanged
+                0x0000000000260120                g_arsdk_cmd_desc_Common_SettingsState_ProductSerialHighChanged
+                0x0000000000260180                g_arsdk_cmd_desc_Common_SettingsState_ProductVersionChanged
+                0x0000000000260200                g_arsdk_cmd_desc_Common_SettingsState_ProductNameChanged
+                0x0000000000260260                g_arsdk_cmd_desc_Common_SettingsState_ResetChanged
+                0x00000000002602a0                g_arsdk_cmd_desc_Common_SettingsState_AllSettingsChanged
+                0x00000000002602e0                g_arsdk_cmd_desc_Common_NetworkEvent_Disconnection
+                0x0000000000260340                g_arsdk_cmd_desc_Common_Factory_Reset
+                0x0000000000260380                g_arsdk_cmd_desc_Common_Charger_SetMaxChargeRate
+                0x00000000002603e0                g_arsdk_cmd_desc_Common_Accessory_Config
+                0x0000000000260440                g_arsdk_cmd_desc_Common_Animations_StopAllAnimations
+                0x0000000000260480                g_arsdk_cmd_desc_Common_Animations_StopAnimation
+                0x00000000002604e0                g_arsdk_cmd_desc_Common_Animations_StartAnimation
+                0x0000000000260540                g_arsdk_cmd_desc_Common_Headlights_Intensity
+                0x00000000002605c0                g_arsdk_cmd_desc_Common_Audio_ControllerReadyForStreaming
+                0x0000000000260620                g_arsdk_cmd_desc_Common_GPS_ControllerPositionForRun
+                0x00000000002606a0                g_arsdk_cmd_desc_Common_Calibration_PitotCalibration
+                0x0000000000260700                g_arsdk_cmd_desc_Common_Calibration_MagnetoCalibration
+                0x0000000000260760                g_arsdk_cmd_desc_Common_FlightPlanSettings_ReturnHomeOnDisconnect
+                0x00000000002607c0                g_arsdk_cmd_desc_Common_Mavlink_Stop
+                0x0000000000260800                g_arsdk_cmd_desc_Common_Mavlink_Pause
+                0x0000000000260840                g_arsdk_cmd_desc_Common_Mavlink_Start
+                0x00000000002608c0                g_arsdk_cmd_desc_Common_WifiSettings_OutdoorSetting
+                0x0000000000260920                g_arsdk_cmd_desc_Common_Controller_PeerStateChanged
+                0x0000000000260a00                g_arsdk_cmd_desc_Common_Controller_IsPiloting
+                0x0000000000260a60                g_arsdk_cmd_desc_Common_OverHeat_Ventilate
+                0x0000000000260aa0                g_arsdk_cmd_desc_Common_OverHeat_SwitchOff
+                0x0000000000260ae0                g_arsdk_cmd_desc_Common_Common_CurrentDateTime
+                0x0000000000260b40                g_arsdk_cmd_desc_Common_Common_Reboot
+                0x0000000000260b80                g_arsdk_cmd_desc_Common_Common_CurrentTime
+                0x0000000000260be0                g_arsdk_cmd_desc_Common_Common_CurrentDate
+                0x0000000000260c40                g_arsdk_cmd_desc_Common_Common_AllStates
+                0x0000000000260c80                g_arsdk_cmd_desc_Common_Settings_AutoCountry
+                0x0000000000260ce0                g_arsdk_cmd_desc_Common_Settings_Country
+                0x0000000000260d40                g_arsdk_cmd_desc_Common_Settings_ProductName
+                0x0000000000260da0                g_arsdk_cmd_desc_Common_Settings_Reset
+                0x0000000000260de0                g_arsdk_cmd_desc_Common_Settings_AllSettings
+                0x0000000000260e20                g_arsdk_cmd_desc_Common_Network_Disconnect
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x0000000000261990        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *fill*         0x0000000000261990       0x10 
+ .data.rel.ro   0x00000000002619a0     0x24d0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+
+.dynamic        0x0000000000263e70      0x160
+ *(.dynamic)
+ .dynamic       0x0000000000263e70      0x160 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000263e70                _DYNAMIC
+
+.got            0x0000000000263fd0       0x28
+ *(.got)
+ .got           0x0000000000263fd0       0x28 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x0000000000264fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000264000       0x18
+ *(.got.plt)
+ .got.plt       0x0000000000264000       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000264000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000000000264020      0x820
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local
+                0x0000000000264020        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                0x0000000000264020                __dso_handle
+ *fill*         0x0000000000264028       0x18 
+ .data.rel.local
+                0x0000000000264040      0x800 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+                0x0000000000264040                g_arsdk_cmd_desc_table
+
+.tm_clone_table
+                0x0000000000264840        0x0
+ .tm_clone_table
+                0x0000000000264840        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .tm_clone_table
+                0x0000000000264840        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.data1
+ *(.data1)
+                0x0000000000264840                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x0000000000264840                . = .
+                0x0000000000264840                __bss_start = .
+
+.bss            0x0000000000264840        0x8
+ *(.dynbss)
+ .dynbss        0x0000000000264840        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000264840        0x1 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *(COMMON)
+                0x0000000000264848                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x0000000000264841        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x0000000000264848                . = ALIGN (0x8)
+                0x0000000000264848                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x0000000000664848        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x0000000000664848                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x0000000000664848                . = ALIGN (0x8)
+                0x0000000000664848                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x0000000000664848                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x29
+ *(.comment)
+ .comment       0x0000000000000000       0x29 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                                         0x2a (size before relaxing)
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+ .comment       0x0000000000000029       0x2a /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0x30
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x130c3
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000    0x130c3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+
+.debug_abbrev   0x0000000000000000      0x121
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x121 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+
+.debug_line     0x0000000000000000      0x133
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x133 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x36e9d
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x36e9d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+                                      0x36f28 (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x20
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libarsdkgen/obj/gen/arsdk_cmd_desc.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(out/olympe-linux/build/libarsdkgen/libarsdkgen.so elf64-x86-64)

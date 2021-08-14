@@ -1,0 +1,620 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libpomp.so                    /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o (pomp_buffer_write)
+libulog.so                    /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o (ulog_log_write)
+libc.so.6                     /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o (__stack_chk_fail@@GLIBC_2.4)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libfutils.so
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libpomp.so
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libulog.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libm.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libm.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libmvec_nonshared.a
+LOAD /lib/x86_64-linux-gnu/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0       0xd4
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0       0xd4 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x00000000000002c8      0x3d8
+ *(.dynsym)
+ .dynsym        0x00000000000002c8      0x3d8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x00000000000006a0      0x2d5
+ *(.dynstr)
+ .dynstr        0x00000000000006a0      0x2d5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000000976       0x52
+ *(.gnu.version)
+ .gnu.version   0x0000000000000976       0x52 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x00000000000009c8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000000009c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x00000000000009c8       0x30
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000000009c8       0x30 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x00000000000009f8       0xc0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtcp_pkt_write_sender_report
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtcp_pkt_write_receiver_report
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtcp_pkt_write_sdes
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtcp_pkt_write_bye
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtcp_pkt_write_app
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtcp_pkt_read
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtp_jitter_new
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtp_jitter_clear
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtp_jitter_enqueue
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtp_jitter_process
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtp_jitter_get_info
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtp_pkt_new
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtp_pkt_clone
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtp_pkt_destroy
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtp_pkt_finalize_header
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.rtp_pkt_read
+                0x00000000000009f8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.local
+                0x00000000000009f8       0x30 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000000a28       0x60 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000000a88        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000000a88       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000000aa0       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000000ab8      0x150
+ *(.rela.plt)
+ .rela.plt      0x0000000000000ab8      0x150 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000000c08       0x17
+ *(SORT_NONE(.init))
+ .init          0x0000000000000c08       0x12 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000000c08                _init
+ .init          0x0000000000000c1a        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000000c20       0xf0
+ *(.plt)
+ .plt           0x0000000000000c20       0xf0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.plt.got        0x0000000000000d10        0x8
+ *(.plt.got)
+ .plt.got       0x0000000000000d10        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000000d20     0x3865
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000000d20       0xda /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *fill*         0x0000000000000dfa        0x6 
+ .text.rtcp_pkt_write_header
+                0x0000000000000e00       0xa0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ .text.rtcp_pkt_read_report_block.isra.3
+                0x0000000000000ea0      0x1ac /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ *fill*         0x000000000000104c        0x4 
+ .text.rtcp_pkt_read_sender_report.isra.4
+                0x0000000000001050      0x226 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ *fill*         0x0000000000001276        0xa 
+ .text.rtcp_pkt_read_receiver_report.isra.5
+                0x0000000000001280       0xf7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ *fill*         0x0000000000001377        0x9 
+ .text.rtcp_pkt_write_report_block
+                0x0000000000001380      0x15a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ *fill*         0x00000000000014da        0x6 
+ .text.rtcp_pkt_type_str
+                0x00000000000014e0       0x68 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+                0x00000000000014e0                rtcp_pkt_type_str
+ *fill*         0x0000000000001548        0x8 
+ .text.rtcp_pkt_sdes_type_str
+                0x0000000000001550       0xb8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+                0x0000000000001550                rtcp_pkt_sdes_type_str
+ *fill*         0x0000000000001608        0x8 
+ .text.rtcp_pkt_write_sender_report
+                0x0000000000001610      0x2d7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+                0x0000000000001610                rtcp_pkt_write_sender_report
+ *fill*         0x00000000000018e7        0x9 
+ .text.rtcp_pkt_write_receiver_report
+                0x00000000000018f0      0x20c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+                0x00000000000018f0                rtcp_pkt_write_receiver_report
+ *fill*         0x0000000000001afc        0x4 
+ .text.rtcp_pkt_write_sdes
+                0x0000000000001b00      0x471 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+                0x0000000000001b00                rtcp_pkt_write_sdes
+ *fill*         0x0000000000001f71        0xf 
+ .text.rtcp_pkt_write_bye
+                0x0000000000001f80      0x291 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+                0x0000000000001f80                rtcp_pkt_write_bye
+ *fill*         0x0000000000002211        0xf 
+ .text.rtcp_pkt_write_app
+                0x0000000000002220      0x249 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+                0x0000000000002220                rtcp_pkt_write_app
+ *fill*         0x0000000000002469        0x7 
+ .text.rtcp_pkt_read
+                0x0000000000002470      0x935 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+                0x0000000000002470                rtcp_pkt_read
+ *fill*         0x0000000000002da5        0xb 
+ .text.rtp_jitter_new
+                0x0000000000002db0      0x1f1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+                0x0000000000002db0                rtp_jitter_new
+ *fill*         0x0000000000002fa1        0xf 
+ .text.rtp_jitter_clear
+                0x0000000000002fb0      0x111 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+                0x0000000000002fb0                rtp_jitter_clear
+ *fill*         0x00000000000030c1        0xf 
+ .text.rtp_jitter_destroy
+                0x00000000000030d0       0x23 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+                0x00000000000030d0                rtp_jitter_destroy
+ *fill*         0x00000000000030f3        0xd 
+ .text.rtp_jitter_enqueue
+                0x0000000000003100      0x82c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+                0x0000000000003100                rtp_jitter_enqueue
+ *fill*         0x000000000000392c        0x4 
+ .text.rtp_jitter_process
+                0x0000000000003930      0x121 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+                0x0000000000003930                rtp_jitter_process
+ *fill*         0x0000000000003a51        0xf 
+ .text.rtp_jitter_get_info
+                0x0000000000003a60       0xa1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+                0x0000000000003a60                rtp_jitter_get_info
+ *fill*         0x0000000000003b01        0xf 
+ .text.rtp_pkt_new
+                0x0000000000003b10       0xb7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+                0x0000000000003b10                rtp_pkt_new
+ *fill*         0x0000000000003bc7        0x9 
+ .text.rtp_pkt_clone
+                0x0000000000003bd0      0x117 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+                0x0000000000003bd0                rtp_pkt_clone
+ *fill*         0x0000000000003ce7        0x9 
+ .text.rtp_pkt_destroy
+                0x0000000000003cf0       0xa7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+                0x0000000000003cf0                rtp_pkt_destroy
+ *fill*         0x0000000000003d97        0x9 
+ .text.rtp_pkt_finalize_header
+                0x0000000000003da0      0x208 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+                0x0000000000003da0                rtp_pkt_finalize_header
+ *fill*         0x0000000000003fa8        0x8 
+ .text.rtp_pkt_read
+                0x0000000000003fb0      0x5d5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+                0x0000000000003fb0                rtp_pkt_read
+ *(.gnu.warning)
+
+.fini           0x0000000000004588        0x9
+ *(SORT_NONE(.fini))
+ .fini          0x0000000000004588        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000004588                _fini
+ .fini          0x000000000000458c        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+
+.rodata         0x00000000000045a0      0x3d4
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x00000000000045a0       0xc0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+                                         0xc5 (size before relaxing)
+ .rodata        0x0000000000004660       0xfd /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ *fill*         0x000000000000475d        0x3 
+ .rodata.str1.8
+                0x0000000000004760       0x49 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ .rodata.str1.1
+                0x00000000000047a9       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+ *fill*         0x00000000000047a9        0x7 
+ .rodata.str1.8
+                0x00000000000047b0       0x90 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+                                         0x8f (size before relaxing)
+ .rodata        0x0000000000004840       0x87 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+ *fill*         0x00000000000048c7        0x1 
+ .rodata.cst8   0x00000000000048c8        0x8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+ .rodata.str1.1
+                0x00000000000048d0       0x55 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+                                         0x68 (size before relaxing)
+ *fill*         0x0000000000004925        0xb 
+ .rodata        0x0000000000004930       0x44 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000004974       0xdc
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000004974       0xdc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+                0x0000000000004974                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x0000000000004a50      0x760
+ *(.eh_frame)
+ .eh_frame      0x0000000000004a50       0x40 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000004a90       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000004aa8      0x3d0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+                                        0x3e8 (size before relaxing)
+ .eh_frame      0x0000000000004e78      0x200 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+                                        0x218 (size before relaxing)
+ .eh_frame      0x0000000000005078      0x134 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+                                        0x150 (size before relaxing)
+ .eh_frame      0x00000000000051ac        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000205de0                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000205de0        0x8
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000205de0        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.fini_array     0x0000000000205de8        0x8
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000205de8        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x0000000000205df0        0x0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x0000000000205df0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynamic        0x0000000000205df0      0x1f0
+ *(.dynamic)
+ .dynamic       0x0000000000205df0      0x1f0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000205df0                _DYNAMIC
+
+.got            0x0000000000205fe0       0x20
+ *(.got)
+ .got           0x0000000000205fe0       0x20 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x0000000000206fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000206000       0x88
+ *(.got.plt)
+ .got.plt       0x0000000000206000       0x88 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000206000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x00000000002060a0       0x40
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local
+                0x00000000002060a0        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                0x00000000002060a0                __dso_handle
+ *fill*         0x00000000002060a8       0x18 
+ .data.rel.local
+                0x00000000002060c0       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+                0x00000000002060c0                __ulog_cookie_rtp
+
+.tm_clone_table
+                0x00000000002060e0        0x0
+ .tm_clone_table
+                0x00000000002060e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .tm_clone_table
+                0x00000000002060e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.data1
+ *(.data1)
+                0x00000000002060e0                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x00000000002060e0                . = .
+                0x00000000002060e0                __bss_start = .
+
+.bss            0x00000000002060e0        0x8
+ *(.dynbss)
+ .dynbss        0x00000000002060e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00000000002060e0        0x1 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *(COMMON)
+                0x00000000002060e8                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x00000000002060e1        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x00000000002060e8                . = ALIGN (0x8)
+                0x00000000002060e8                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x00000000006060e8        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x00000000006060e8                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x00000000006060e8                . = ALIGN (0x8)
+                0x00000000006060e8                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x00000000006060e8                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x29
+ *(.comment)
+ .comment       0x0000000000000000       0x29 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                                         0x2a (size before relaxing)
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+ .comment       0x0000000000000029       0x2a /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x1e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0xf0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ .debug_aranges
+                0x00000000000000f0       0x80 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+ .debug_aranges
+                0x0000000000000170       0x70 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x7e22
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x4851 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ .debug_info    0x0000000000004851     0x1ab4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+ .debug_info    0x0000000000006305     0x1b1d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+
+.debug_abbrev   0x0000000000000000      0xb82
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x4a5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ .debug_abbrev  0x00000000000004a5      0x3d9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+ .debug_abbrev  0x000000000000087e      0x304 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+
+.debug_line     0x0000000000000000     0x189f
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0xd1b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ .debug_line    0x0000000000000d1b      0x607 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+ .debug_line    0x0000000000001322      0x57d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0xd69
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x912 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+                                        0xa06 (size before relaxing)
+ .debug_str     0x0000000000000912      0x369 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+                                        0x8a2 (size before relaxing)
+ .debug_str     0x0000000000000c7b       0xee /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+                                        0x738 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0xba6c
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x7461 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ .debug_loc     0x0000000000007461     0x26bf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+ .debug_loc     0x0000000000009b20     0x1f4c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x2470
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0x1670 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtcp_pkt.c.o
+ .debug_ranges  0x0000000000001670      0x800 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_jitter.c.o
+ .debug_ranges  0x0000000000001e70      0x600 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/librtp/obj/src/rtp_pkt.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(out/olympe-linux/build/librtp/librtp.so elf64-x86-64)

@@ -1,0 +1,1128 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libulog.so                    /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o (ulog_log_write)
+librt.so.1                    /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o (clock_gettime@@GLIBC_2.2.5)
+libpthread.so.0               /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o (write@@GLIBC_2.2.5)
+libc.so.6                     /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o (fflush@@GLIBC_2.2.5)
+ld-linux-x86-64.so.2          /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o (__tls_get_addr@@GLIBC_2.3)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ .text.unlikely.pool_buffer_get.part.0
+                0x0000000000000000       0x23 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libulog.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libm.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libm.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libmvec_nonshared.a
+LOAD /lib/x86_64-linux-gnu/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                0x0000000000000200                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x0000000000000200       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000000200       0x24 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x0000000000000228      0x3ac
+ *(.gnu.hash)
+ .gnu.hash      0x0000000000000228      0x3ac /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x00000000000005d8      0xf00
+ *(.dynsym)
+ .dynsym        0x00000000000005d8      0xf00 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x00000000000014d8      0xa1a
+ *(.dynstr)
+ .dynstr        0x00000000000014d8      0xa1a /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000001ef2      0x140
+ *(.gnu.version)
+ .gnu.version   0x0000000000001ef2      0x140 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000002038        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000002038        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000002038       0xd0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000002038       0xd0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000002108      0x3f0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000002108        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.local
+                0x0000000000002108       0xf0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro.local
+                0x00000000000021f8      0x1c8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x00000000000023c0      0x108 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x00000000000024c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x00000000000024c8       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x00000000000024e0       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x00000000000024f8      0x630
+ *(.rela.plt)
+ .rela.plt      0x00000000000024f8      0x630 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000002b28       0x17
+ *(SORT_NONE(.init))
+ .init          0x0000000000002b28       0x12 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000002b28                _init
+ .init          0x0000000000002b3a        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000002b40      0x430
+ *(.plt)
+ .plt           0x0000000000002b40      0x430 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.plt.got        0x0000000000002f70        0x8
+ *(.plt.got)
+ .plt.got       0x0000000000002f70        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000002f80     0x58c2
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ .text.unlikely.pool_buffer_consume.part.1
+                0x0000000000002f80       0x23 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ .text.unlikely.pool_reload_if_needed.part.2
+                0x0000000000002fa3       0x23 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ *fill*         0x0000000000002fc6        0xa 
+ .text          0x0000000000002fd0       0xda /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *fill*         0x00000000000030aa        0x6 
+ .text.futils_hash_lookup_entry
+                0x00000000000030b0       0x85 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+ *fill*         0x0000000000003135        0xb 
+ .text.futils_hash_insert_entry.constprop.1
+                0x0000000000003140       0xa7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+ *fill*         0x00000000000031e7        0x9 
+ .text.futils_hash_init
+                0x00000000000031f0       0x7a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+                0x00000000000031f0                futils_hash_init
+ *fill*         0x000000000000326a        0x6 
+ .text.futils_hash_remove_all
+                0x0000000000003270       0x89 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+                0x0000000000003270                futils_hash_remove_all
+ *fill*         0x00000000000032f9        0x7 
+ .text.futils_hash_destroy
+                0x0000000000003300       0x2e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+                0x0000000000003300                futils_hash_destroy
+ *fill*         0x000000000000332e        0x2 
+ .text.futils_hash_insert
+                0x0000000000003330       0x97 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+                0x0000000000003330                futils_hash_insert
+ *fill*         0x00000000000033c7        0x9 
+ .text.futils_hash_insert_const
+                0x00000000000033d0       0x97 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+                0x00000000000033d0                futils_hash_insert_const
+ *fill*         0x0000000000003467        0x9 
+ .text.futils_hash_lookup
+                0x0000000000003470       0x5c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+                0x0000000000003470                futils_hash_lookup
+ *fill*         0x00000000000034cc        0x4 
+ .text.futils_hash_lookup_const
+                0x00000000000034d0       0x4f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+                0x00000000000034d0                futils_hash_lookup_const
+ *fill*         0x000000000000351f        0x1 
+ .text.futils_hash_remove
+                0x0000000000003520       0xc7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+                0x0000000000003520                futils_hash_remove
+ *fill*         0x00000000000035e7        0x9 
+ .text.mbox_new
+                0x00000000000035f0       0x84 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+                0x00000000000035f0                mbox_new
+ *fill*         0x0000000000003674        0xc 
+ .text.mbox_destroy
+                0x0000000000003680       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+                0x0000000000003680                mbox_destroy
+ *fill*         0x00000000000036aa        0x6 
+ .text.mbox_get_read_fd
+                0x00000000000036b0        0xe /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+                0x00000000000036b0                mbox_get_read_fd
+ *fill*         0x00000000000036be        0x2 
+ .text.mbox_push
+                0x00000000000036c0       0x6c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+                0x00000000000036c0                mbox_push
+ *fill*         0x000000000000372c        0x4 
+ .text.mbox_peek
+                0x0000000000003730       0x74 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+                0x0000000000003730                mbox_peek
+ *fill*         0x00000000000037a4        0xc 
+ .text.tm_mkepoch_local
+                0x00000000000037b0      0x143 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ *fill*         0x00000000000038f3        0xd 
+ .text.parse_num
+                0x0000000000003900       0x84 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ *fill*         0x0000000000003984        0xc 
+ .text.parse_date
+                0x0000000000003990      0x143 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ *fill*         0x0000000000003ad3        0xd 
+ .text.parse_time
+                0x0000000000003ae0      0x325 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ *fill*         0x0000000000003e05        0xb 
+ .text.parse_date_time
+                0x0000000000003e10      0x30f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ *fill*         0x000000000000411f        0x1 
+ .text.time_ctx_init
+                0x0000000000004120       0x2e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+                0x0000000000004120                time_ctx_init
+ *fill*         0x000000000000414e        0x2 
+ .text.time_ctx_set_date
+                0x0000000000004150       0x87 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+                0x0000000000004150                time_ctx_set_date
+ *fill*         0x00000000000041d7        0x9 
+ .text.time_ctx_set_hour
+                0x00000000000041e0       0x87 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+                0x00000000000041e0                time_ctx_set_hour
+ *fill*         0x0000000000004267        0x9 
+ .text.time_ctx_set_time
+                0x0000000000004270       0xa8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+                0x0000000000004270                time_ctx_set_time
+ *fill*         0x0000000000004318        0x8 
+ .text.time_ctx_get_local
+                0x0000000000004320       0x56 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+                0x0000000000004320                time_ctx_get_local
+ *fill*         0x0000000000004376        0xa 
+ .text.time_local_set
+                0x0000000000004380       0x59 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+                0x0000000000004380                time_local_set
+ *fill*         0x00000000000043d9        0x7 
+ .text.time_local_ms_get
+                0x00000000000043e0       0xe0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+                0x00000000000043e0                time_local_ms_get
+ .text.time_local_get
+                0x00000000000044c0        0xa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+                0x00000000000044c0                time_local_get
+ *fill*         0x00000000000044ca        0x6 
+ .text.time_local_to_tm
+                0x00000000000044d0       0x74 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+                0x00000000000044d0                time_local_to_tm
+ *fill*         0x0000000000004544        0xc 
+ .text.time_local_from_tm
+                0x0000000000004550       0x4e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+                0x0000000000004550                time_local_from_tm
+ *fill*         0x000000000000459e        0x2 
+ .text.time_local_format
+                0x00000000000045a0      0x2f3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+                0x00000000000045a0                time_local_format
+ *fill*         0x0000000000004893        0xd 
+ .text.time_local_parse
+                0x00000000000048a0       0xcc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+                0x00000000000048a0                time_local_parse
+ *fill*         0x000000000000496c        0x4 
+ .text.time_get_monotonic
+                0x0000000000004970       0x27 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x0000000000004970                time_get_monotonic
+ *fill*         0x0000000000004997        0x9 
+ .text.time_msleep
+                0x00000000000049a0       0x6b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x00000000000049a0                time_msleep
+ *fill*         0x0000000000004a0b        0x5 
+ .text.time_timespec_diff
+                0x0000000000004a10       0x6b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x0000000000004a10                time_timespec_diff
+ *fill*         0x0000000000004a7b        0x5 
+ .text.time_timespec_to_ns
+                0x0000000000004a80       0x26 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x0000000000004a80                time_timespec_to_ns
+ *fill*         0x0000000000004aa6        0xa 
+ .text.time_timespec_to_ms
+                0x0000000000004ab0       0x3e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x0000000000004ab0                time_timespec_to_ms
+ *fill*         0x0000000000004aee        0x2 
+ .text.time_timespec_to_us
+                0x0000000000004af0       0x46 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x0000000000004af0                time_timespec_to_us
+ *fill*         0x0000000000004b36        0xa 
+ .text.time_ns_to_timespec
+                0x0000000000004b40       0x56 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x0000000000004b40                time_ns_to_timespec
+ *fill*         0x0000000000004b96        0xa 
+ .text.time_us_to_timespec
+                0x0000000000004ba0       0x56 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x0000000000004ba0                time_us_to_timespec
+ *fill*         0x0000000000004bf6        0xa 
+ .text.time_ms_to_timespec
+                0x0000000000004c00       0x5e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x0000000000004c00                time_ms_to_timespec
+ *fill*         0x0000000000004c5e        0x2 
+ .text.time_timespec_diff_now
+                0x0000000000004c60       0xd4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x0000000000004c60                time_timespec_diff_now
+ *fill*         0x0000000000004d34        0xc 
+ .text.time_timespec_cmp
+                0x0000000000004d40       0x8e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x0000000000004d40                time_timespec_cmp
+ *fill*         0x0000000000004dce        0x2 
+ .text.time_timespec_diff_in_range
+                0x0000000000004dd0       0xdc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x0000000000004dd0                time_timespec_diff_in_range
+ *fill*         0x0000000000004eac        0x4 
+ .text.time_timespec_add_ns
+                0x0000000000004eb0       0x96 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x0000000000004eb0                time_timespec_add_ns
+ *fill*         0x0000000000004f46        0xa 
+ .text.time_timespec_add_us
+                0x0000000000004f50        0xc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x0000000000004f50                time_timespec_add_us
+ *fill*         0x0000000000004f5c        0x4 
+ .text.time_timeval_to_timespec
+                0x0000000000004f60       0x26 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x0000000000004f60                time_timeval_to_timespec
+ *fill*         0x0000000000004f86        0xa 
+ .text.time_timeval_to_ms
+                0x0000000000004f90       0x3e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x0000000000004f90                time_timeval_to_ms
+ *fill*         0x0000000000004fce        0x2 
+ .text.chacha_init
+                0x0000000000004fd0      0x242 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ *fill*         0x0000000000005212        0xe 
+ .text.rand_fetch
+                0x0000000000005220      0x2b2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ *fill*         0x00000000000054d2        0xe 
+ .text.pool_seed
+                0x00000000000054e0       0xe5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ *fill*         0x00000000000055c5        0xb 
+ .text.chacha_keystream
+                0x00000000000055d0      0x690 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ .text.pool_reload
+                0x0000000000005c60       0xc1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ *fill*         0x0000000000005d21        0xf 
+ .text.pool_rand.part.3
+                0x0000000000005d30       0x9e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ *fill*         0x0000000000005dce        0x2 
+ .text._pool_rand8_maximum
+                0x0000000000005dd0       0xbe /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ *fill*         0x0000000000005e8e        0x2 
+ .text._pool_rand16_maximum
+                0x0000000000005e90       0xbf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ *fill*         0x0000000000005f4f        0x1 
+ .text.pool_rand24
+                0x0000000000005f50       0xaa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ *fill*         0x0000000000005ffa        0x6 
+ .text.pool_rand64_maximum
+                0x0000000000006000      0x366 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ *fill*         0x0000000000006366        0xa 
+ .text.futils_random_strong
+                0x0000000000006370       0x16 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                0x0000000000006370                futils_random_strong
+ *fill*         0x0000000000006386        0xa 
+ .text.futils_random
+                0x0000000000006390      0x16e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                0x0000000000006390                futils_random
+ *fill*         0x00000000000064fe        0x2 
+ .text.futils_randomr8
+                0x0000000000006500       0xa9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                0x0000000000006500                futils_randomr8
+ *fill*         0x00000000000065a9        0x7 
+ .text.futils_randomr16
+                0x00000000000065b0       0xa9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                0x00000000000065b0                futils_randomr16
+ *fill*         0x0000000000006659        0x7 
+ .text.futils_randomr32
+                0x0000000000006660       0xa8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                0x0000000000006660                futils_randomr32
+ *fill*         0x0000000000006708        0x8 
+ .text.futils_randomr64
+                0x0000000000006710       0xa6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                0x0000000000006710                futils_randomr64
+ *fill*         0x00000000000067b6        0xa 
+ .text.futils_randomr8_maximum
+                0x00000000000067c0       0x4b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                0x00000000000067c0                futils_randomr8_maximum
+ *fill*         0x000000000000680b        0x5 
+ .text.futils_randomr16_maximum
+                0x0000000000006810       0xf4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                0x0000000000006810                futils_randomr16_maximum
+ *fill*         0x0000000000006904        0xc 
+ .text.futils_randomr32_maximum
+                0x0000000000006910      0x1cc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                0x0000000000006910                futils_randomr32_maximum
+ *fill*         0x0000000000006adc        0x4 
+ .text.futils_randomr64_maximum
+                0x0000000000006ae0       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                0x0000000000006ae0                futils_randomr64_maximum
+ .text.futils_random_base16
+                0x0000000000006b00      0x256 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                0x0000000000006b00                futils_random_base16
+ *fill*         0x0000000000006d56        0xa 
+ .text.futils_random_base64
+                0x0000000000006d60      0x3df /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                0x0000000000006d60                futils_random_base64
+ *fill*         0x000000000000713f        0x1 
+ .text.futils_random_shuffle
+                0x0000000000007140      0x1c0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                0x0000000000007140                futils_random_shuffle
+ .text.futils_random_reseed
+                0x0000000000007300       0x30 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                0x0000000000007300                futils_random_reseed
+ .text.futils_varint_read
+                0x0000000000007330       0x7c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+ *fill*         0x00000000000073ac        0x4 
+ .text.futils_varint_write.part.1
+                0x00000000000073b0       0x4d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+ *fill*         0x00000000000073fd        0x3 
+ .text.futils_varint_read_u16
+                0x0000000000007400       0x5c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+                0x0000000000007400                futils_varint_read_u16
+ *fill*         0x000000000000745c        0x4 
+ .text.futils_varint_write_u16
+                0x0000000000007460       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+                0x0000000000007460                futils_varint_write_u16
+ *fill*         0x0000000000007496        0xa 
+ .text.futils_varint_read_i16
+                0x00000000000074a0       0x64 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+                0x00000000000074a0                futils_varint_read_i16
+ *fill*         0x0000000000007504        0xc 
+ .text.futils_varint_write_i16
+                0x0000000000007510       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+                0x0000000000007510                futils_varint_write_i16
+ *fill*         0x0000000000007546        0xa 
+ .text.futils_varint_read_u32
+                0x0000000000007550       0x5c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+                0x0000000000007550                futils_varint_read_u32
+ *fill*         0x00000000000075ac        0x4 
+ .text.futils_varint_write_u32
+                0x00000000000075b0       0x2e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+                0x00000000000075b0                futils_varint_write_u32
+ *fill*         0x00000000000075de        0x2 
+ .text.futils_varint_read_i32
+                0x00000000000075e0       0x64 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+                0x00000000000075e0                futils_varint_read_i32
+ *fill*         0x0000000000007644        0xc 
+ .text.futils_varint_write_i32
+                0x0000000000007650       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+                0x0000000000007650                futils_varint_write_i32
+ *fill*         0x0000000000007686        0xa 
+ .text.futils_varint_read_u64
+                0x0000000000007690        0xb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+                0x0000000000007690                futils_varint_read_u64
+ *fill*         0x000000000000769b        0x5 
+ .text.futils_varint_write_u64
+                0x00000000000076a0       0x2e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+                0x00000000000076a0                futils_varint_write_u64
+ *fill*         0x00000000000076ce        0x2 
+ .text.futils_varint_read_i64
+                0x00000000000076d0       0x6c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+                0x00000000000076d0                futils_varint_read_i64
+ *fill*         0x000000000000773c        0x4 
+ .text.futils_varint_write_i64
+                0x0000000000007740       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+                0x0000000000007740                futils_varint_write_i64
+ *fill*         0x0000000000007776        0xa 
+ .text.inotify_destroy
+                0x0000000000007780       0x12 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+                0x0000000000007780                inotify_destroy
+ *fill*         0x0000000000007792        0xe 
+ .text.inotify_create
+                0x00000000000077a0       0xe7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+                0x00000000000077a0                inotify_create
+ *fill*         0x0000000000007887        0x9 
+ .text.inotify_process_fd
+                0x0000000000007890      0x117 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+                0x0000000000007890                inotify_process_fd
+ *fill*         0x00000000000079a7        0x9 
+ .text.read_no_eintr
+                0x00000000000079b0       0x55 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+ *fill*         0x0000000000007a05        0xb 
+ .text.dynmbox_new
+                0x0000000000007a10       0xb1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+                0x0000000000007a10                dynmbox_new
+ *fill*         0x0000000000007ac1        0xf 
+ .text.dynmbox_destroy
+                0x0000000000007ad0       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+                0x0000000000007ad0                dynmbox_destroy
+ *fill*         0x0000000000007afa        0x6 
+ .text.dynmbox_get_read_fd
+                0x0000000000007b00        0xe /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+                0x0000000000007b00                dynmbox_get_read_fd
+ *fill*         0x0000000000007b0e        0x2 
+ .text.dynmbox_get_max_size
+                0x0000000000007b10       0x12 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+                0x0000000000007b10                dynmbox_get_max_size
+ *fill*         0x0000000000007b22        0xe 
+ .text.dynmbox_push
+                0x0000000000007b30      0x116 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+                0x0000000000007b30                dynmbox_push
+ *fill*         0x0000000000007c46        0xa 
+ .text.dynmbox_peek
+                0x0000000000007c50       0x7e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+                0x0000000000007c50                dynmbox_peek
+ *fill*         0x0000000000007cce        0x2 
+ .text.fd_set_close_on_exec
+                0x0000000000007cd0       0x43 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+                0x0000000000007cd0                fd_set_close_on_exec
+ *fill*         0x0000000000007d13        0xd 
+ .text.fd_has_close_on_exec
+                0x0000000000007d20       0x26 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+                0x0000000000007d20                fd_has_close_on_exec
+ *fill*         0x0000000000007d46        0xa 
+ .text.fd_add_flags
+                0x0000000000007d50       0x50 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+                0x0000000000007d50                fd_add_flags
+ .text.futils_fs_dir_size
+                0x0000000000007da0      0x2b7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+                0x0000000000007da0                futils_fs_dir_size
+ *fill*         0x0000000000008057        0x9 
+ .text.futils_safew_fopen
+                0x0000000000008060      0x178 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+                0x0000000000008060                futils_safew_fopen
+ *fill*         0x00000000000081d8        0x8 
+ .text.futils_safew_fclose_rollback
+                0x00000000000081e0       0xaa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+                0x00000000000081e0                futils_safew_fclose_rollback
+ *fill*         0x000000000000828a        0x6 
+ .text.futils_safew_fclose_commit
+                0x0000000000008290      0x160 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+                0x0000000000008290                futils_safew_fclose_commit
+ .text.futils_safew_fprintf
+                0x00000000000083f0       0xcf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+                0x00000000000083f0                futils_safew_fprintf
+ *fill*         0x00000000000084bf        0x1 
+ .text.futils_safew_fwrite
+                0x00000000000084c0       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+                0x00000000000084c0                futils_safew_fwrite
+ *fill*         0x00000000000084ea        0x6 
+ .text.synctool
+                0x00000000000084f0      0x13a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+ *fill*         0x000000000000862a        0x6 
+ .text.sync_file
+                0x0000000000008630        0x7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+                0x0000000000008630                sync_file
+ *fill*         0x0000000000008637        0x9 
+ .text.sync_folder
+                0x0000000000008640        0xa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+                0x0000000000008640                sync_folder
+ *fill*         0x000000000000864a        0x6 
+ .text.sync_file_and_folder
+                0x0000000000008650      0x1f2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+                0x0000000000008650                sync_file_and_folder
+ *(.gnu.warning)
+
+.fini           0x0000000000008844        0x9
+ *(SORT_NONE(.fini))
+ .fini          0x0000000000008844        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000008844                _fini
+ .fini          0x0000000000008848        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+
+.rodata         0x0000000000008860      0x750
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000000000008860       0x80 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+ .rodata.str1.1
+                0x00000000000088e0        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+                                          0x5 (size before relaxing)
+ .rodata.str1.1
+                0x00000000000088e0       0x59 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ *fill*         0x0000000000008939        0x7 
+ .rodata.str1.8
+                0x0000000000008940       0x9f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ .rodata.str1.1
+                0x00000000000089df       0x1d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                                         0x27 (size before relaxing)
+ *fill*         0x00000000000089fc        0x4 
+ .rodata.str1.8
+                0x0000000000008a00       0x23 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+ .rodata.str1.1
+                0x0000000000008a23       0x96 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ *fill*         0x0000000000008ab9        0x7 
+ .rodata.str1.8
+                0x0000000000008ac0      0x14c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ *fill*         0x0000000000008c0c       0x14 
+ .rodata        0x0000000000008c20      0x173 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ .rodata.str1.1
+                0x0000000000008d93       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+ .rodata.str1.1
+                0x0000000000008dc9        0x8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+ *fill*         0x0000000000008dd1        0x7 
+ .rodata.str1.8
+                0x0000000000008dd8       0x4b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+ .rodata.str1.1
+                0x0000000000008e23       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+                                         0x15 (size before relaxing)
+ *fill*         0x0000000000008e36        0xa 
+ .rodata        0x0000000000008e40       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+ .rodata.str1.1
+                0x0000000000008e53       0x75 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+                                         0x7a (size before relaxing)
+ .rodata.str1.8
+                0x0000000000008ec8       0x25 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+ .rodata.str1.1
+                0x0000000000008eed       0x74 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+ *fill*         0x0000000000008f61        0x7 
+ .rodata.str1.8
+                0x0000000000008f68       0x48 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000008fb0      0x394
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000008fb0      0x394 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+                0x0000000000008fb0                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x0000000000009348     0x13d0
+ *(.eh_frame)
+ .eh_frame      0x0000000000009348       0x40 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000009388       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x00000000000093a0      0x1a0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+                                        0x1b8 (size before relaxing)
+ .eh_frame      0x0000000000009540       0xe0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+                                         0xf8 (size before relaxing)
+ .eh_frame      0x0000000000009620      0x408 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+                                        0x420 (size before relaxing)
+ .eh_frame      0x0000000000009a28      0x1c0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                                        0x1d8 (size before relaxing)
+ .eh_frame      0x0000000000009be8      0x580 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                                        0x5b0 (size before relaxing)
+ .eh_frame      0x000000000000a168      0x168 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+                                        0x180 (size before relaxing)
+ .eh_frame      0x000000000000a2d0       0x88 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+                                         0xa0 (size before relaxing)
+ .eh_frame      0x000000000000a358      0x110 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+                                        0x128 (size before relaxing)
+ .eh_frame      0x000000000000a468       0x70 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+                                         0x88 (size before relaxing)
+ .eh_frame      0x000000000000a4d8       0x80 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+                                         0x98 (size before relaxing)
+ .eh_frame      0x000000000000a558      0x108 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+                                        0x120 (size before relaxing)
+ .eh_frame      0x000000000000a660       0xb4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+                                         0xd0 (size before relaxing)
+ .eh_frame      0x000000000000a714        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000000000020acd0                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss           0x000000000020acd0      0x24c
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ .tbss          0x000000000020acd0      0x24c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x000000000020acd0        0x8
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x000000000020acd0        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.fini_array     0x000000000020acd8        0x8
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x000000000020acd8        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x000000000020ace0       0x98
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x000000000020ace0       0x98 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x000000000020ad78        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynamic        0x000000000020ad78      0x210
+ *(.dynamic)
+ .dynamic       0x000000000020ad78      0x210 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x000000000020ad78                _DYNAMIC
+
+.got            0x000000000020af88       0x60
+ *(.got)
+ .got           0x000000000020af88       0x60 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x000000000020afe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x000000000020b000      0x228
+ *(.got.plt)
+ .got.plt       0x000000000020b000      0x228 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x000000000020b000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000000000020b240      0x160
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local
+                0x000000000020b240        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                0x000000000020b240                __dso_handle
+ *fill*         0x000000000020b248       0x18 
+ .data.rel.local
+                0x000000000020b260       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+                0x000000000020b260                __ulog_cookie_mbox
+ .data.rel.local
+                0x000000000020b280       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+                0x000000000020b280                __ulog_cookie_systimetools
+ .data.rel.local
+                0x000000000020b2a0       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                0x000000000020b2a0                __ulog_cookie_timetools
+ .data          0x000000000020b2c0        0x4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ *fill*         0x000000000020b2c4       0x1c 
+ .data.rel.local
+                0x000000000020b2e0       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                0x000000000020b2e0                __ulog_cookie_futils_random
+ .data.rel.local
+                0x000000000020b300       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+                0x000000000020b300                __ulog_cookie_inotify
+ .data.rel.local
+                0x000000000020b320       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+                0x000000000020b320                __ulog_cookie_dynmbox
+ .data.rel.local
+                0x000000000020b340       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+                0x000000000020b340                __ulog_cookie_futils_fs
+ .data.rel.local
+                0x000000000020b360       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+                0x000000000020b360                __ulog_cookie_futils_safew
+ .data.rel.local
+                0x000000000020b380       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+                0x000000000020b380                __ulog_cookie_synctools
+
+.tm_clone_table
+                0x000000000020b3a0        0x0
+ .tm_clone_table
+                0x000000000020b3a0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .tm_clone_table
+                0x000000000020b3a0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000020b3a0                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x000000000020b3a0                . = .
+                0x000000000020b3a0                __bss_start = .
+
+.bss            0x000000000020b3a0        0x8
+ *(.dynbss)
+ .dynbss        0x000000000020b3a0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000020b3a0        0x1 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *(COMMON)
+                0x000000000020b3a8                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x000000000020b3a1        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000020b3a8                . = ALIGN (0x8)
+                0x000000000020b3a8                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000060b3a8        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000060b3a8                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000060b3a8                . = ALIGN (0x8)
+                0x000000000060b3a8                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x000000000060b3a8                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x29
+ *(.comment)
+ .comment       0x0000000000000000       0x29 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                                         0x2a (size before relaxing)
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+ .comment       0x0000000000000029       0x2a /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x880
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0xc0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+ .debug_aranges
+                0x00000000000000c0       0x70 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+ .debug_aranges
+                0x0000000000000130      0x130 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ .debug_aranges
+                0x0000000000000260      0x120 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+ .debug_aranges
+                0x0000000000000380      0x1d0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ .debug_aranges
+                0x0000000000000550      0x100 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+ .debug_aranges
+                0x0000000000000650       0x50 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+ .debug_aranges
+                0x00000000000006a0       0x90 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+ .debug_aranges
+                0x0000000000000730       0x50 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+ .debug_aranges
+                0x0000000000000780       0x30 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+ .debug_aranges
+                0x00000000000007b0       0x70 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+ .debug_aranges
+                0x0000000000000820       0x60 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xcf40
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0xacb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+ .debug_info    0x0000000000000acb      0x7c5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+ .debug_info    0x0000000000001290     0x1908 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ .debug_info    0x0000000000002b98      0xae6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+ .debug_info    0x000000000000367e     0x5a45 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ .debug_info    0x00000000000090c3      0xd4a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+ .debug_info    0x0000000000009e0d      0x691 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+ .debug_info    0x000000000000a49e      0x9f6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+ .debug_info    0x000000000000ae94      0x24a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+ .debug_info    0x000000000000b0de      0xac1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+ .debug_info    0x000000000000bb9f      0xc74 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+ .debug_info    0x000000000000c813      0x72d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+
+.debug_abbrev   0x0000000000000000     0x2064
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x33c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+ .debug_abbrev  0x000000000000033c      0x227 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+ .debug_abbrev  0x0000000000000563      0x421 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ .debug_abbrev  0x0000000000000984      0x345 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+ .debug_abbrev  0x0000000000000cc9      0x4dd /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ .debug_abbrev  0x00000000000011a6      0x1d2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+ .debug_abbrev  0x0000000000001378      0x26b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+ .debug_abbrev  0x00000000000015e3      0x29d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+ .debug_abbrev  0x0000000000001880       0xdc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+ .debug_abbrev  0x000000000000195c      0x297 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+ .debug_abbrev  0x0000000000001bf3      0x287 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+ .debug_abbrev  0x0000000000001e7a      0x1ea /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+
+.debug_line     0x0000000000000000     0x302b
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x382 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+ .debug_line    0x0000000000000382      0x276 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+ .debug_line    0x00000000000005f8      0x72f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ .debug_line    0x0000000000000d27      0x404 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+ .debug_line    0x000000000000112b      0xd7a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ .debug_line    0x0000000000001ea5      0x2a7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+ .debug_line    0x000000000000214c      0x2a2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+ .debug_line    0x00000000000023ee      0x339 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+ .debug_line    0x0000000000002727       0xc4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+ .debug_line    0x00000000000027eb      0x2da /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+ .debug_line    0x0000000000002ac5      0x2ff /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+ .debug_line    0x0000000000002dc4      0x267 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x197d
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x312 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+                                        0x38e (size before relaxing)
+ .debug_str     0x0000000000000312      0x2d7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+                                        0x4bd (size before relaxing)
+ .debug_str     0x00000000000005e9      0x3fa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+                                        0x845 (size before relaxing)
+ .debug_str     0x00000000000009e3      0x218 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+                                        0x498 (size before relaxing)
+ .debug_str     0x0000000000000bfb      0x584 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+                                        0x8e5 (size before relaxing)
+ .debug_str     0x000000000000117f      0x1ac /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+                                        0x379 (size before relaxing)
+ .debug_str     0x000000000000132b       0xb6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+                                        0x372 (size before relaxing)
+ .debug_str     0x00000000000013e1      0x100 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+                                        0x56c (size before relaxing)
+ .debug_str     0x00000000000014e1       0x73 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+                                        0x1e6 (size before relaxing)
+ .debug_str     0x0000000000001554      0x1c8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+                                        0x6a0 (size before relaxing)
+ .debug_str     0x000000000000171c      0x1b0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+                                        0x624 (size before relaxing)
+ .debug_str     0x00000000000018cc       0xb1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+                                        0x30f (size before relaxing)
+
+.debug_loc      0x0000000000000000     0xfa7b
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x1a66 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+ .debug_loc     0x0000000000001a66      0x4d0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+ .debug_loc     0x0000000000001f36     0x2538 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ .debug_loc     0x000000000000446e      0xa94 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+ .debug_loc     0x0000000000004f02     0x70df /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ .debug_loc     0x000000000000bfe1     0x18d1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+ .debug_loc     0x000000000000d8b2      0x5e5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+ .debug_loc     0x000000000000de97      0x77e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+ .debug_loc     0x000000000000e615      0x26d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+ .debug_loc     0x000000000000e882      0x53d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+ .debug_loc     0x000000000000edbf      0x6ef /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+ .debug_loc     0x000000000000f4ae      0x5cd /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x3350
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000      0x1f0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/hash.c.o
+ .debug_ranges  0x00000000000001f0       0x60 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/mbox.c.o
+ .debug_ranges  0x0000000000000250      0x240 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/systimetools.c.o
+ .debug_ranges  0x0000000000000490      0x180 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/timetools.c.o
+ .debug_ranges  0x0000000000000610     0x2500 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/random.c.o
+ .debug_ranges  0x0000000000002b10      0x1e0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/varint.c.o
+ .debug_ranges  0x0000000000002cf0       0xd0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/inotify.c.o
+ .debug_ranges  0x0000000000002dc0       0xb0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/dynmbox.c.o
+ .debug_ranges  0x0000000000002e70       0x40 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fdutils.c.o
+ .debug_ranges  0x0000000000002eb0      0x110 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/fs.c.o
+ .debug_ranges  0x0000000000002fc0      0x190 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/safew.c.o
+ .debug_ranges  0x0000000000003150      0x200 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libfutils/obj/src/synctools.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(out/olympe-linux/build/libfutils/libfutils.so elf64-x86-64)

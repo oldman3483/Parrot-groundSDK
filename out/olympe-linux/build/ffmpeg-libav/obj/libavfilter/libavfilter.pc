@@ -1,0 +1,14 @@
+prefix=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libavfilter
+Description: FFmpeg audio/video filtering library
+Version: 6.82.100
+Requires: 
+Requires.private: libavutil >= 55.58.100
+Conflicts:
+Libs: -L${libdir}  -lavfilter 
+Libs.private: -ldl -ldl -lxcb -lxcb-xfixes -lxcb-shape -lSDL2 -lm -llzma -lz -pthread
+Cflags: -I${includedir}

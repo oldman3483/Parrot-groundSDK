@@ -1,0 +1,5 @@
+libavutil/x86/cpu.o: src/libavutil/x86/cpu.c \
+ /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/ffmpeg-libav/autoconf-ffmpeg-libav.h \
+ src/libavutil/x86/asm.h config.h src/libavutil/x86/cpu.h \
+ src/libavutil/cpu.h src/libavutil/attributes.h \
+ src/libavutil/cpu_internal.h src/libavutil/cpu.h

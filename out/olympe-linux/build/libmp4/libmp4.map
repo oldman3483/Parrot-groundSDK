@@ -1,0 +1,803 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libulog.so                    /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o (ulog_log_write)
+libpthread.so.0               /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o (__errno_location@@GLIBC_2.2.5)
+libc.so.6                     /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o (__stack_chk_fail@@GLIBC_2.4)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+ .text.mp4_track_find
+                0x0000000000000000       0xea /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+ .text.mp4_track_remove
+                0x0000000000000000      0x1aa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libfutils.so
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libulog.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libm.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libm.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libmvec_nonshared.a
+LOAD /lib/x86_64-linux-gnu/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0       0xe8
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0       0xe8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x00000000000002d8      0x4e0
+ *(.dynsym)
+ .dynsym        0x00000000000002d8      0x4e0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x00000000000007b8      0x43e
+ *(.dynstr)
+ .dynstr        0x00000000000007b8      0x43e /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000000bf6       0x68
+ *(.gnu.version)
+ .gnu.version   0x0000000000000bf6       0x68 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000000c60        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000c60        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000000c60       0x70
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000000c60       0x70 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000000cd0       0xc0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_log_internal
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_xyz_read.isra.3
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_mvhd_read.isra.5
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_tkhd_read.isra.6
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_hdlr_read.isra.8
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_mdhd_read.isra.9
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_hmhd_read.isra.12
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_stsd_read.isra.15
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_stts_read.isra.16
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_stsz_read.isra.18
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_stsc_read.isra.19
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_co64_read.isra.21
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_ilst_sub_box_count.isra.22
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_meta_keys_read.isra.23
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_meta_data_read.isra.24
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_new
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_destroy
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_box_children_read
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_generate_avc_decoder_config
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_get_track_sample_time
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_open
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_seek
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_get_media_info
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_get_track_count
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_get_track_info
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_get_track_avc_decoder_config
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_get_track_audio_specific_config
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_get_track_sample
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_seek_to_track_prev_sample
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_seek_to_track_next_sample
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_get_track_prev_sample_time
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_get_track_next_sample_time
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_get_chapters
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_get_metadata_strings
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_get_track_metadata_strings
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_demux_get_metadata_cover
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_track_is_sync_sample
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_track_find_sample_by_time
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_track_add
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_track_find_by_idx
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_track_find_by_id
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_tracks_destroy
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mp4_tracks_build
+                0x0000000000000cd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.local
+                0x0000000000000cd0       0x30 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000000d00       0x60 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000000d60        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000000d60       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000000d78       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000000d90      0x1e0
+ *(.rela.plt)
+ .rela.plt      0x0000000000000d90      0x1e0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000000f70       0x17
+ *(SORT_NONE(.init))
+ .init          0x0000000000000f70       0x12 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000000f70                _init
+ .init          0x0000000000000f82        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000000f90      0x150
+ *(.plt)
+ .plt           0x0000000000000f90      0x150 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.plt.got        0x00000000000010e0        0x8
+ *(.plt.got)
+ .plt.got       0x00000000000010e0        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x00000000000010f0    0x128f5
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000000000010f0       0xda /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *fill*         0x00000000000011ca        0x6 
+ .text.mp4_track_type_str
+                0x00000000000011d0       0x88 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+                0x00000000000011d0                mp4_track_type_str
+ *fill*         0x0000000000001258        0x8 
+ .text.mp4_video_codec_str
+                0x0000000000001260       0x16 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+                0x0000000000001260                mp4_video_codec_str
+ *fill*         0x0000000000001276        0xa 
+ .text.mp4_audio_codec_str
+                0x0000000000001280       0x16 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+                0x0000000000001280                mp4_audio_codec_str
+ *fill*         0x0000000000001296        0xa 
+ .text.mp4_metadata_cover_type_str
+                0x00000000000012a0       0x2c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+                0x00000000000012a0                mp4_metadata_cover_type_str
+ *fill*         0x00000000000012cc        0x4 
+ .text.mp4_box_log_internal
+                0x00000000000012d0      0x2d7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x00000000000015a7        0x9 
+ .text.mp4_box_xyz_read.isra.3
+                0x00000000000015b0      0x5a8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x0000000000001b58        0x8 
+ .text.mp4_box_mvhd_read.isra.5
+                0x0000000000001b60      0xf05 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x0000000000002a65        0xb 
+ .text.mp4_box_tkhd_read.isra.6
+                0x0000000000002a70     0x1122 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x0000000000003b92        0xe 
+ .text.mp4_box_hdlr_read.isra.8
+                0x0000000000003ba0      0x6e5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x0000000000004285        0xb 
+ .text.mp4_box_mdhd_read.isra.9
+                0x0000000000004290      0xc3e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x0000000000004ece        0x2 
+ .text.mp4_box_hmhd_read.isra.12
+                0x0000000000004ed0      0x5a3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x0000000000005473        0xd 
+ .text.mp4_box_stsd_read.isra.15
+                0x0000000000005480     0x373d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x0000000000008bbd        0x3 
+ .text.mp4_box_stts_read.isra.16
+                0x0000000000008bc0      0x64e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x000000000000920e        0x2 
+ .text.mp4_box_stsz_read.isra.18
+                0x0000000000009210      0x687 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x0000000000009897        0x9 
+ .text.mp4_box_stsc_read.isra.19
+                0x00000000000098a0      0x6dc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x0000000000009f7c        0x4 
+ .text.mp4_box_co64_read.isra.21
+                0x0000000000009f80      0x656 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x000000000000a5d6        0xa 
+ .text.mp4_ilst_sub_box_count.isra.22
+                0x000000000000a5e0      0x4cd /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x000000000000aaad        0x3 
+ .text.mp4_box_meta_keys_read.isra.23
+                0x000000000000aab0      0x8c6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x000000000000b376        0xa 
+ .text.mp4_box_meta_data_read.isra.24
+                0x000000000000b380      0x9bc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x000000000000bd3c        0x4 
+ .text.mp4_box_new
+                0x000000000000bd40       0xdd /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+                0x000000000000bd40                mp4_box_new
+ *fill*         0x000000000000be1d        0x3 
+ .text.mp4_box_destroy
+                0x000000000000be20      0x116 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+                0x000000000000be20                mp4_box_destroy
+ *fill*         0x000000000000bf36        0xa 
+ .text.mp4_box_log
+                0x000000000000bf40        0x9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+                0x000000000000bf40                mp4_box_log
+ *fill*         0x000000000000bf49        0x7 
+ .text.mp4_box_children_read
+                0x000000000000bf50     0x3872 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+                0x000000000000bf50                mp4_box_children_read
+ *fill*         0x000000000000f7c2        0xe 
+ .text.mp4_generate_avc_decoder_config
+                0x000000000000f7d0      0x33e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+                0x000000000000f7d0                mp4_generate_avc_decoder_config
+ *fill*         0x000000000000fb0e        0x2 
+ .text.mp4_demux_get_track_sample_time
+                0x000000000000fb10      0x22d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+ *fill*         0x000000000000fd3d        0x3 
+ .text.mp4_demux_close
+                0x000000000000fd40      0x14b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x000000000000fd40                mp4_demux_close
+ *fill*         0x000000000000fe8b        0x5 
+ .text.mp4_demux_open
+                0x000000000000fe90      0x87a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x000000000000fe90                mp4_demux_open
+ *fill*         0x000000000001070a        0x6 
+ .text.mp4_demux_seek
+                0x0000000000010710      0x512 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x0000000000010710                mp4_demux_seek
+ *fill*         0x0000000000010c22        0xe 
+ .text.mp4_demux_get_media_info
+                0x0000000000010c30      0x107 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x0000000000010c30                mp4_demux_get_media_info
+ *fill*         0x0000000000010d37        0x9 
+ .text.mp4_demux_get_track_count
+                0x0000000000010d40       0x81 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x0000000000010d40                mp4_demux_get_track_count
+ *fill*         0x0000000000010dc1        0xf 
+ .text.mp4_demux_get_track_info
+                0x0000000000010dd0      0x2ea /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x0000000000010dd0                mp4_demux_get_track_info
+ *fill*         0x00000000000110ba        0x6 
+ .text.mp4_demux_get_track_avc_decoder_config
+                0x00000000000110c0      0x210 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x00000000000110c0                mp4_demux_get_track_avc_decoder_config
+ .text.mp4_demux_get_track_audio_specific_config
+                0x00000000000112d0      0x1da /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x00000000000112d0                mp4_demux_get_track_audio_specific_config
+ *fill*         0x00000000000114aa        0x6 
+ .text.mp4_demux_get_track_sample
+                0x00000000000114b0      0x5da /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x00000000000114b0                mp4_demux_get_track_sample
+ *fill*         0x0000000000011a8a        0x6 
+ .text.mp4_demux_seek_to_track_prev_sample
+                0x0000000000011a90      0x12d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x0000000000011a90                mp4_demux_seek_to_track_prev_sample
+ *fill*         0x0000000000011bbd        0x3 
+ .text.mp4_demux_seek_to_track_next_sample
+                0x0000000000011bc0      0x145 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x0000000000011bc0                mp4_demux_seek_to_track_next_sample
+ *fill*         0x0000000000011d05        0xb 
+ .text.mp4_demux_get_track_prev_sample_time
+                0x0000000000011d10      0x189 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x0000000000011d10                mp4_demux_get_track_prev_sample_time
+ *fill*         0x0000000000011e99        0x7 
+ .text.mp4_demux_get_track_next_sample_time
+                0x0000000000011ea0      0x189 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x0000000000011ea0                mp4_demux_get_track_next_sample_time
+ *fill*         0x0000000000012029        0x7 
+ .text.mp4_demux_get_track_prev_sample_time_before
+                0x0000000000012030        0xe /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x0000000000012030                mp4_demux_get_track_prev_sample_time_before
+ *fill*         0x000000000001203e        0x2 
+ .text.mp4_demux_get_track_next_sample_time_after
+                0x0000000000012040        0xe /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x0000000000012040                mp4_demux_get_track_next_sample_time_after
+ *fill*         0x000000000001204e        0x2 
+ .text.mp4_demux_get_chapters
+                0x0000000000012050      0x184 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x0000000000012050                mp4_demux_get_chapters
+ *fill*         0x00000000000121d4        0xc 
+ .text.mp4_demux_get_metadata_strings
+                0x00000000000121e0      0x184 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x00000000000121e0                mp4_demux_get_metadata_strings
+ *fill*         0x0000000000012364        0xc 
+ .text.mp4_demux_get_track_metadata_strings
+                0x0000000000012370      0x227 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x0000000000012370                mp4_demux_get_track_metadata_strings
+ *fill*         0x0000000000012597        0x9 
+ .text.mp4_demux_get_metadata_cover
+                0x00000000000125a0      0x2bb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                0x00000000000125a0                mp4_demux_get_metadata_cover
+ *fill*         0x000000000001285b        0x5 
+ .text.mp4_track_destroy.part.1
+                0x0000000000012860       0xb2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+ *fill*         0x0000000000012912        0xe 
+ .text.mp4_track_is_sync_sample
+                0x0000000000012920      0x109 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+                0x0000000000012920                mp4_track_is_sync_sample
+ *fill*         0x0000000000012a29        0x7 
+ .text.mp4_track_find_sample_by_time
+                0x0000000000012a30      0x292 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+                0x0000000000012a30                mp4_track_find_sample_by_time
+ *fill*         0x0000000000012cc2        0xe 
+ .text.mp4_track_add
+                0x0000000000012cd0      0x1c4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+                0x0000000000012cd0                mp4_track_add
+ *fill*         0x0000000000012e94        0xc 
+ .text.mp4_track_find_by_idx
+                0x0000000000012ea0       0xb1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+                0x0000000000012ea0                mp4_track_find_by_idx
+ *fill*         0x0000000000012f51        0xf 
+ .text.mp4_track_find_by_id
+                0x0000000000012f60       0xbb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+                0x0000000000012f60                mp4_track_find_by_id
+ *fill*         0x000000000001301b        0x5 
+ .text.mp4_tracks_destroy
+                0x0000000000013020       0xbc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+                0x0000000000013020                mp4_tracks_destroy
+ *fill*         0x00000000000130dc        0x4 
+ .text.mp4_tracks_build
+                0x00000000000130e0      0x905 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+                0x00000000000130e0                mp4_tracks_build
+ *(.gnu.warning)
+
+.fini           0x00000000000139e8        0x9
+ *(SORT_NONE(.fini))
+ .fini          0x00000000000139e8        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x00000000000139e8                _fini
+ .fini          0x00000000000139ec        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+
+.rodata         0x0000000000013a00     0x1d89
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000013a00       0x4c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+ .rodata        0x0000000000013a4c       0x1c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+ .rodata.str1.1
+                0x0000000000013a68      0xaf0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ .rodata.str1.8
+                0x0000000000014558      0x771 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x0000000000014cc9       0x17 
+ .rodata        0x0000000000014ce0      0x37c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ .rodata.cst4   0x000000000001505c        0x8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ *fill*         0x0000000000015064        0x4 
+ .rodata.cst8   0x0000000000015068        0x8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ .rodata.str1.1
+                0x0000000000015070       0xad /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                                        0x128 (size before relaxing)
+ *fill*         0x000000000001511d        0x3 
+ .rodata.str1.8
+                0x0000000000015120      0x17c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+ *fill*         0x000000000001529c        0x4 
+ .rodata        0x00000000000152a0      0x2e7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+ .rodata.cst4   0x0000000000015587        0x4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+ .rodata.str1.1
+                0x0000000000015587       0x1a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+                                         0x90 (size before relaxing)
+ *fill*         0x00000000000155a1        0x7 
+ .rodata.str1.8
+                0x00000000000155a8       0xb8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+                                         0xb7 (size before relaxing)
+ .rodata        0x0000000000015660      0x129 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x000000000001578c      0x1bc
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x000000000001578c      0x1bc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+                0x000000000001578c                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x0000000000015948     0x1c08
+ *(.eh_frame)
+ .eh_frame      0x0000000000015948       0x40 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000015988       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x00000000000159a0       0x50 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+                                         0x68 (size before relaxing)
+ .eh_frame      0x00000000000159f0     0x1240 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+                                       0x1258 (size before relaxing)
+ .eh_frame      0x0000000000016c30      0x6d0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                                        0x6e8 (size before relaxing)
+ .eh_frame      0x0000000000017300      0x24c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+                                        0x310 (size before relaxing)
+ .eh_frame      0x000000000001754c        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000217de0                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000217de0        0x8
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000217de0        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.fini_array     0x0000000000217de8        0x8
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000217de8        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x0000000000217df0        0x0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x0000000000217df0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynamic        0x0000000000217df0      0x1f0
+ *(.dynamic)
+ .dynamic       0x0000000000217df0      0x1f0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000217df0                _DYNAMIC
+
+.got            0x0000000000217fe0       0x20
+ *(.got)
+ .got           0x0000000000217fe0       0x20 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x0000000000218fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000218000       0xb8
+ *(.got.plt)
+ .got.plt       0x0000000000218000       0xb8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000218000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x00000000002180c0       0x40
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local
+                0x00000000002180c0        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                0x00000000002180c0                __dso_handle
+ *fill*         0x00000000002180c8       0x18 
+ .data.rel.local
+                0x00000000002180e0       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+                0x00000000002180e0                __ulog_cookie_libmp4
+
+.tm_clone_table
+                0x0000000000218100        0x0
+ .tm_clone_table
+                0x0000000000218100        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .tm_clone_table
+                0x0000000000218100        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.data1
+ *(.data1)
+                0x0000000000218100                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x0000000000218100                . = .
+                0x0000000000218100                __bss_start = .
+
+.bss            0x0000000000218100        0x8
+ *(.dynbss)
+ .dynbss        0x0000000000218100        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000218100        0x1 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *(COMMON)
+                0x0000000000218108                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x0000000000218101        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x0000000000218108                . = ALIGN (0x8)
+                0x0000000000218108                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x0000000000618108        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x0000000000618108                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x0000000000618108                . = ALIGN (0x8)
+                0x0000000000618108                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x0000000000618108                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x29
+ *(.comment)
+ .comment       0x0000000000000000       0x29 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                                         0x2a (size before relaxing)
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+ .comment       0x0000000000000029       0x2a /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x3e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x60 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+ .debug_aranges
+                0x0000000000000060      0x160 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ .debug_aranges
+                0x00000000000001c0      0x160 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+ .debug_aranges
+                0x0000000000000320       0xc0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x20ea2
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x675 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+ .debug_info    0x0000000000000675    0x19691 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ .debug_info    0x0000000000019d06     0x4aaa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+ .debug_info    0x000000000001e7b0     0x26f2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+
+.debug_abbrev   0x0000000000000000     0x104f
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x175 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+ .debug_abbrev  0x0000000000000175      0x532 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ .debug_abbrev  0x00000000000006a7      0x4f8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+ .debug_abbrev  0x0000000000000b9f      0x4b0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+
+.debug_line     0x0000000000000000     0x4d25
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x21d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+ .debug_line    0x000000000000021d     0x312b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ .debug_line    0x0000000000003348     0x1180 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+ .debug_line    0x00000000000044c8      0x85d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x1adc
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x613 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+                                        0x6a3 (size before relaxing)
+ .debug_str     0x0000000000000613      0xc5c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+                                       0x1310 (size before relaxing)
+ .debug_str     0x000000000000126f      0x731 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+                                       0x1486 (size before relaxing)
+ .debug_str     0x00000000000019a0      0x13c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+                                        0xf28 (size before relaxing)
+
+.debug_loc      0x0000000000000000    0x3571a
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x39 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+ .debug_loc     0x0000000000000039    0x29143 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ .debug_loc     0x000000000002917c     0x90f9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+ .debug_loc     0x0000000000032275     0x34a5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000    0x12890
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x50 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4.c.o
+ .debug_ranges  0x0000000000000050    0x100c0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_box.c.o
+ .debug_ranges  0x0000000000010110     0x1bc0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_demux.c.o
+ .debug_ranges  0x0000000000011cd0      0xbc0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmp4/obj/src/mp4_track.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(out/olympe-linux/build/libmp4/libmp4.so elf64-x86-64)

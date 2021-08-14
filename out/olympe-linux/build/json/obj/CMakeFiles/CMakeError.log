@@ -1,0 +1,169 @@
+Determining if the include file xlocale.h exists failed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4603f/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_4603f.dir/build.make CMakeFiles/cmTC_4603f.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4603f.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_4603f.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: xlocale.h: No such file or directory
+ #include <xlocale.h>
+          ^~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_4603f.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_4603f.dir/CheckIncludeFile.c.o' failed
+make[2]: *** [CMakeFiles/cmTC_4603f.dir/CheckIncludeFile.c.o] Error 1
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_4603f/fast' failed
+make[1]: *** [cmTC_4603f/fast] Error 2
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the _isnan exist failed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1e212/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_1e212.dir/build.make CMakeFiles/cmTC_1e212.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1e212.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_1e212.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘_isnan’ undeclared (first use in this function)
+   return ((int*)(&_isnan))[argc];
+                   ^~~~~~
+/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+CMakeFiles/cmTC_1e212.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_1e212.dir/CheckSymbolExists.c.o' failed
+make[2]: *** [CMakeFiles/cmTC_1e212.dir/CheckSymbolExists.c.o] Error 1
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_1e212/fast' failed
+make[1]: *** [cmTC_1e212/fast] Error 2
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <float.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _isnan
+  return ((int*)(&_isnan))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the _finite exist failed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_dba79/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_dba79.dir/build.make CMakeFiles/cmTC_dba79.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_dba79.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_dba79.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘_finite’ undeclared (first use in this function)
+   return ((int*)(&_finite))[argc];
+                   ^~~~~~~
+/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+CMakeFiles/cmTC_dba79.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_dba79.dir/CheckSymbolExists.c.o' failed
+make[2]: *** [CMakeFiles/cmTC_dba79.dir/CheckSymbolExists.c.o] Error 1
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_dba79/fast' failed
+make[1]: *** [cmTC_dba79/fast] Error 2
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <float.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _finite
+  return ((int*)(&_finite))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the _doprnt exist failed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f1ed7/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_f1ed7.dir/build.make CMakeFiles/cmTC_f1ed7.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f1ed7.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_f1ed7.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘_doprnt’ undeclared (first use in this function); did you mean ‘fdopen’?
+   return ((int*)(&_doprnt))[argc];
+                   ^~~~~~~
+                   fdopen
+/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+CMakeFiles/cmTC_f1ed7.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_f1ed7.dir/CheckSymbolExists.c.o' failed
+make[2]: *** [CMakeFiles/cmTC_f1ed7.dir/CheckSymbolExists.c.o] Error 1
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_f1ed7/fast' failed
+make[1]: *** [cmTC_f1ed7/fast] Error 2
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _doprnt
+  return ((int*)(&_doprnt))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Performing C SOURCE FILE Test HAS_GNU_WARNING_LONG failed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_81acb/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_81acb.dir/build.make CMakeFiles/cmTC_81acb.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_81acb.dir/src.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error -DHAS_GNU_WARNING_LONG -fPIE   -o CMakeFiles/cmTC_81acb.dir/src.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/src.c
+/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/src.c:3:9: warning: missing terminating " character
+ __asm__(".section .gnu.json_object_get
+         ^
+/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/src.c:3:9: error: missing terminating " character
+ __asm__(".section .gnu.json_object_get
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/src.c:4:2: error: expected string literal before ‘.’ token
+  .ascii "Please link against libjson-c instead of libjson"
+  ^
+/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/src.c:5:7: warning: missing terminating " character
+  .text");
+       ^
+/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/src.c:5:7: error: missing terminating " character
+  .text");
+       ^~~
+CMakeFiles/cmTC_81acb.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_81acb.dir/src.c.o' failed
+make[2]: *** [CMakeFiles/cmTC_81acb.dir/src.c.o] Error 1
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_81acb/fast' failed
+make[1]: *** [cmTC_81acb/fast] Error 2
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+extern void json_object_get();
+__asm__(".section .gnu.json_object_get
+	.ascii "Please link against libjson-c instead of libjson"
+	.text");
+int main(int c, char *v) { return 0;}
+

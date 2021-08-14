@@ -1,0 +1,671 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libulog.so                    /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o (ulog_log_write)
+libz.so.1                     /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o (gzerror)
+libtar.so                     /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o (tar_close)
+libpthread.so.0               /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o (__errno_location@@GLIBC_2.2.5)
+libc.so.6                     /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o (fchmod@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libulog.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libz.so
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libtar.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libm.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libm.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libmvec_nonshared.a
+LOAD /lib/x86_64-linux-gnu/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0       0xb0
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0       0xb0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x00000000000002a0      0x5a0
+ *(.dynsym)
+ .dynsym        0x00000000000002a0      0x5a0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000000840      0x333
+ *(.dynstr)
+ .dynstr        0x0000000000000840      0x333 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000000b74       0x78
+ *(.gnu.version)
+ .gnu.version   0x0000000000000b74       0x78 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000000bf0        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000bf0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000000bf0       0x80
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000000bf0       0x80 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000000c70      0x120
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000c70        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.puf_tar_check
+                0x0000000000000c70        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.puf_tar_get_file_size
+                0x0000000000000c70        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.puf_tar_extract_to_buf
+                0x0000000000000c70        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.puf_tar_new
+                0x0000000000000c70        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.puf_tar_get_version_from_prop
+                0x0000000000000c70        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.local
+                0x0000000000000c70       0x90 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000000d00       0x60 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000000d60        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000000d60       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000000d78       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000000d90      0x3d8
+ *(.rela.plt)
+ .rela.plt      0x0000000000000d90      0x3d8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000001168       0x17
+ *(SORT_NONE(.init))
+ .init          0x0000000000001168       0x12 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000001168                _init
+ .init          0x000000000000117a        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000001180      0x2a0
+ *(.plt)
+ .plt           0x0000000000001180      0x2a0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.plt.got        0x0000000000001420        0x8
+ *(.plt.got)
+ .plt.got       0x0000000000001420        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000001430     0x1948
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000001430       0xda /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *fill*         0x000000000000150a        0x6 
+ .text.puf_destroy
+                0x0000000000001510       0x32 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x0000000000001510                puf_destroy
+ *fill*         0x0000000000001542        0xe 
+ .text.puf_new  0x0000000000001550      0x17d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x0000000000001550                puf_new
+ *fill*         0x00000000000016cd        0x3 
+ .text.puf_get_app_id
+                0x00000000000016d0       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x00000000000016d0                puf_get_app_id
+ *fill*         0x0000000000001706        0xa 
+ .text.puf_get_target_id
+                0x0000000000001710       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x0000000000001710                puf_get_target_id
+ *fill*         0x0000000000001746        0xa 
+ .text.puf_get_file_size
+                0x0000000000001750       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x0000000000001750                puf_get_file_size
+ *fill*         0x0000000000001786        0xa 
+ .text.puf_check
+                0x0000000000001790       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x0000000000001790                puf_check
+ *fill*         0x00000000000017c6        0xa 
+ .text.puf_extract_to_buf
+                0x00000000000017d0       0x46 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x00000000000017d0                puf_extract_to_buf
+ *fill*         0x0000000000001816        0xa 
+ .text.puf_extract_to_file
+                0x0000000000001820       0x46 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x0000000000001820                puf_extract_to_file
+ *fill*         0x0000000000001866        0xa 
+ .text.puf_walk
+                0x0000000000001870       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x0000000000001870                puf_walk
+ *fill*         0x00000000000018a6        0xa 
+ .text.puf_check_version
+                0x00000000000018b0       0x7e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x00000000000018b0                puf_check_version
+ *fill*         0x000000000000192e        0x2 
+ .text.puf_compare_version
+                0x0000000000001930       0xda /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x0000000000001930                puf_compare_version
+ *fill*         0x0000000000001a0a        0x6 
+ .text.puf_get_version
+                0x0000000000001a10      0x103 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x0000000000001a10                puf_get_version
+ *fill*         0x0000000000001b13        0xd 
+ .text.puf_version_tostring
+                0x0000000000001b20      0x16e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x0000000000001b20                puf_version_tostring
+ *fill*         0x0000000000001c8e        0x2 
+ .text.puf_version_fromstring
+                0x0000000000001c90      0x268 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x0000000000001c90                puf_version_fromstring
+ *fill*         0x0000000000001ef8        0x8 
+ .text.puf_fill_version_from_header
+                0x0000000000001f00      0x1b6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+ *fill*         0x00000000000020b6        0xa 
+ .text.puf_plf_new
+                0x00000000000020c0       0x6c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+                0x00000000000020c0                puf_plf_new
+ *fill*         0x000000000000212c        0x4 
+ .text.puf_plf_destroy
+                0x0000000000002130       0x12 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+                0x0000000000002130                puf_plf_destroy
+ *fill*         0x0000000000002142        0xe 
+ .text.puf_plf_get_version
+                0x0000000000002150       0x16 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+                0x0000000000002150                puf_plf_get_version
+ *fill*         0x0000000000002166        0xa 
+ .text.puf_plf_get_app_id
+                0x0000000000002170       0x1e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+                0x0000000000002170                puf_plf_get_app_id
+ *fill*         0x000000000000218e        0x2 
+ .text.puf_plf_get_target_id
+                0x0000000000002190       0x1e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+                0x0000000000002190                puf_plf_get_target_id
+ *fill*         0x00000000000021ae        0x2 
+ .text.puf_plf_check
+                0x00000000000021b0        0x6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+                0x00000000000021b0                puf_plf_check
+ *fill*         0x00000000000021b6        0xa 
+ .text.puf_plf_get_file_size
+                0x00000000000021c0        0x6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+                0x00000000000021c0                puf_plf_get_file_size
+ *fill*         0x00000000000021c6        0xa 
+ .text.puf_plf_extract_to_buf
+                0x00000000000021d0        0x6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+                0x00000000000021d0                puf_plf_extract_to_buf
+ *fill*         0x00000000000021d6        0xa 
+ .text.puf_plf_extract_to_file
+                0x00000000000021e0        0x6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+                0x00000000000021e0                puf_plf_extract_to_file
+ *fill*         0x00000000000021e6        0xa 
+ .text.puf_plf_walk
+                0x00000000000021f0        0x6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+                0x00000000000021f0                puf_plf_walk
+ *fill*         0x00000000000021f6        0xa 
+ .text.puf_plf_get_version_from_buffer
+                0x0000000000002200       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+                0x0000000000002200                puf_plf_get_version_from_buffer
+ *fill*         0x0000000000002236        0xa 
+ .text.extract_to_buf_end_cb
+                0x0000000000002240        0xb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+ *fill*         0x000000000000224b        0x5 
+ .text.gzwrite_frontend
+                0x0000000000002250       0x10 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+ .text.gzread_frontend
+                0x0000000000002260       0x10 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+ .text.gzclose_frontend
+                0x0000000000002270        0x5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+ *fill*         0x0000000000002275        0xb 
+ .text.gzopen_frontend
+                0x0000000000002280       0xc5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+ *fill*         0x0000000000002345        0xb 
+ .text.get_file_size_begin_cb
+                0x0000000000002350       0x44 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+ *fill*         0x0000000000002394        0xc 
+ .text.extract_to_buf_data_cb
+                0x00000000000023a0       0x45 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+ *fill*         0x00000000000023e5        0xb 
+ .text.walk_read_member.isra.1
+                0x00000000000023f0       0xcc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+ *fill*         0x00000000000024bc        0x4 
+ .text.extract_to_buf_begin_cb
+                0x00000000000024c0       0x47 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+ *fill*         0x0000000000002507        0x9 
+ .text.puf_tar_destroy
+                0x0000000000002510       0x22 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+                0x0000000000002510                puf_tar_destroy
+ *fill*         0x0000000000002532        0xe 
+ .text.puf_tar_get_version_from_plf
+                0x0000000000002540       0x26 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+                0x0000000000002540                puf_tar_get_version_from_plf
+ *fill*         0x0000000000002566        0xa 
+ .text.puf_tar_get_app_id
+                0x0000000000002570       0x1e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+                0x0000000000002570                puf_tar_get_app_id
+ *fill*         0x000000000000258e        0x2 
+ .text.puf_tar_get_target_id
+                0x0000000000002590       0x1e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+                0x0000000000002590                puf_tar_get_target_id
+ *fill*         0x00000000000025ae        0x2 
+ .text.puf_tar_check
+                0x00000000000025b0      0x1a2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+                0x00000000000025b0                puf_tar_check
+ *fill*         0x0000000000002752        0xe 
+ .text.puf_tar_extract_to_file
+                0x0000000000002760      0x189 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+                0x0000000000002760                puf_tar_extract_to_file
+ *fill*         0x00000000000028e9        0x7 
+ .text.puf_tar_walk
+                0x00000000000028f0      0x1fa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+                0x00000000000028f0                puf_tar_walk
+ *fill*         0x0000000000002aea        0x6 
+ .text.puf_tar_get_file_size
+                0x0000000000002af0       0x8c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+                0x0000000000002af0                puf_tar_get_file_size
+ *fill*         0x0000000000002b7c        0x4 
+ .text.puf_tar_extract_to_buf
+                0x0000000000002b80       0x91 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+                0x0000000000002b80                puf_tar_extract_to_buf
+ *fill*         0x0000000000002c11        0xf 
+ .text.puf_tar_new
+                0x0000000000002c20       0x8a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+                0x0000000000002c20                puf_tar_new
+ *fill*         0x0000000000002caa        0x6 
+ .text.puf_tar_get_version_from_prop
+                0x0000000000002cb0       0xc8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+                0x0000000000002cb0                puf_tar_get_version_from_prop
+ *(.gnu.warning)
+
+.fini           0x0000000000002d78        0x9
+ *(SORT_NONE(.fini))
+ .fini          0x0000000000002d78        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000002d78                _fini
+ .fini          0x0000000000002d7c        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+
+.rodata         0x0000000000002d84       0xbd
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000002d84       0x66 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+ *fill*         0x0000000000002dea        0x2 
+ .rodata        0x0000000000002dec       0x14 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+ .rodata.str1.1
+                0x0000000000002e00        0x3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+ .rodata.str1.1
+                0x0000000000002e03       0x3e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+                                         0x41 (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000002e44      0x18c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000002e44      0x18c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x0000000000002e44                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x0000000000002fd0      0x6cc
+ *(.eh_frame)
+ .eh_frame      0x0000000000002fd0       0x40 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000003010       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000003028      0x240 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                                        0x258 (size before relaxing)
+ .eh_frame      0x0000000000003268      0x110 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+                                        0x128 (size before relaxing)
+ .eh_frame      0x0000000000003378      0x320 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+                                        0x338 (size before relaxing)
+ .eh_frame      0x0000000000003698        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000203dc0                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000203dc0        0x8
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000203dc0        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.fini_array     0x0000000000203dc8        0x8
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000203dc8        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x0000000000203dd0        0x0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x0000000000203dd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynamic        0x0000000000203dd0      0x210
+ *(.dynamic)
+ .dynamic       0x0000000000203dd0      0x210 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000203dd0                _DYNAMIC
+
+.got            0x0000000000203fe0       0x20
+ *(.got)
+ .got           0x0000000000203fe0       0x20 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x0000000000204fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000204000      0x160
+ *(.got.plt)
+ .got.plt       0x0000000000204000      0x160 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000204000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000000000204160       0x60
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local
+                0x0000000000204160        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                0x0000000000204160                __dso_handle
+ *fill*         0x0000000000204168       0x18 
+ .data.rel.local
+                0x0000000000204180       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                0x0000000000204180                __ulog_cookie_libpuf
+ .data.rel.local
+                0x00000000002041a0       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+
+.tm_clone_table
+                0x00000000002041c0        0x0
+ .tm_clone_table
+                0x00000000002041c0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .tm_clone_table
+                0x00000000002041c0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.data1
+ *(.data1)
+                0x00000000002041c0                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x00000000002041c0                . = .
+                0x00000000002041c0                __bss_start = .
+
+.bss            0x00000000002041c0        0x8
+ *(.dynbss)
+ .dynbss        0x00000000002041c0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00000000002041c0        0x1 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *(COMMON)
+                0x00000000002041c8                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x00000000002041c1        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x00000000002041c8                . = ALIGN (0x8)
+                0x00000000002041c8                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x00000000006041c8        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x00000000006041c8                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x00000000006041c8                . = ALIGN (0x8)
+                0x00000000006041c8                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x00000000006041c8                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x29
+ *(.comment)
+ .comment       0x0000000000000000       0x29 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                                         0x2a (size before relaxing)
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+ .comment       0x0000000000000029       0x2a /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x330
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x100 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+ .debug_aranges
+                0x0000000000000100       0xd0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+ .debug_aranges
+                0x00000000000001d0      0x160 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x4083
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x16ef /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+ .debug_info    0x00000000000016ef      0xc5b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+ .debug_info    0x000000000000234a     0x1d39 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+
+.debug_abbrev   0x0000000000000000      0xc97
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x45d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+ .debug_abbrev  0x000000000000045d      0x38c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+ .debug_abbrev  0x00000000000007e9      0x4ae /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+
+.debug_line     0x0000000000000000      0xecc
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x537 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+ .debug_line    0x0000000000000537      0x375 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+ .debug_line    0x00000000000008ac      0x620 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0xddc
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x96b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+                                        0xa73 (size before relaxing)
+ .debug_str     0x000000000000096b       0xc6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+                                        0x777 (size before relaxing)
+ .debug_str     0x0000000000000a31      0x3ab /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+                                        0xbb6 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x345d
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x1747 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+ .debug_loc     0x0000000000001747      0x500 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+ .debug_loc     0x0000000000001c47     0x1816 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x680
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000      0x270 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf.c.o
+ .debug_ranges  0x0000000000000270      0x130 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_plf.c.o
+ .debug_ranges  0x00000000000003a0      0x2e0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpuf/obj/src/libpuf_tar.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(out/olympe-linux/build/libpuf/libpuf.so elf64-x86-64)

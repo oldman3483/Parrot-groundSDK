@@ -1,0 +1,1489 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libulog.so                    /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o (ulog_log_write)
+libjson-c.so.5                /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o (json_object_new_object@@JSONC_0.14)
+libc.so.6                     /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o (strrchr@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ .rodata.str1.1
+                0x0000000000000000       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ .text.h264_bac_decode_init
+                0x0000000000000000      0x17f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ .text.h264_cabac_init_dec
+                0x0000000000000000       0x32 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libulog.so
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libjson-c.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libm.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libm.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libmvec_nonshared.a
+LOAD /lib/x86_64-linux-gnu/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x1e0
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x1e0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x00000000000003d0      0x8b8
+ *(.dynsym)
+ .dynsym        0x00000000000003d0      0x8b8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000000c88      0x701
+ *(.dynstr)
+ .dynstr        0x0000000000000c88      0x701 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x000000000000138a       0xba
+ *(.gnu.version)
+ .gnu.version   0x000000000000138a       0xba /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000001448        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000001448        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000001448       0x80
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000001448       0x80 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x00000000000014c8       0xc0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_get_sps_derived
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_get_info
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_find_nalu
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_bs_read_raw_bytes
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_bs_write_raw_bytes
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_bs_acquire_buf
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.binarize_u
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.write_binstring
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_cabac_write_mb_type
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_cabac_write_intra_chroma_pred_mode
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_cabac_write_coded_block_flag
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_cabac_init_states
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_new
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_set_nalu_header
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_set_aud
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_set_sps
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_set_pps
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_set_active_sps
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_set_active_pps
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_clear_sei_table
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_add_sei_internal
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_add_sei
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_get_sei_count
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_sei_pic_timing_to_ts
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_sei_pic_timing_to_us
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_clear_slice
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_clear_nalu
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_clear
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_ctx_set_slice_header
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_pwt_item.isra.3
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_sei_pic_timing.isra.7
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_sei_pan_scan_rect.isra.8
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_sei_data.isra.9
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_scaling_list.isra.14
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_scaling_matrix
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_hrd.isra.15
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_sps
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_pps_internal.isra.16
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_sei_buffering_period.isra.22
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_rplm_items.isra.2.constprop.39
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_slice_header
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_residual_block
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_residual_luma.constprop.35
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_mb_pred
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_dump_macroblock_layer
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_dump_new
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_dump_clear
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_dump_get_json_object
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_dump_get_json_str
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_dump_nalu
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_sei_data
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_rplm_items.constprop.15
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_scaling_list
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_scaling_matrix
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_nalu_header
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_hrd
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_residual_block
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_residual_luma.constprop.14
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_pwt_item
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_slice_header
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_pps_internal.isra.11
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_vui
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_sps
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_macroblock_layer
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_one_sei
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_nalu.constprop.12
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_reader_new
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_reader_stop
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_reader_parse_nalu
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_reader_parse
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_parse_nalu_header
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_parse_sps
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_parse_pps
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_vlc_16_15
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_read_vlc_11_7
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_read_mb_type
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_read_sub_mb_type
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_read_coded_block_pattern
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_new_macroblock
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_read_coeff_token
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_read_total_zeros
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_read_run_before
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_sei_update_internal_buf
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_write_hrd
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_write_sei_data
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_write_grey_i_slice_cabac
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_write_skipped_p_slice_cabac
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_write_rplm_items.constprop.20
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_write_scaling_list.isra.8
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_write_scaling_matrix
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_write_pwt_item
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_write_slice_header
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text._h264_write_sps
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_write_nalu
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_write_one_sei
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_write_grey_i_slice
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_write_skipped_p_slice
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.h264_rewrite_slice_header
+                0x00000000000014c8        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.local
+                0x00000000000014c8       0x30 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x00000000000014f8       0x60 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000001558        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000001558       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000001570       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000001588      0x4e0
+ *(.rela.plt)
+ .rela.plt      0x0000000000001588      0x4e0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000001a68       0x17
+ *(SORT_NONE(.init))
+ .init          0x0000000000001a68       0x12 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000001a68                _init
+ .init          0x0000000000001a7a        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000001a80      0x350
+ *(.plt)
+ .plt           0x0000000000001a80      0x350 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.plt.got        0x0000000000001dd0        0x8
+ *(.plt.got)
+ .plt.got       0x0000000000001dd0        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000001de0    0x3072e
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ .text.unlikely.h264_dump_json_push.part.19
+                0x0000000000001de0       0x23 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ *fill*         0x0000000000001e03        0xd 
+ .text          0x0000000000001e10       0xda /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *fill*         0x0000000000001eea        0x6 
+ .text.h264_get_sps_derived
+                0x0000000000001ef0      0x305 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+                0x0000000000001ef0                h264_get_sps_derived
+ *fill*         0x00000000000021f5        0xb 
+ .text.h264_get_info
+                0x0000000000002200      0x59e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+                0x0000000000002200                h264_get_info
+ *fill*         0x000000000000279e        0x2 
+ .text.h264_bac_encode_put_bit
+                0x00000000000027a0       0x68 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ *fill*         0x0000000000002808        0x8 
+ .text.h264_bac_encode_renorm
+                0x0000000000002810       0x7f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ *fill*         0x000000000000288f        0x1 
+ .text.h264_bac_state_init
+                0x0000000000002890       0x53 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+                0x0000000000002890                h264_bac_state_init
+ *fill*         0x00000000000028e3        0xd 
+ .text.h264_bac_encode_init
+                0x00000000000028f0       0x21 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+                0x00000000000028f0                h264_bac_encode_init
+ *fill*         0x0000000000002911        0xf 
+ .text.h264_bac_encode_bin
+                0x0000000000002920       0x7f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+                0x0000000000002920                h264_bac_encode_bin
+ *fill*         0x000000000000299f        0x1 
+ .text.h264_bac_encode_bypass
+                0x00000000000029a0       0x6a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+                0x00000000000029a0                h264_bac_encode_bypass
+ *fill*         0x0000000000002a0a        0x6 
+ .text.h264_bac_encode_terminate
+                0x0000000000002a10       0x6f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+                0x0000000000002a10                h264_bac_encode_terminate
+ *fill*         0x0000000000002a7f        0x1 
+ .text.h264_bs_ensure_capacity.part.1
+                0x0000000000002a80       0x3a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+ *fill*         0x0000000000002aba        0x6 
+ .text.h264_find_nalu
+                0x0000000000002ac0      0x1f4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+                0x0000000000002ac0                h264_find_nalu
+ *fill*         0x0000000000002cb4        0xc 
+ .text.h264_bs_read_bits_ue
+                0x0000000000002cc0      0x1d3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+                0x0000000000002cc0                h264_bs_read_bits_ue
+ *fill*         0x0000000000002e93        0xd 
+ .text.h264_bs_write_bits
+                0x0000000000002ea0      0x16a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+                0x0000000000002ea0                h264_bs_write_bits
+ *fill*         0x000000000000300a        0x6 
+ .text.h264_bs_write_bits_ue
+                0x0000000000003010       0x9e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+                0x0000000000003010                h264_bs_write_bits_ue
+ *fill*         0x00000000000030ae        0x2 
+ .text.h264_bs_read_bits_ff_coded
+                0x00000000000030b0      0x132 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+                0x00000000000030b0                h264_bs_read_bits_ff_coded
+ *fill*         0x00000000000031e2        0xe 
+ .text.h264_bs_write_bits_ff_coded
+                0x00000000000031f0       0x6c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+                0x00000000000031f0                h264_bs_write_bits_ff_coded
+ *fill*         0x000000000000325c        0x4 
+ .text.h264_bs_more_rbsp_data
+                0x0000000000003260       0xcc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+                0x0000000000003260                h264_bs_more_rbsp_data
+ *fill*         0x000000000000332c        0x4 
+ .text.h264_bs_read_rbsp_trailing_bits
+                0x0000000000003330       0xc4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+                0x0000000000003330                h264_bs_read_rbsp_trailing_bits
+ *fill*         0x00000000000033f4        0xc 
+ .text.h264_bs_write_rbsp_trailing_bits
+                0x0000000000003400       0x3d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+                0x0000000000003400                h264_bs_write_rbsp_trailing_bits
+ *fill*         0x000000000000343d        0x3 
+ .text.h264_bs_read_raw_bytes
+                0x0000000000003440       0xe7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+                0x0000000000003440                h264_bs_read_raw_bytes
+ *fill*         0x0000000000003527        0x9 
+ .text.h264_bs_write_raw_bytes
+                0x0000000000003530       0xbc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+                0x0000000000003530                h264_bs_write_raw_bytes
+ *fill*         0x00000000000035ec        0x4 
+ .text.h264_bs_acquire_buf
+                0x00000000000035f0       0xd7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+                0x00000000000035f0                h264_bs_acquire_buf
+ *fill*         0x00000000000036c7        0x9 
+ .text.get_ctx_idx_mb_type_cond_term
+                0x00000000000036d0       0x41 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ *fill*         0x0000000000003711        0xf 
+ .text.binarize_u
+                0x0000000000003720       0x7f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ *fill*         0x000000000000379f        0x1 
+ .text.get_ctx_idx_mb_type.isra.2
+                0x00000000000037a0       0x1d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ *fill*         0x00000000000037bd        0x3 
+ .text.get_ctx_idx_intra_chroma_pred_mode_cond_term
+                0x00000000000037c0       0x3b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ *fill*         0x00000000000037fb        0x5 
+ .text.write_binstring
+                0x0000000000003800      0x57c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ *fill*         0x0000000000003d7c        0x4 
+ .text.get_ctx_idx_coded_block_flag_cond_term.isra.6
+                0x0000000000003d80       0xc3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ *fill*         0x0000000000003e43        0xd 
+ .text.h264_cabac_init_enc
+                0x0000000000003e50       0x43 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+                0x0000000000003e50                h264_cabac_init_enc
+ *fill*         0x0000000000003e93        0xd 
+ .text.h264_cabac_write_mb_type
+                0x0000000000003ea0      0x435 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+                0x0000000000003ea0                h264_cabac_write_mb_type
+ *fill*         0x00000000000042d5        0xb 
+ .text.h264_cabac_write_intra_chroma_pred_mode
+                0x00000000000042e0      0x107 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+                0x00000000000042e0                h264_cabac_write_intra_chroma_pred_mode
+ *fill*         0x00000000000043e7        0x9 
+ .text.h264_cabac_write_mb_qp_delta
+                0x00000000000043f0       0x93 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+                0x00000000000043f0                h264_cabac_write_mb_qp_delta
+ *fill*         0x0000000000004483        0xd 
+ .text.h264_cabac_write_coded_block_flag
+                0x0000000000004490      0x1fa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+                0x0000000000004490                h264_cabac_write_coded_block_flag
+ *fill*         0x000000000000468a        0x6 
+ .text.h264_cabac_write_mb_skip_flag
+                0x0000000000004690       0x8a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+                0x0000000000004690                h264_cabac_write_mb_skip_flag
+ *fill*         0x000000000000471a        0x6 
+ .text.h264_cabac_write_end_of_slice_flag
+                0x0000000000004720       0x58 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+                0x0000000000004720                h264_cabac_write_end_of_slice_flag
+ *fill*         0x0000000000004778        0x8 
+ .text.h264_cabac_init_states
+                0x0000000000004780       0xf8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+                0x0000000000004780                h264_cabac_init_states
+ *fill*         0x0000000000004878        0x8 
+ .text.h264_ctx_update_derived_vars_slice
+                0x0000000000004880      0x12d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+ *fill*         0x00000000000049ad        0x3 
+ .text.h264_ctx_new
+                0x00000000000049b0       0xa8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x00000000000049b0                h264_ctx_new
+ *fill*         0x0000000000004a58        0x8 
+ .text.h264_ctx_set_nalu_header
+                0x0000000000004a60       0xd7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000004a60                h264_ctx_set_nalu_header
+ *fill*         0x0000000000004b37        0x9 
+ .text.h264_ctx_is_nalu_unknown
+                0x0000000000004b40        0xc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000004b40                h264_ctx_is_nalu_unknown
+ *fill*         0x0000000000004b4c        0x4 
+ .text.h264_ctx_set_aud
+                0x0000000000004b50       0xc7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000004b50                h264_ctx_set_aud
+ *fill*         0x0000000000004c17        0x9 
+ .text.h264_ctx_set_sps
+                0x0000000000004c20      0x1b4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000004c20                h264_ctx_set_sps
+ *fill*         0x0000000000004dd4        0xc 
+ .text.h264_ctx_set_pps
+                0x0000000000004de0      0x1b4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000004de0                h264_ctx_set_pps
+ *fill*         0x0000000000004f94        0xc 
+ .text.h264_ctx_set_active_sps
+                0x0000000000004fa0      0x134 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000004fa0                h264_ctx_set_active_sps
+ *fill*         0x00000000000050d4        0xc 
+ .text.h264_ctx_set_active_pps
+                0x00000000000050e0      0x134 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x00000000000050e0                h264_ctx_set_active_pps
+ *fill*         0x0000000000005214        0xc 
+ .text.h264_ctx_get_sps
+                0x0000000000005220       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000005220                h264_ctx_get_sps
+ *fill*         0x0000000000005233        0xd 
+ .text.h264_ctx_get_pps
+                0x0000000000005240       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000005240                h264_ctx_get_pps
+ *fill*         0x0000000000005253        0xd 
+ .text.h264_ctx_clear_sei_table
+                0x0000000000005260       0xe1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000005260                h264_ctx_clear_sei_table
+ *fill*         0x0000000000005341        0xf 
+ .text.h264_ctx_add_sei_internal
+                0x0000000000005350      0x15a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000005350                h264_ctx_add_sei_internal
+ *fill*         0x00000000000054aa        0x6 
+ .text.h264_ctx_add_sei
+                0x00000000000054b0      0x217 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x00000000000054b0                h264_ctx_add_sei
+ *fill*         0x00000000000056c7        0x9 
+ .text.h264_ctx_get_sei_count
+                0x00000000000056d0       0x81 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x00000000000056d0                h264_ctx_get_sei_count
+ *fill*         0x0000000000005751        0xf 
+ .text.h264_ctx_sei_pic_timing_to_ts
+                0x0000000000005760      0x1cb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000005760                h264_ctx_sei_pic_timing_to_ts
+ *fill*         0x000000000000592b        0x5 
+ .text.h264_ctx_sei_pic_timing_to_us
+                0x0000000000005930      0x13b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000005930                h264_ctx_sei_pic_timing_to_us
+ *fill*         0x0000000000005a6b        0x5 
+ .text.h264_ctx_clear_slice
+                0x0000000000005a70      0x139 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000005a70                h264_ctx_clear_slice
+ *fill*         0x0000000000005ba9        0x7 
+ .text.h264_ctx_clear_nalu
+                0x0000000000005bb0       0xa1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000005bb0                h264_ctx_clear_nalu
+ *fill*         0x0000000000005c51        0xf 
+ .text.h264_ctx_clear
+                0x0000000000005c60       0xe4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000005c60                h264_ctx_clear
+ *fill*         0x0000000000005d44        0xc 
+ .text.h264_ctx_destroy
+                0x0000000000005d50       0x23 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000005d50                h264_ctx_destroy
+ *fill*         0x0000000000005d73        0xd 
+ .text.h264_ctx_set_slice_header
+                0x0000000000005d80      0x2dc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                0x0000000000005d80                h264_ctx_set_slice_header
+ *fill*         0x000000000000605c        0x4 
+ .text._h264_dump_pwt_item.isra.3
+                0x0000000000006060      0x644 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x00000000000066a4        0xc 
+ .text._h264_dump_sei_pic_timing.isra.7
+                0x00000000000066b0      0xd87 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x0000000000007437        0x9 
+ .text._h264_dump_sei_pan_scan_rect.isra.8
+                0x0000000000007440      0x5d2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x0000000000007a12        0xe 
+ .text._h264_dump_sei_data.isra.9
+                0x0000000000007a20      0x205 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x0000000000007c25        0xb 
+ .text._h264_dump_scaling_list.isra.14
+                0x0000000000007c30       0xd0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ .text._h264_dump_scaling_matrix
+                0x0000000000007d00      0x451 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x0000000000008151        0xf 
+ .text._h264_dump_hrd.isra.15
+                0x0000000000008160      0x6ba /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x000000000000881a        0x6 
+ .text._h264_dump_sps
+                0x0000000000008820     0x2652 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x000000000000ae72        0xe 
+ .text._h264_dump_pps_internal.isra.16
+                0x000000000000ae80     0x115d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x000000000000bfdd        0x3 
+ .text.h264_dump_json_begin_array_item
+                0x000000000000bfe0       0x31 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x000000000000c011        0xf 
+ .text.h264_dump_json_begin_struct
+                0x000000000000c020       0x31 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x000000000000c051        0xf 
+ .text.h264_dump_json_begin_array
+                0x000000000000c060       0x31 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x000000000000c091        0xf 
+ .text._h264_dump_sei_buffering_period.isra.22
+                0x000000000000c0a0      0x803 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x000000000000c8a3        0xd 
+ .text.h264_dump_json_field
+                0x000000000000c8b0      0x165 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x000000000000ca15        0xb 
+ .text.h264_dump_json_pop.constprop.25
+                0x000000000000ca20       0xbc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x000000000000cadc        0x4 
+ .text.h264_dump_json_end_struct
+                0x000000000000cae0       0x6f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x000000000000cb4f        0x1 
+ .text.h264_dump_json_end_array
+                0x000000000000cb50       0x94 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x000000000000cbe4        0xc 
+ .text.h264_dump_json_end_array_item
+                0x000000000000cbf0       0x64 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x000000000000cc54        0xc 
+ .text._h264_dump_rplm_items.isra.2.constprop.39
+                0x000000000000cc60      0x370 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ .text._h264_dump_slice_header
+                0x000000000000cfd0     0x2580 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ .text._h264_dump_residual_block
+                0x000000000000f550      0xbf4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x0000000000010144        0xc 
+ .text._h264_dump_residual_luma.constprop.35
+                0x0000000000010150      0x3a2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x00000000000104f2        0xe 
+ .text._h264_dump_mb_pred
+                0x0000000000010500     0x15ef /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x0000000000011aef        0x1 
+ .text._h264_dump_macroblock_layer
+                0x0000000000011af0     0x23be /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x0000000000013eae        0x2 
+ .text.h264_dump_new
+                0x0000000000013eb0      0x19c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+                0x0000000000013eb0                h264_dump_new
+ *fill*         0x000000000001404c        0x4 
+ .text.h264_dump_destroy
+                0x0000000000014050       0x53 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+                0x0000000000014050                h264_dump_destroy
+ *fill*         0x00000000000140a3        0xd 
+ .text.h264_dump_clear
+                0x00000000000140b0      0x12e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+                0x00000000000140b0                h264_dump_clear
+ *fill*         0x00000000000141de        0x2 
+ .text.h264_dump_get_json_object
+                0x00000000000141e0      0x114 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+                0x00000000000141e0                h264_dump_get_json_object
+ *fill*         0x00000000000142f4        0xc 
+ .text.h264_dump_get_json_str
+                0x0000000000014300      0x124 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+                0x0000000000014300                h264_dump_get_json_str
+ *fill*         0x0000000000014424        0xc 
+ .text.h264_dump_nalu
+                0x0000000000014430     0x260d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+                0x0000000000014430                h264_dump_nalu
+ *fill*         0x0000000000016a3d        0x3 
+ .text.h264_mb_to_slice_group
+                0x0000000000016a40       0x66 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+ *fill*         0x0000000000016aa6        0xa 
+ .text.h264_gen_slice_group_map
+                0x0000000000016ab0      0x4e4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+                0x0000000000016ab0                h264_gen_slice_group_map
+ *fill*         0x0000000000016f94        0xc 
+ .text.h264_clear_slice_group_map
+                0x0000000000016fa0       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+                0x0000000000016fa0                h264_clear_slice_group_map
+ *fill*         0x0000000000016fca        0x6 
+ .text.h264_next_mb_addr
+                0x0000000000016fd0       0x54 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+                0x0000000000016fd0                h264_next_mb_addr
+ *fill*         0x0000000000017024        0xc 
+ .text.h264_get_neighbouring_locations.isra.3
+                0x0000000000017030      0x289 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+ *fill*         0x00000000000172b9        0x7 
+ .text.h264_compute_neighbouring_macroblocks
+                0x00000000000172c0      0x149 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+                0x00000000000172c0                h264_compute_neighbouring_macroblocks
+ *fill*         0x0000000000017409        0x7 
+ .text.h264_get_neighbouring_luma_cb_cr_4x4
+                0x0000000000017410      0x126 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+                0x0000000000017410                h264_get_neighbouring_luma_cb_cr_4x4
+ *fill*         0x0000000000017536        0xa 
+ .text.h264_get_neighbouring_chroma_4x4
+                0x0000000000017540      0x110 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+                0x0000000000017540                h264_get_neighbouring_chroma_4x4
+ .text._h264_read_sei_data
+                0x0000000000017650       0x91 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x00000000000176e1        0xf 
+ .text._h264_read_rplm_items.constprop.15
+                0x00000000000176f0      0x2c2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x00000000000179b2        0xe 
+ .text.h264_bs_read_bits_se.constprop.18
+                0x00000000000179c0       0x76 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x0000000000017a36        0xa 
+ .text.h264_bs_read_bits.constprop.21
+                0x0000000000017a40      0x114 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x0000000000017b54        0xc 
+ .text._h264_read_scaling_list
+                0x0000000000017b60      0x1ab /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x0000000000017d0b        0x5 
+ .text._h264_read_scaling_matrix
+                0x0000000000017d10      0x239 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x0000000000017f49        0x7 
+ .text._h264_read_nalu_header
+                0x0000000000017f50      0x430 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ .text._h264_read_hrd
+                0x0000000000018380      0x7b9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x0000000000018b39        0x7 
+ .text._h264_read_residual_block
+                0x0000000000018b40      0x8e3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x0000000000019423        0xd 
+ .text._h264_read_residual_luma.constprop.14
+                0x0000000000019430      0x3a2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x00000000000197d2        0xe 
+ .text._h264_read_pwt_item
+                0x00000000000197e0      0x663 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x0000000000019e43        0xd 
+ .text._h264_read_slice_header
+                0x0000000000019e50     0x1f25 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x000000000001bd75        0xb 
+ .text._h264_read_pps_internal.isra.11
+                0x000000000001bd80     0x11aa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x000000000001cf2a        0x6 
+ .text._h264_read_vui
+                0x000000000001cf30     0x140a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x000000000001e33a        0x6 
+ .text._h264_read_sps
+                0x000000000001e340     0x18a5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x000000000001fbe5        0xb 
+ .text._h264_read_macroblock_layer
+                0x000000000001fbf0     0x1a4e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x000000000002163e        0x2 
+ .text._h264_read_one_sei
+                0x0000000000021640     0x22d6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x0000000000023916        0xa 
+ .text._h264_read_nalu.constprop.12
+                0x0000000000023920     0x1408 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ *fill*         0x0000000000024d28        0x8 
+ .text.h264_reader_destroy
+                0x0000000000024d30       0x33 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+                0x0000000000024d30                h264_reader_destroy
+ *fill*         0x0000000000024d63        0xd 
+ .text.h264_reader_new
+                0x0000000000024d70      0x1ba /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+                0x0000000000024d70                h264_reader_new
+ *fill*         0x0000000000024f2a        0x6 
+ .text.h264_reader_get_ctx
+                0x0000000000024f30       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+                0x0000000000024f30                h264_reader_get_ctx
+ *fill*         0x0000000000024f43        0xd 
+ .text.h264_reader_stop
+                0x0000000000024f50       0x81 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+                0x0000000000024f50                h264_reader_stop
+ *fill*         0x0000000000024fd1        0xf 
+ .text.h264_reader_parse_nalu
+                0x0000000000024fe0      0x16f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+                0x0000000000024fe0                h264_reader_parse_nalu
+ *fill*         0x000000000002514f        0x1 
+ .text.h264_reader_parse
+                0x0000000000025150      0x209 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+                0x0000000000025150                h264_reader_parse
+ *fill*         0x0000000000025359        0x7 
+ .text.h264_parse_nalu_header
+                0x0000000000025360      0x14f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+                0x0000000000025360                h264_parse_nalu_header
+ *fill*         0x00000000000254af        0x1 
+ .text.h264_parse_sps
+                0x00000000000254b0      0x1ef /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+                0x00000000000254b0                h264_parse_sps
+ *fill*         0x000000000002569f        0x1 
+ .text.h264_parse_pps
+                0x00000000000256a0      0x437 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+                0x00000000000256a0                h264_parse_pps
+ *fill*         0x0000000000025ad7        0x9 
+ .text._h264_read_vlc_16_15
+                0x0000000000025ae0      0x1ed /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+ *fill*         0x0000000000025ccd        0x3 
+ .text._h264_read_vlc_11_7
+                0x0000000000025cd0      0x1ed /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+ *fill*         0x0000000000025ebd        0x3 
+ .text.h264_read_mb_type
+                0x0000000000025ec0      0x460 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+                0x0000000000025ec0                h264_read_mb_type
+ .text.h264_read_sub_mb_type
+                0x0000000000026320      0x231 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+                0x0000000000026320                h264_read_sub_mb_type
+ *fill*         0x0000000000026551        0xf 
+ .text.h264_read_coded_block_pattern
+                0x0000000000026560      0x213 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+                0x0000000000026560                h264_read_coded_block_pattern
+ *fill*         0x0000000000026773        0xd 
+ .text.h264_clear_macroblock_table
+                0x0000000000026780       0x37 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+                0x0000000000026780                h264_clear_macroblock_table
+ *fill*         0x00000000000267b7        0x9 
+ .text.h264_new_macroblock
+                0x00000000000267c0      0x523 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+                0x00000000000267c0                h264_new_macroblock
+ *fill*         0x0000000000026ce3        0xd 
+ .text.h264_set_nz_coeff
+                0x0000000000026cf0       0x32 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+                0x0000000000026cf0                h264_set_nz_coeff
+ *fill*         0x0000000000026d22        0xe 
+ .text.h264_read_coeff_token
+                0x0000000000026d30      0x504 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+                0x0000000000026d30                h264_read_coeff_token
+ *fill*         0x0000000000027234        0xc 
+ .text.h264_read_total_zeros
+                0x0000000000027240      0x567 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+                0x0000000000027240                h264_read_total_zeros
+ *fill*         0x00000000000277a7        0x9 
+ .text.h264_read_run_before
+                0x00000000000277b0      0x105 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+                0x00000000000277b0                h264_read_run_before
+ *fill*         0x00000000000278b5        0xb 
+ .text.h264_nalu_type_str
+                0x00000000000278c0       0xe8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+                0x00000000000278c0                h264_nalu_type_str
+ *fill*         0x00000000000279a8        0x8 
+ .text.h264_slice_type_str
+                0x00000000000279b0       0x68 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+                0x00000000000279b0                h264_slice_type_str
+ *fill*         0x0000000000027a18        0x8 
+ .text.h264_mb_type_str
+                0x0000000000027a20      0x128 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+                0x0000000000027a20                h264_mb_type_str
+ *fill*         0x0000000000027b48        0x8 
+ .text.h264_mb_type_is_intra
+                0x0000000000027b50        0xc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+                0x0000000000027b50                h264_mb_type_is_intra
+ *fill*         0x0000000000027b5c        0x4 
+ .text.h264_mb_type_is_inter
+                0x0000000000027b60        0xc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+                0x0000000000027b60                h264_mb_type_is_inter
+ *fill*         0x0000000000027b6c        0x4 
+ .text.h264_profile_str
+                0x0000000000027b70       0x92 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+                0x0000000000027b70                h264_profile_str
+ *fill*         0x0000000000027c02        0xe 
+ .text.h264_color_format_str
+                0x0000000000027c10       0x38 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+                0x0000000000027c10                h264_color_format_str
+ *fill*         0x0000000000027c48        0x8 
+ .text.h264_aspect_ratio_str_alloc
+                0x0000000000027c50      0x3a5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+                0x0000000000027c50                h264_aspect_ratio_str_alloc
+ *fill*         0x0000000000027ff5        0xb 
+ .text.h264_sei_type_str
+                0x0000000000028000      0x398 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+                0x0000000000028000                h264_sei_type_str
+ *fill*         0x0000000000028398        0x8 
+ .text.h264_sei_update_internal_buf
+                0x00000000000283a0      0x1e4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+                0x00000000000283a0                h264_sei_update_internal_buf
+ *fill*         0x0000000000028584        0xc 
+ .text._h264_write_hrd
+                0x0000000000028590      0x4bf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ *fill*         0x0000000000028a4f        0x1 
+ .text._h264_write_sei_data
+                0x0000000000028a50      0x11d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ *fill*         0x0000000000028b6d        0x3 
+ .text.h264_write_grey_i_slice_cabac
+                0x0000000000028b70      0x5c9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ *fill*         0x0000000000029139        0x7 
+ .text.h264_write_skipped_p_slice_cabac
+                0x0000000000029140      0x3ad /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ *fill*         0x00000000000294ed        0x3 
+ .text._h264_write_rplm_items.constprop.20
+                0x00000000000294f0      0x26d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ *fill*         0x000000000002975d        0x3 
+ .text._h264_write_scaling_list.isra.8
+                0x0000000000029760      0x15a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ *fill*         0x00000000000298ba        0x6 
+ .text._h264_write_scaling_matrix
+                0x00000000000298c0      0x197 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ *fill*         0x0000000000029a57        0x9 
+ .text._h264_write_pwt_item
+                0x0000000000029a60      0x448 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ *fill*         0x0000000000029ea8        0x8 
+ .text._h264_write_slice_header
+                0x0000000000029eb0     0x1cd5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ *fill*         0x000000000002bb85        0xb 
+ .text._h264_write_sps
+                0x000000000002bb90     0x213d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ *fill*         0x000000000002dccd        0x3 
+ .text.h264_write_nalu
+                0x000000000002dcd0     0x1d39 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+                0x000000000002dcd0                h264_write_nalu
+ *fill*         0x000000000002fa09        0x7 
+ .text.h264_write_one_sei
+                0x000000000002fa10     0x1db0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+                0x000000000002fa10                h264_write_one_sei
+ .text.h264_write_grey_i_slice
+                0x00000000000317c0      0x535 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+                0x00000000000317c0                h264_write_grey_i_slice
+ *fill*         0x0000000000031cf5        0xb 
+ .text.h264_write_skipped_p_slice
+                0x0000000000031d00      0x3ea /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+                0x0000000000031d00                h264_write_skipped_p_slice
+ *fill*         0x00000000000320ea        0x6 
+ .text.h264_rewrite_slice_header
+                0x00000000000320f0      0x41e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+                0x00000000000320f0                h264_rewrite_slice_header
+ *(.gnu.warning)
+
+.fini           0x0000000000032510        0x9
+ *(SORT_NONE(.fini))
+ .fini          0x0000000000032510        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000032510                _fini
+ .fini          0x0000000000032514        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+
+.rodata         0x0000000000032520     0x77c8
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000032520       0x31 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+ *fill*         0x0000000000032551        0x7 
+ .rodata.str1.8
+                0x0000000000032558       0x4f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+ *fill*         0x00000000000325a7       0x19 
+ .rodata        0x00000000000325c0       0xc8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+ .rodata.cst8   0x0000000000032688        0x8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+ *fill*         0x0000000000032690       0x10 
+ .rodata        0x00000000000326a0      0x1a0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ .rodata.str1.1
+                0x0000000000032840       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+ .rodata        0x0000000000032840      0x46f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+ .rodata.str1.1
+                0x0000000000032caf       0x31 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+                                         0x44 (size before relaxing)
+ .rodata.str1.8
+                0x0000000000032ce0       0x23 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ *fill*         0x0000000000032d03       0x1d 
+ .rodata        0x0000000000032d20      0x199 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ *fill*         0x0000000000032eb9        0x7 
+ .rodata.str1.8
+                0x0000000000032ec0       0x25 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+ *fill*         0x0000000000032ee5       0x1b 
+ .rodata        0x0000000000032f00     0x2020 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+ .rodata.str1.1
+                0x0000000000034f20       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+ .rodata        0x0000000000034f20      0x1f5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+ .rodata.str1.1
+                0x0000000000035115      0xeb6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+                                        0xef7 (size before relaxing)
+ *fill*         0x0000000000035fcb        0x5 
+ .rodata.str1.8
+                0x0000000000035fd0      0xe29 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x0000000000036df9        0x7 
+ .rodata        0x0000000000036e00      0x666 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ *fill*         0x0000000000037466        0x2 
+ .rodata        0x0000000000037468       0x1c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+ *fill*         0x0000000000037484       0x1c 
+ .rodata        0x00000000000374a0      0x100 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+ .rodata.str1.1
+                0x00000000000375a0       0x1b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+                                         0x2e (size before relaxing)
+ *fill*         0x00000000000375bb        0x5 
+ .rodata        0x00000000000375c0      0x650 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ .rodata.str1.1
+                0x0000000000037c10       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+ *fill*         0x0000000000037c10       0x10 
+ .rodata        0x0000000000037c20     0x12c0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+ .rodata.str1.1
+                0x0000000000038ee0      0x55e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+                                        0x5ba (size before relaxing)
+ *fill*         0x000000000003943e        0x2 
+ .rodata        0x0000000000039440      0x18d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+ *fill*         0x00000000000395cd        0x3 
+ .rodata.str1.8
+                0x00000000000395d0      0x11b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+ .rodata.str1.1
+                0x00000000000396eb       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ *fill*         0x00000000000396eb       0x15 
+ .rodata        0x0000000000039700      0x581 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ *fill*         0x0000000000039c81        0x7 
+ .rodata.str1.8
+                0x0000000000039c88       0x60 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+                                         0x5b (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000039ce8      0x51c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000039ce8      0x51c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+                0x0000000000039ce8                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x000000000003a208     0x5760
+ *(.eh_frame)
+ .eh_frame      0x000000000003a208       0x40 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x000000000003a248       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x000000000003a260       0xe0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+                                         0xf8 (size before relaxing)
+ .eh_frame      0x000000000003a340       0xe0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+                                        0x140 (size before relaxing)
+ .eh_frame      0x000000000003a420      0x2c8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+                                        0x2e0 (size before relaxing)
+ .eh_frame      0x000000000003a6e8      0x288 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+                                        0x2c8 (size before relaxing)
+ .eh_frame      0x000000000003a970       0x50 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+                                         0x68 (size before relaxing)
+ .eh_frame      0x000000000003a9c0      0x4f0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                                        0x508 (size before relaxing)
+ .eh_frame      0x000000000003aeb0     0x1c80 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+                                       0x1c98 (size before relaxing)
+ .eh_frame      0x000000000003cb30       0xc8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+                                         0xe0 (size before relaxing)
+ .eh_frame      0x000000000003cbf8       0xf8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+                                        0x110 (size before relaxing)
+ .eh_frame      0x000000000003ccf0     0x1618 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+                                       0x1630 (size before relaxing)
+ .eh_frame      0x000000000003e308      0x3a8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+                                        0x3c0 (size before relaxing)
+ .eh_frame      0x000000000003e6b0      0x180 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+                                        0x198 (size before relaxing)
+ .eh_frame      0x000000000003e830     0x1134 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+                                       0x1150 (size before relaxing)
+ .eh_frame      0x000000000003f964        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000000000023fde0                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x000000000023fde0        0x8
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x000000000023fde0        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.fini_array     0x000000000023fde8        0x8
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x000000000023fde8        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x000000000023fdf0        0x0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x000000000023fdf0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynamic        0x000000000023fdf0      0x1f0
+ *(.dynamic)
+ .dynamic       0x000000000023fdf0      0x1f0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x000000000023fdf0                _DYNAMIC
+
+.got            0x000000000023ffe0       0x20
+ *(.got)
+ .got           0x000000000023ffe0       0x20 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x0000000000240fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000240000      0x1b8
+ *(.got.plt)
+ .got.plt       0x0000000000240000      0x1b8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000240000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x00000000002401c0       0x40
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local
+                0x00000000002401c0        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                0x00000000002401c0                __dso_handle
+ *fill*         0x00000000002401c8       0x18 
+ .data.rel.local
+                0x00000000002401e0       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+                0x00000000002401e0                __ulog_cookie_h264
+
+.tm_clone_table
+                0x0000000000240200        0x0
+ .tm_clone_table
+                0x0000000000240200        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .tm_clone_table
+                0x0000000000240200        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.data1
+ *(.data1)
+                0x0000000000240200                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x0000000000240200                . = .
+                0x0000000000240200                __bss_start = .
+
+.bss            0x0000000000240200        0x8
+ *(.dynbss)
+ .dynbss        0x0000000000240200        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000240200        0x1 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *(COMMON)
+                0x0000000000240208                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x0000000000240201        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x0000000000240208                . = ALIGN (0x8)
+                0x0000000000240208                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x0000000000640208        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x0000000000640208                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x0000000000640208                . = ALIGN (0x8)
+                0x0000000000640208                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x0000000000640208                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x29
+ *(.comment)
+ .comment       0x0000000000000000       0x29 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                                         0x2a (size before relaxing)
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+ .comment       0x0000000000000029       0x2a /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0xbc0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x40 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+ .debug_aranges
+                0x0000000000000040       0xa0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ .debug_aranges
+                0x00000000000000e0       0xf0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+ .debug_aranges
+                0x00000000000001d0      0x100 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ .debug_aranges
+                0x00000000000002d0       0x30 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+ .debug_aranges
+                0x0000000000000300      0x180 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+ .debug_aranges
+                0x0000000000000480      0x210 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ .debug_aranges
+                0x0000000000000690       0x60 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+ .debug_aranges
+                0x00000000000006f0       0x60 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+ .debug_aranges
+                0x0000000000000750      0x1d0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ .debug_aranges
+                0x0000000000000920       0xd0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+ .debug_aranges
+                0x00000000000009f0       0xc0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+ .debug_aranges
+                0x0000000000000ab0      0x110 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x65d86
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x1447 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+ .debug_info    0x0000000000001447      0xcba /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ .debug_info    0x0000000000002101     0x171b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+ .debug_info    0x000000000000381c     0x37d5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ .debug_info    0x0000000000006ff1     0x2117 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+ .debug_info    0x0000000000009108     0x4426 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+ .debug_info    0x000000000000d52e    0x1fcbe /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ .debug_info    0x000000000002d1ec     0x2782 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+ .debug_info    0x000000000002f96e     0x2870 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+ .debug_info    0x00000000000321de    0x18ae6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ .debug_info    0x000000000004acc4     0x448c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+ .debug_info    0x000000000004f150     0x1344 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+ .debug_info    0x0000000000050494    0x158f2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+
+.debug_abbrev   0x0000000000000000     0x3911
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x2ae /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+ .debug_abbrev  0x00000000000002ae      0x33a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ .debug_abbrev  0x00000000000005e8      0x39a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+ .debug_abbrev  0x0000000000000982      0x512 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ .debug_abbrev  0x0000000000000e94      0x2df /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+ .debug_abbrev  0x0000000000001173      0x569 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+ .debug_abbrev  0x00000000000016dc      0x69d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ .debug_abbrev  0x0000000000001d79      0x3f1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+ .debug_abbrev  0x000000000000216a      0x3f7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+ .debug_abbrev  0x0000000000002561      0x613 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ .debug_abbrev  0x0000000000002b74      0x522 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+ .debug_abbrev  0x0000000000003096      0x2eb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+ .debug_abbrev  0x0000000000003381      0x590 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+
+.debug_line     0x0000000000000000     0xdf53
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x401 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+ .debug_line    0x0000000000000401      0x349 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ .debug_line    0x000000000000074a      0x643 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+ .debug_line    0x0000000000000d8d      0x686 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ .debug_line    0x0000000000001413      0x23a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+ .debug_line    0x000000000000164d      0xa67 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+ .debug_line    0x00000000000020b4     0x34cb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ .debug_line    0x000000000000557f      0x378 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+ .debug_line    0x00000000000058f7      0x387 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+ .debug_line    0x0000000000005c7e     0x4852 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ .debug_line    0x000000000000a4d0      0x9e8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+ .debug_line    0x000000000000aeb8      0x470 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+ .debug_line    0x000000000000b328     0x2c2b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x51cf
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0xf15 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+                                        0xffd (size before relaxing)
+ .debug_str     0x0000000000000f15      0x26b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+                                        0x73d (size before relaxing)
+ .debug_str     0x0000000000001180      0x1e1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+                                        0x73b (size before relaxing)
+ .debug_str     0x0000000000001361     0x1cb0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+                                       0x2e7e (size before relaxing)
+ .debug_str     0x0000000000003011       0xa3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+                                       0x2ab4 (size before relaxing)
+ .debug_str     0x00000000000030b4      0x35d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+                                       0x2d71 (size before relaxing)
+ .debug_str     0x0000000000003411      0xd9b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+                                       0x39d6 (size before relaxing)
+ .debug_str     0x00000000000041ac      0x162 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+                                       0x2adb (size before relaxing)
+ .debug_str     0x000000000000430e      0x1de /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+                                       0x2aca (size before relaxing)
+ .debug_str     0x00000000000044ec      0x49f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+                                       0x37ba (size before relaxing)
+ .debug_str     0x000000000000498b      0x21e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+                                       0x2f1c (size before relaxing)
+ .debug_str     0x0000000000004ba9      0x190 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+                                       0x17dc (size before relaxing)
+ .debug_str     0x0000000000004d39      0x496 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+                                       0x3500 (size before relaxing)
+
+.debug_loc      0x0000000000000000    0xaa000
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x1348 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+ .debug_loc     0x0000000000001348      0xd64 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ .debug_loc     0x00000000000020ac     0x30f9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+ .debug_loc     0x00000000000051a5     0x28d7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ .debug_loc     0x0000000000007a7c      0x20b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+ .debug_loc     0x0000000000007c87     0x36eb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+ .debug_loc     0x000000000000b372    0x3d824 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ .debug_loc     0x0000000000048b96     0x127f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+ .debug_loc     0x0000000000049e15     0x1bcb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+ .debug_loc     0x000000000004b9e0    0x32a13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ .debug_loc     0x000000000007e3f3     0x54d1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+ .debug_loc     0x00000000000838c4     0x1062 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+ .debug_loc     0x0000000000084926    0x256da /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000    0x35ea0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000      0x320 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264.c.o
+ .debug_ranges  0x0000000000000320      0x180 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bac.c.o
+ .debug_ranges  0x00000000000004a0      0x570 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_bitstream.c.o
+ .debug_ranges  0x0000000000000a10      0x520 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac.c.o
+ .debug_ranges  0x0000000000000f30       0x70 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_cabac_ctx_tables.c.o
+ .debug_ranges  0x0000000000000fa0      0xbd0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_ctx.c.o
+ .debug_ranges  0x0000000000001b70    0x141f0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_dump.c.o
+ .debug_ranges  0x0000000000015d60      0x200 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_fmo.c.o
+ .debug_ranges  0x0000000000015f60      0x360 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_macroblock.c.o
+ .debug_ranges  0x00000000000162c0    0x110b0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_reader.c.o
+ .debug_ranges  0x0000000000027370      0xd50 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_slice_data.c.o
+ .debug_ranges  0x00000000000280c0      0x190 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_types.c.o
+ .debug_ranges  0x0000000000028250     0xdc50 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libh264/obj/src/h264_writer.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(out/olympe-linux/build/libh264/libh264.so elf64-x86-64)

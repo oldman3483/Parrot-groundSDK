@@ -1,0 +1,1834 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libulog.so                    /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o (ulog_log_write)
+librt.so.1                    /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o (timer_settime@@GLIBC_2.3.3)
+libpthread.so.0               /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o (write@@GLIBC_2.2.5)
+libc.so.6                     /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o (epoll_create@@GLIBC_2.3.2)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+ .text.pomp_buffer_clear
+                0x0000000000000000       0x1b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ .text.pomp_ctx_notify_event
+                0x0000000000000000       0x46 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ .text.pomp_evt_set_ops
+                0x0000000000000000        0xf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_log.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_log.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_log.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_log.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .text.pomp_loop_set_ops
+                0x0000000000000000        0xf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .text.pomp_loop_find_pfd
+                0x0000000000000000       0x42 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ .text.pomp_timer_set_ops
+                0x0000000000000000        0xf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_log.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libulog.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libm.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libm.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libmvec_nonshared.a
+LOAD /lib/x86_64-linux-gnu/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x510
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x510 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x0000000000000700     0x1698
+ *(.dynsym)
+ .dynsym        0x0000000000000700     0x1698 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000001d98     0x1073
+ *(.dynstr)
+ .dynstr        0x0000000000001d98     0x1073 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000002e0c      0x1e2
+ *(.gnu.version)
+ .gnu.version   0x0000000000002e0c      0x1e2 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000002ff0        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000002ff0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000002ff0       0xf0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000002ff0       0xf0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x00000000000030e0      0x468
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_addr_parse_inet
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_buffer_clear.part.1
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_buffer_register_fd
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_buffer_new_copy
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_buffer_write_fd
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_buffer_read_fd
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_conn_rx_fds_clear
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_conn_fixup_rx_fds_cb
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_idle_cb
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.clear_pending_callbacks
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_io_buffer_write
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_conn_send_buf_internal
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_conn_cb
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_conn_new
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_conn_close
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_conn_disconnect
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.fd_socket_setup_keepalive
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.client_cb
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.server_cb
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.client_start
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.dgram_start
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.server_start
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_ctx_remove_conn
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_ctx_stop
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.dump_append
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.decoder_dump_cb
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.decoder_read_varint
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.decoder_read_data
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_decoder_read_cstr
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_decoder_read_cbuf
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_decoder_read_fd
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_decoder_readv
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_decoder_walk
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.decoder_dump
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_encoder_write_str
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.encoder_writev_internal.part.0
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_evt_fd_new
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_evt_posix_new
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_evt_destroy
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_evt_attach_to_loop
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_evt_detach_from_loop
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_loop_epoll_do_wakeup
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_loop_poll_do_wakeup
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_loop_poll_do_wait_and_process
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_loop_epoll_do_wait_and_process
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_loop_epoll_ctl.isra.4
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_loop_poll_do_new
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_loop_epoll_do_new
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_loop_remove_pfd
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_loop_destroy
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_loop_add
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_loop_update
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_loop_update2
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_loop_remove
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_loop_idle_add
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_loop_idle_add_with_cookie
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_internal_set_loop_impl
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_msg_new_with_buffer
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_prot_check_magic.part.1
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_prot_decode_msg
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_timer_fd_new
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_timer_fd_cb
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_timer_fd_set
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_timer_posix_set
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_timer_posix_new
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_internal_set_timer_impl
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_watchdog_thread_cb
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_watchdog_start
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.pomp_watchdog_clear
+                0x00000000000030e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.local
+                0x00000000000030e0       0x78 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro.local
+                0x0000000000003158      0x360 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x00000000000034b8       0x60 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000003518        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000003518       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000003530       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000003548      0xf18
+ *(.rela.plt)
+ .rela.plt      0x0000000000003548      0xf18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000004460       0x17
+ *(SORT_NONE(.init))
+ .init          0x0000000000004460       0x12 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000004460                _init
+ .init          0x0000000000004472        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000004480      0xa20
+ *(.plt)
+ .plt           0x0000000000004480      0xa20 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.plt.got        0x0000000000004ea0        0x8
+ *(.plt.got)
+ .plt.got       0x0000000000004ea0        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000004eb0     0xe5f2
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000004eb0       0xda /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *fill*         0x0000000000004f8a        0x6 
+ .text.pomp_addr_parse_inet
+                0x0000000000004f90      0x19f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+ *fill*         0x000000000000512f        0x1 
+ .text.pomp_addr_parse
+                0x0000000000005130      0x160 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+                0x0000000000005130                pomp_addr_parse
+ .text.pomp_addr_format
+                0x0000000000005290      0x1e0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+                0x0000000000005290                pomp_addr_format
+ .text.pomp_addr_is_unix
+                0x0000000000005470       0x1b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+                0x0000000000005470                pomp_addr_is_unix
+ *fill*         0x000000000000548b        0x5 
+ .text.pomp_addr_get_real_addr
+                0x0000000000005490       0xa6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+                0x0000000000005490                pomp_addr_get_real_addr
+ *fill*         0x0000000000005536        0xa 
+ .text.pomp_buffer_clear.part.1
+                0x0000000000005540      0x157 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+ *fill*         0x0000000000005697        0x9 
+ .text.pomp_buffer_get_fd
+                0x00000000000056a0       0x26 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x00000000000056a0                pomp_buffer_get_fd
+ *fill*         0x00000000000056c6        0xa 
+ .text.pomp_buffer_register_fd
+                0x00000000000056d0       0xca /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x00000000000056d0                pomp_buffer_register_fd
+ *fill*         0x000000000000579a        0x6 
+ .text.pomp_buffer_new_copy
+                0x00000000000057a0      0x1a9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x00000000000057a0                pomp_buffer_new_copy
+ *fill*         0x0000000000005949        0x7 
+ .text.pomp_buffer_ref
+                0x0000000000005950        0x5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005950                pomp_buffer_ref
+ *fill*         0x0000000000005955        0xb 
+ .text.pomp_buffer_unref
+                0x0000000000005960       0x2f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005960                pomp_buffer_unref
+ *fill*         0x000000000000598f        0x1 
+ .text.pomp_buffer_is_shared
+                0x0000000000005990       0x11 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005990                pomp_buffer_is_shared
+ *fill*         0x00000000000059a1        0xf 
+ .text.pomp_buffer_set_capacity
+                0x00000000000059b0       0x55 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x00000000000059b0                pomp_buffer_set_capacity
+ *fill*         0x0000000000005a05        0xb 
+ .text.pomp_buffer_new
+                0x0000000000005a10       0x53 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005a10                pomp_buffer_new
+ *fill*         0x0000000000005a63        0xd 
+ .text.pomp_buffer_new_with_data
+                0x0000000000005a70       0x35 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005a70                pomp_buffer_new_with_data
+ *fill*         0x0000000000005aa5        0xb 
+ .text.pomp_buffer_new_get_data
+                0x0000000000005ab0       0x1c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005ab0                pomp_buffer_new_get_data
+ *fill*         0x0000000000005acc        0x4 
+ .text.pomp_buffer_set_len
+                0x0000000000005ad0       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005ad0                pomp_buffer_set_len
+ *fill*         0x0000000000005b06        0xa 
+ .text.pomp_buffer_get_data
+                0x0000000000005b10       0x45 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005b10                pomp_buffer_get_data
+ *fill*         0x0000000000005b55        0xb 
+ .text.pomp_buffer_get_cdata
+                0x0000000000005b60       0x33 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005b60                pomp_buffer_get_cdata
+ *fill*         0x0000000000005b93        0xd 
+ .text.pomp_buffer_ensure_capacity
+                0x0000000000005ba0       0x3c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005ba0                pomp_buffer_ensure_capacity
+ *fill*         0x0000000000005bdc        0x4 
+ .text.pomp_buffer_write
+                0x0000000000005be0       0x8e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005be0                pomp_buffer_write
+ *fill*         0x0000000000005c6e        0x2 
+ .text.pomp_buffer_append_data
+                0x0000000000005c70       0x5c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005c70                pomp_buffer_append_data
+ *fill*         0x0000000000005ccc        0x4 
+ .text.pomp_buffer_append_buffer
+                0x0000000000005cd0       0x8c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005cd0                pomp_buffer_append_buffer
+ *fill*         0x0000000000005d5c        0x4 
+ .text.pomp_buffer_writeb
+                0x0000000000005d60       0x1c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005d60                pomp_buffer_writeb
+ *fill*         0x0000000000005d7c        0x4 
+ .text.pomp_buffer_write_fd
+                0x0000000000005d80      0x166 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005d80                pomp_buffer_write_fd
+ *fill*         0x0000000000005ee6        0xa 
+ .text.pomp_buffer_read
+                0x0000000000005ef0       0x5e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005ef0                pomp_buffer_read
+ *fill*         0x0000000000005f4e        0x2 
+ .text.pomp_buffer_cread
+                0x0000000000005f50       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005f50                pomp_buffer_cread
+ *fill*         0x0000000000005f86        0xa 
+ .text.pomp_buffer_readb
+                0x0000000000005f90        0xa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005f90                pomp_buffer_readb
+ *fill*         0x0000000000005f9a        0x6 
+ .text.pomp_buffer_read_fd
+                0x0000000000005fa0       0xcc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                0x0000000000005fa0                pomp_buffer_read_fd
+ *fill*         0x000000000000606c        0x4 
+ .text.pomp_conn_rx_fds_clear
+                0x0000000000006070       0xaf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ *fill*         0x000000000000611f        0x1 
+ .text.pomp_conn_fixup_rx_fds_cb
+                0x0000000000006120      0x18c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ *fill*         0x00000000000062ac        0x4 
+ .text.pomp_idle_cb
+                0x00000000000062b0      0x11f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ *fill*         0x00000000000063cf        0x1 
+ .text.pomp_conn_add_idle_cb
+                0x00000000000063d0      0x100 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ .text.clear_pending_callbacks
+                0x00000000000064d0      0x180 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ .text.pomp_io_buffer_write
+                0x0000000000006650      0x395 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ *fill*         0x00000000000069e5        0xb 
+ .text.pomp_conn_send_buf_internal
+                0x00000000000069f0      0x38e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ *fill*         0x0000000000006d7e        0x2 
+ .text.pomp_conn_cb
+                0x0000000000006d80      0xa59 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ *fill*         0x00000000000077d9        0x7 
+ .text.pomp_conn_new
+                0x00000000000077e0      0x3bb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x00000000000077e0                pomp_conn_new
+ *fill*         0x0000000000007b9b        0x5 
+ .text.pomp_conn_destroy
+                0x0000000000007ba0       0x4c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000007ba0                pomp_conn_destroy
+ *fill*         0x0000000000007bec        0x4 
+ .text.pomp_conn_close
+                0x0000000000007bf0      0x183 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000007bf0                pomp_conn_close
+ *fill*         0x0000000000007d73        0xd 
+ .text.pomp_conn_get_next
+                0x0000000000007d80       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000007d80                pomp_conn_get_next
+ *fill*         0x0000000000007d93        0xd 
+ .text.pomp_conn_set_next
+                0x0000000000007da0       0x12 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000007da0                pomp_conn_set_next
+ *fill*         0x0000000000007db2        0xe 
+ .text.pomp_conn_disconnect
+                0x0000000000007dc0       0xe8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000007dc0                pomp_conn_disconnect
+ *fill*         0x0000000000007ea8        0x8 
+ .text.pomp_conn_get_local_addr
+                0x0000000000007eb0       0x23 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000007eb0                pomp_conn_get_local_addr
+ *fill*         0x0000000000007ed3        0xd 
+ .text.pomp_conn_get_peer_addr
+                0x0000000000007ee0       0x23 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000007ee0                pomp_conn_get_peer_addr
+ *fill*         0x0000000000007f03        0xd 
+ .text.pomp_conn_get_peer_cred
+                0x0000000000007f10       0x23 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000007f10                pomp_conn_get_peer_cred
+ *fill*         0x0000000000007f33        0xd 
+ .text.pomp_conn_get_fd
+                0x0000000000007f40        0xf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000007f40                pomp_conn_get_fd
+ *fill*         0x0000000000007f4f        0x1 
+ .text.pomp_conn_suspend_read
+                0x0000000000007f50       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000007f50                pomp_conn_suspend_read
+ *fill*         0x0000000000007f86        0xa 
+ .text.pomp_conn_resume_read
+                0x0000000000007f90       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000007f90                pomp_conn_resume_read
+ *fill*         0x0000000000007fc6        0xa 
+ .text.pomp_conn_send_msg_to
+                0x0000000000007fd0       0x16 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000007fd0                pomp_conn_send_msg_to
+ *fill*         0x0000000000007fe6        0xa 
+ .text.pomp_conn_send_msg
+                0x0000000000007ff0       0x1e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000007ff0                pomp_conn_send_msg
+ *fill*         0x000000000000800e        0x2 
+ .text.pomp_conn_sendv
+                0x0000000000008010       0x72 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000008010                pomp_conn_sendv
+ *fill*         0x0000000000008082        0xe 
+ .text.pomp_conn_send
+                0x0000000000008090       0xac /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000008090                pomp_conn_send
+ *fill*         0x000000000000813c        0x4 
+ .text.pomp_conn_send_raw_buf_to
+                0x0000000000008140        0x5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000008140                pomp_conn_send_raw_buf_to
+ *fill*         0x0000000000008145        0xb 
+ .text.pomp_conn_send_raw_buf
+                0x0000000000008150        0x9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                0x0000000000008150                pomp_conn_send_raw_buf
+ *fill*         0x0000000000008159        0x7 
+ .text.fd_socket_setup_keepalive
+                0x0000000000008160      0x282 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ *fill*         0x00000000000083e2        0xe 
+ .text.client_cb
+                0x00000000000083f0      0x38b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ *fill*         0x000000000000877b        0x5 
+ .text.server_cb
+                0x0000000000008780      0x748 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ *fill*         0x0000000000008ec8        0x8 
+ .text.client_start
+                0x0000000000008ed0      0x48d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ *fill*         0x000000000000935d        0x3 
+ .text.dgram_start
+                0x0000000000009360      0x611 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ *fill*         0x0000000000009971        0xf 
+ .text.server_start
+                0x0000000000009980      0x702 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ *fill*         0x000000000000a082        0xe 
+ .text.timer_cb
+                0x000000000000a090       0x49 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ *fill*         0x000000000000a0d9        0x7 
+ .text.pomp_ctx_start
+                0x000000000000a0e0      0x16e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ *fill*         0x000000000000a24e        0x2 
+ .text.pomp_event_str
+                0x000000000000a250       0x2c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a250                pomp_event_str
+ *fill*         0x000000000000a27c        0x4 
+ .text.pomp_socket_kind_str
+                0x000000000000a280       0x38 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a280                pomp_socket_kind_str
+ *fill*         0x000000000000a2b8        0x8 
+ .text.pomp_ctx_set_raw
+                0x000000000000a2c0       0x2f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a2c0                pomp_ctx_set_raw
+ *fill*         0x000000000000a2ef        0x1 
+ .text.pomp_ctx_set_socket_cb
+                0x000000000000a2f0       0x27 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a2f0                pomp_ctx_set_socket_cb
+ *fill*         0x000000000000a317        0x9 
+ .text.pomp_ctx_set_send_cb
+                0x000000000000a320       0x27 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a320                pomp_ctx_set_send_cb
+ *fill*         0x000000000000a347        0x9 
+ .text.pomp_ctx_setup_keepalive
+                0x000000000000a350       0x1b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a350                pomp_ctx_setup_keepalive
+ *fill*         0x000000000000a36b        0x5 
+ .text.pomp_ctx_destroy
+                0x000000000000a370       0x60 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a370                pomp_ctx_destroy
+ .text.pomp_ctx_new_with_loop
+                0x000000000000a3d0       0x92 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a3d0                pomp_ctx_new_with_loop
+ *fill*         0x000000000000a462        0xe 
+ .text.pomp_ctx_new
+                0x000000000000a470       0x66 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a470                pomp_ctx_new
+ *fill*         0x000000000000a4d6        0xa 
+ .text.pomp_ctx_listen
+                0x000000000000a4e0       0x26 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a4e0                pomp_ctx_listen
+ *fill*         0x000000000000a506        0xa 
+ .text.pomp_ctx_listen_with_access_mode
+                0x000000000000a510       0x1e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a510                pomp_ctx_listen_with_access_mode
+ *fill*         0x000000000000a52e        0x2 
+ .text.pomp_ctx_connect
+                0x000000000000a530        0xf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a530                pomp_ctx_connect
+ *fill*         0x000000000000a53f        0x1 
+ .text.pomp_ctx_bind
+                0x000000000000a540        0xf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a540                pomp_ctx_bind
+ *fill*         0x000000000000a54f        0x1 
+ .text.pomp_ctx_get_fd
+                0x000000000000a550       0x18 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a550                pomp_ctx_get_fd
+ *fill*         0x000000000000a568        0x8 
+ .text.pomp_ctx_process_fd
+                0x000000000000a570       0x16 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a570                pomp_ctx_process_fd
+ *fill*         0x000000000000a586        0xa 
+ .text.pomp_ctx_wait_and_process
+                0x000000000000a590       0x16 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a590                pomp_ctx_wait_and_process
+ *fill*         0x000000000000a5a6        0xa 
+ .text.pomp_ctx_wakeup
+                0x000000000000a5b0       0x16 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a5b0                pomp_ctx_wakeup
+ *fill*         0x000000000000a5c6        0xa 
+ .text.pomp_ctx_get_loop
+                0x000000000000a5d0       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a5d0                pomp_ctx_get_loop
+ *fill*         0x000000000000a5e3        0xd 
+ .text.pomp_ctx_get_next_conn
+                0x000000000000a5f0       0x2b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a5f0                pomp_ctx_get_next_conn
+ *fill*         0x000000000000a61b        0x5 
+ .text.pomp_ctx_get_conn
+                0x000000000000a620       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a620                pomp_ctx_get_conn
+ *fill*         0x000000000000a633        0xd 
+ .text.pomp_ctx_get_local_addr
+                0x000000000000a640       0x43 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a640                pomp_ctx_get_local_addr
+ *fill*         0x000000000000a683        0xd 
+ .text.pomp_ctx_send_msg
+                0x000000000000a690       0x8c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a690                pomp_ctx_send_msg
+ *fill*         0x000000000000a71c        0x4 
+ .text.pomp_ctx_send_msg_to
+                0x000000000000a720       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a720                pomp_ctx_send_msg_to
+ *fill*         0x000000000000a756        0xa 
+ .text.pomp_ctx_sendv
+                0x000000000000a760       0x72 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a760                pomp_ctx_sendv
+ *fill*         0x000000000000a7d2        0xe 
+ .text.pomp_ctx_send
+                0x000000000000a7e0       0xac /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a7e0                pomp_ctx_send
+ *fill*         0x000000000000a88c        0x4 
+ .text.pomp_ctx_send_raw_buf
+                0x000000000000a890       0x8c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a890                pomp_ctx_send_raw_buf
+ *fill*         0x000000000000a91c        0x4 
+ .text.pomp_ctx_send_raw_buf_to
+                0x000000000000a920       0x3e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a920                pomp_ctx_send_raw_buf_to
+ *fill*         0x000000000000a95e        0x2 
+ .text.pomp_ctx_remove_conn
+                0x000000000000a960      0x1da /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000a960                pomp_ctx_remove_conn
+ *fill*         0x000000000000ab3a        0x6 
+ .text.pomp_ctx_stop
+                0x000000000000ab40      0x1c2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000ab40                pomp_ctx_stop
+ *fill*         0x000000000000ad02        0xe 
+ .text.pomp_ctx_notify_msg
+                0x000000000000ad10       0x4e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000ad10                pomp_ctx_notify_msg
+ *fill*         0x000000000000ad5e        0x2 
+ .text.pomp_ctx_notify_raw_buf
+                0x000000000000ad60       0x3e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000ad60                pomp_ctx_notify_raw_buf
+ *fill*         0x000000000000ad9e        0x2 
+ .text.pomp_ctx_notify_send
+                0x000000000000ada0       0x46 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000ada0                pomp_ctx_notify_send
+ *fill*         0x000000000000ade6        0xa 
+ .text.pomp_ctx_sendcb_is_set
+                0x000000000000adf0       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                0x000000000000adf0                pomp_ctx_sendcb_is_set
+ *fill*         0x000000000000ae03        0xd 
+ .text.dump_append
+                0x000000000000ae10      0x1ae /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ *fill*         0x000000000000afbe        0x2 
+ .text.decoder_dump_cb
+                0x000000000000afc0      0x281 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ *fill*         0x000000000000b241        0xf 
+ .text.decoder_read_varint
+                0x000000000000b250      0x128 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ *fill*         0x000000000000b378        0x8 
+ .text.decoder_read_data
+                0x000000000000b380       0xea /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ *fill*         0x000000000000b46a        0x6 
+ .text.pomp_decoder_new
+                0x000000000000b470        0xf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000b470                pomp_decoder_new
+ *fill*         0x000000000000b47f        0x1 
+ .text.pomp_decoder_destroy
+                0x000000000000b480       0x1e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000b480                pomp_decoder_destroy
+ *fill*         0x000000000000b49e        0x2 
+ .text.pomp_decoder_init
+                0x000000000000b4a0       0x26 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000b4a0                pomp_decoder_init
+ *fill*         0x000000000000b4c6        0xa 
+ .text.pomp_decoder_clear
+                0x000000000000b4d0       0x1d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000b4d0                pomp_decoder_clear
+ *fill*         0x000000000000b4ed        0x3 
+ .text.pomp_decoder_read_i8
+                0x000000000000b4f0       0x6c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000b4f0                pomp_decoder_read_i8
+ *fill*         0x000000000000b55c        0x4 
+ .text.pomp_decoder_read_u8
+                0x000000000000b560       0x6c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000b560                pomp_decoder_read_u8
+ *fill*         0x000000000000b5cc        0x4 
+ .text.pomp_decoder_read_i16
+                0x000000000000b5d0       0x74 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000b5d0                pomp_decoder_read_i16
+ *fill*         0x000000000000b644        0xc 
+ .text.pomp_decoder_read_u16
+                0x000000000000b650       0x74 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000b650                pomp_decoder_read_u16
+ *fill*         0x000000000000b6c4        0xc 
+ .text.pomp_decoder_read_i32
+                0x000000000000b6d0       0x74 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000b6d0                pomp_decoder_read_i32
+ *fill*         0x000000000000b744        0xc 
+ .text.pomp_decoder_read_u32
+                0x000000000000b750       0x6c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000b750                pomp_decoder_read_u32
+ *fill*         0x000000000000b7bc        0x4 
+ .text.pomp_decoder_read_i64
+                0x000000000000b7c0       0x7c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000b7c0                pomp_decoder_read_i64
+ *fill*         0x000000000000b83c        0x4 
+ .text.pomp_decoder_read_u64
+                0x000000000000b840       0x6c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000b840                pomp_decoder_read_u64
+ *fill*         0x000000000000b8ac        0x4 
+ .text.pomp_decoder_read_cstr
+                0x000000000000b8b0      0x1f0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000b8b0                pomp_decoder_read_cstr
+ .text.pomp_decoder_read_str
+                0x000000000000baa0       0x7c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000baa0                pomp_decoder_read_str
+ *fill*         0x000000000000bb1c        0x4 
+ .text.pomp_decoder_read_cbuf
+                0x000000000000bb20      0x14b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000bb20                pomp_decoder_read_cbuf
+ *fill*         0x000000000000bc6b        0x5 
+ .text.pomp_decoder_read_buf
+                0x000000000000bc70       0xa3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000bc70                pomp_decoder_read_buf
+ *fill*         0x000000000000bd13        0xd 
+ .text.pomp_decoder_read_f32
+                0x000000000000bd20       0x6c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000bd20                pomp_decoder_read_f32
+ *fill*         0x000000000000bd8c        0x4 
+ .text.pomp_decoder_read_f64
+                0x000000000000bd90       0x6c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000bd90                pomp_decoder_read_f64
+ *fill*         0x000000000000bdfc        0x4 
+ .text.pomp_decoder_read_fd
+                0x000000000000be00       0xfb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000be00                pomp_decoder_read_fd
+ *fill*         0x000000000000befb        0x5 
+ .text.pomp_decoder_readv
+                0x000000000000bf00      0x7f8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000bf00                pomp_decoder_readv
+ *fill*         0x000000000000c6f8        0x8 
+ .text.pomp_decoder_read
+                0x000000000000c700       0xb1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000c700                pomp_decoder_read
+ *fill*         0x000000000000c7b1        0xf 
+ .text.pomp_decoder_walk
+                0x000000000000c7c0      0x31a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000c7c0                pomp_decoder_walk
+ *fill*         0x000000000000cada        0x6 
+ .text.decoder_dump
+                0x000000000000cae0       0xd2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ *fill*         0x000000000000cbb2        0xe 
+ .text.pomp_decoder_dump
+                0x000000000000cbc0       0x74 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000cbc0                pomp_decoder_dump
+ *fill*         0x000000000000cc34        0xc 
+ .text.pomp_decoder_adump
+                0x000000000000cc40       0xa4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                0x000000000000cc40                pomp_decoder_adump
+ *fill*         0x000000000000cce4        0xc 
+ .text.encoder_write_data
+                0x000000000000ccf0       0x58 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ *fill*         0x000000000000cd48        0x8 
+ .text.encoder_write_varint
+                0x000000000000cd50       0x9d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ *fill*         0x000000000000cded        0x3 
+ .text.pomp_encoder_new
+                0x000000000000cdf0        0xf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000cdf0                pomp_encoder_new
+ *fill*         0x000000000000cdff        0x1 
+ .text.pomp_encoder_destroy
+                0x000000000000ce00       0x1e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000ce00                pomp_encoder_destroy
+ *fill*         0x000000000000ce1e        0x2 
+ .text.pomp_encoder_init
+                0x000000000000ce20       0x26 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000ce20                pomp_encoder_init
+ *fill*         0x000000000000ce46        0xa 
+ .text.pomp_encoder_clear
+                0x000000000000ce50       0x1d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000ce50                pomp_encoder_clear
+ *fill*         0x000000000000ce6d        0x3 
+ .text.pomp_encoder_write_i8
+                0x000000000000ce70       0x7c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000ce70                pomp_encoder_write_i8
+ *fill*         0x000000000000ceec        0x4 
+ .text.pomp_encoder_write_u8
+                0x000000000000cef0       0x7c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000cef0                pomp_encoder_write_u8
+ *fill*         0x000000000000cf6c        0x4 
+ .text.pomp_encoder_write_i16
+                0x000000000000cf70       0x7c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000cf70                pomp_encoder_write_i16
+ *fill*         0x000000000000cfec        0x4 
+ .text.pomp_encoder_write_u16
+                0x000000000000cff0       0x7c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000cff0                pomp_encoder_write_u16
+ *fill*         0x000000000000d06c        0x4 
+ .text.pomp_encoder_write_i32
+                0x000000000000d070       0x46 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000d070                pomp_encoder_write_i32
+ *fill*         0x000000000000d0b6        0xa 
+ .text.pomp_encoder_write_u32
+                0x000000000000d0c0       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000d0c0                pomp_encoder_write_u32
+ *fill*         0x000000000000d0f6        0xa 
+ .text.pomp_encoder_write_i64
+                0x000000000000d100       0x46 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000d100                pomp_encoder_write_i64
+ *fill*         0x000000000000d146        0xa 
+ .text.pomp_encoder_write_u64
+                0x000000000000d150       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000d150                pomp_encoder_write_u64
+ *fill*         0x000000000000d186        0xa 
+ .text.pomp_encoder_write_str
+                0x000000000000d190      0x110 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000d190                pomp_encoder_write_str
+ .text.pomp_encoder_write_buf
+                0x000000000000d2a0       0xa6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000d2a0                pomp_encoder_write_buf
+ *fill*         0x000000000000d346        0xa 
+ .text.pomp_encoder_write_f32
+                0x000000000000d350       0x7c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000d350                pomp_encoder_write_f32
+ *fill*         0x000000000000d3cc        0x4 
+ .text.pomp_encoder_write_f64
+                0x000000000000d3d0       0x6c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000d3d0                pomp_encoder_write_f64
+ *fill*         0x000000000000d43c        0x4 
+ .text.pomp_encoder_write_fd
+                0x000000000000d440       0x66 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000d440                pomp_encoder_write_fd
+ *fill*         0x000000000000d4a6        0xa 
+ .text.encoder_writev_internal.part.0
+                0x000000000000d4b0      0xd7f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ *fill*         0x000000000000e22f        0x1 
+ .text.pomp_encoder_write
+                0x000000000000e230       0xc8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000e230                pomp_encoder_write
+ *fill*         0x000000000000e2f8        0x8 
+ .text.pomp_encoder_writev
+                0x000000000000e300       0x29 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000e300                pomp_encoder_writev
+ *fill*         0x000000000000e329        0x7 
+ .text.encoder_write_internal
+                0x000000000000e330       0xba /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ *fill*         0x000000000000e3ea        0x6 
+ .text.pomp_encoder_write_argv
+                0x000000000000e3f0       0x19 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                0x000000000000e3f0                pomp_encoder_write_argv
+ *fill*         0x000000000000e409        0x7 
+ .text.pomp_evt_fd_detach
+                0x000000000000e410        0xe /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ *fill*         0x000000000000e41e        0x2 
+ .text.pomp_evt_posix_detach
+                0x000000000000e420        0xe /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ *fill*         0x000000000000e42e        0x2 
+ .text.pomp_evt_fd_attach
+                0x000000000000e430       0x1b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ *fill*         0x000000000000e44b        0x5 
+ .text.pomp_evt_posix_attach
+                0x000000000000e450       0x1b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ *fill*         0x000000000000e46b        0x5 
+ .text.pomp_evt_fd_destroy
+                0x000000000000e470       0x27 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ *fill*         0x000000000000e497        0x9 
+ .text.pomp_evt_posix_destroy
+                0x000000000000e4a0       0x33 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ *fill*         0x000000000000e4d3        0xd 
+ .text.pomp_evt_fd_new
+                0x000000000000e4e0       0xad /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ *fill*         0x000000000000e58d        0x3 
+ .text.pomp_evt_fd_signal
+                0x000000000000e590       0x9d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ *fill*         0x000000000000e62d        0x3 
+ .text.pomp_evt_posix_clear
+                0x000000000000e630       0x8e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ *fill*         0x000000000000e6be        0x2 
+ .text.pomp_evt_posix_cb
+                0x000000000000e6c0       0x1a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ *fill*         0x000000000000e6da        0x6 
+ .text.pomp_evt_posix_signal
+                0x000000000000e6e0       0x9d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ *fill*         0x000000000000e77d        0x3 
+ .text.pomp_evt_fd_clear
+                0x000000000000e780       0x8d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ *fill*         0x000000000000e80d        0x3 
+ .text.pomp_evt_fd_cb
+                0x000000000000e810       0x1a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ *fill*         0x000000000000e82a        0x6 
+ .text.pomp_evt_posix_new
+                0x000000000000e830      0x4ef /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ *fill*         0x000000000000ed1f        0x1 
+ .text.pomp_evt_new
+                0x000000000000ed20        0xe /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+                0x000000000000ed20                pomp_evt_new
+ *fill*         0x000000000000ed2e        0x2 
+ .text.pomp_evt_destroy
+                0x000000000000ed30       0x96 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+                0x000000000000ed30                pomp_evt_destroy
+ *fill*         0x000000000000edc6        0xa 
+ .text.pomp_evt_attach_to_loop
+                0x000000000000edd0       0xeb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+                0x000000000000edd0                pomp_evt_attach_to_loop
+ *fill*         0x000000000000eebb        0x5 
+ .text.pomp_evt_detach_from_loop
+                0x000000000000eec0       0xff /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+                0x000000000000eec0                pomp_evt_detach_from_loop
+ *fill*         0x000000000000efbf        0x1 
+ .text.pomp_evt_is_attached
+                0x000000000000efc0       0x29 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+                0x000000000000efc0                pomp_evt_is_attached
+ *fill*         0x000000000000efe9        0x7 
+ .text.pomp_evt_signal
+                0x000000000000eff0        0xa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+                0x000000000000eff0                pomp_evt_signal
+ *fill*         0x000000000000effa        0x6 
+ .text.pomp_evt_clear
+                0x000000000000f000        0xa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+                0x000000000000f000                pomp_evt_clear
+ *fill*         0x000000000000f00a        0x6 
+ .text.fd_events_from_epoll
+                0x000000000000f010        0x6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x000000000000f016        0xa 
+ .text.pomp_loop_epoll_do_get_fd
+                0x000000000000f020        0x8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x000000000000f028        0x8 
+ .text.pomp_loop_poll_do_add
+                0x000000000000f030        0x3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x000000000000f033        0xd 
+ .text.pomp_loop_poll_do_get_fd
+                0x000000000000f040        0x8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x000000000000f048        0x8 
+ .text.pomp_loop_epoll_do_wakeup
+                0x000000000000f050       0xe5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x000000000000f135        0xb 
+ .text.pomp_loop_poll_do_wakeup
+                0x000000000000f140       0xe5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x000000000000f225        0xb 
+ .text.pomp_loop_poll_do_destroy
+                0x000000000000f230       0x60 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .text.pomp_loop_poll_do_wait_and_process
+                0x000000000000f290      0x448 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x000000000000f6d8        0x8 
+ .text.pomp_loop_epoll_do_wait_and_process
+                0x000000000000f6e0      0x2ad /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x000000000000f98d        0x3 
+ .text.pomp_loop_epoll_ctl.isra.4
+                0x000000000000f990      0x140 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .text.pomp_loop_epoll_do_remove
+                0x000000000000fad0       0x14 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x000000000000fae4        0xc 
+ .text.pomp_loop_epoll_do_update
+                0x000000000000faf0       0x14 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x000000000000fb04        0xc 
+ .text.pomp_loop_epoll_do_add
+                0x000000000000fb10       0x14 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x000000000000fb24        0xc 
+ .text.pomp_loop_epoll_do_destroy
+                0x000000000000fb30       0x59 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x000000000000fb89        0x7 
+ .text.pomp_loop_poll_do_new
+                0x000000000000fb90       0x9f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x000000000000fc2f        0x1 
+ .text.pomp_idle_evt_cb
+                0x000000000000fc30       0xaa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x000000000000fcda        0x6 
+ .text.pomp_loop_poll_do_update
+                0x000000000000fce0        0x3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x000000000000fce3        0xd 
+ .text.pomp_loop_epoll_do_new
+                0x000000000000fcf0      0x494 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x0000000000010184        0xc 
+ .text.pomp_loop_poll_do_remove
+                0x0000000000010190        0x3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ *fill*         0x0000000000010193        0xd 
+ .text.pomp_loop_add_pfd
+                0x00000000000101a0       0x7b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x00000000000101a0                pomp_loop_add_pfd
+ *fill*         0x000000000001021b        0x5 
+ .text.pomp_loop_remove_pfd
+                0x0000000000010220      0x119 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x0000000000010220                pomp_loop_remove_pfd
+ *fill*         0x0000000000010339        0x7 
+ .text.pomp_loop_destroy
+                0x0000000000010340      0x1c1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x0000000000010340                pomp_loop_destroy
+ *fill*         0x0000000000010501        0xf 
+ .text.pomp_loop_new
+                0x0000000000010510       0xac /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x0000000000010510                pomp_loop_new
+ *fill*         0x00000000000105bc        0x4 
+ .text.pomp_loop_add
+                0x00000000000105c0      0x140 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x00000000000105c0                pomp_loop_add
+ .text.pomp_loop_update
+                0x0000000000010700       0xd6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x0000000000010700                pomp_loop_update
+ *fill*         0x00000000000107d6        0xa 
+ .text.pomp_loop_update2
+                0x00000000000107e0       0xde /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x00000000000107e0                pomp_loop_update2
+ *fill*         0x00000000000108be        0x2 
+ .text.pomp_loop_remove
+                0x00000000000108c0       0xdb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x00000000000108c0                pomp_loop_remove
+ *fill*         0x000000000001099b        0x5 
+ .text.pomp_loop_has_fd
+                0x00000000000109a0       0x4b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x00000000000109a0                pomp_loop_has_fd
+ *fill*         0x00000000000109eb        0x5 
+ .text.pomp_loop_get_fd
+                0x00000000000109f0       0x17 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x00000000000109f0                pomp_loop_get_fd
+ *fill*         0x0000000000010a07        0x9 
+ .text.pomp_loop_wait_and_process
+                0x0000000000010a10       0x15 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x0000000000010a10                pomp_loop_wait_and_process
+ *fill*         0x0000000000010a25        0xb 
+ .text.pomp_loop_process_fd
+                0x0000000000010a30        0x7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x0000000000010a30                pomp_loop_process_fd
+ *fill*         0x0000000000010a37        0x9 
+ .text.pomp_loop_wakeup
+                0x0000000000010a40       0x15 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x0000000000010a40                pomp_loop_wakeup
+ *fill*         0x0000000000010a55        0xb 
+ .text.pomp_loop_idle_add
+                0x0000000000010a60      0x143 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x0000000000010a60                pomp_loop_idle_add
+ *fill*         0x0000000000010ba3        0xd 
+ .text.pomp_loop_idle_add_with_cookie
+                0x0000000000010bb0      0x13b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x0000000000010bb0                pomp_loop_idle_add_with_cookie
+ *fill*         0x0000000000010ceb        0x5 
+ .text.pomp_loop_idle_remove
+                0x0000000000010cf0       0xdd /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x0000000000010cf0                pomp_loop_idle_remove
+ *fill*         0x0000000000010dcd        0x3 
+ .text.pomp_loop_idle_remove_by_cookie
+                0x0000000000010dd0       0xd4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x0000000000010dd0                pomp_loop_idle_remove_by_cookie
+ *fill*         0x0000000000010ea4        0xc 
+ .text.pomp_loop_idle_flush
+                0x0000000000010eb0       0xb7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x0000000000010eb0                pomp_loop_idle_flush
+ *fill*         0x0000000000010f67        0x9 
+ .text.pomp_loop_idle_flush_by_cookie
+                0x0000000000010f70       0xf7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x0000000000010f70                pomp_loop_idle_flush_by_cookie
+ *fill*         0x0000000000011067        0x9 
+ .text.pomp_loop_watchdog_enable
+                0x0000000000011070       0x3e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x0000000000011070                pomp_loop_watchdog_enable
+ *fill*         0x00000000000110ae        0x2 
+ .text.pomp_loop_watchdog_disable
+                0x00000000000110b0       0x1e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x00000000000110b0                pomp_loop_watchdog_disable
+ *fill*         0x00000000000110ce        0x2 
+ .text.pomp_internal_set_loop_impl
+                0x00000000000110d0       0x41 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x00000000000110d0                pomp_internal_set_loop_impl
+ *fill*         0x0000000000011111        0xf 
+ .text.pomp_msg_new
+                0x0000000000011120        0xf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x0000000000011120                pomp_msg_new
+ *fill*         0x000000000001112f        0x1 
+ .text.pomp_msg_new_copy
+                0x0000000000011130       0x6c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x0000000000011130                pomp_msg_new_copy
+ *fill*         0x000000000001119c        0x4 
+ .text.pomp_msg_new_with_buffer
+                0x00000000000111a0      0x206 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x00000000000111a0                pomp_msg_new_with_buffer
+ *fill*         0x00000000000113a6        0xa 
+ .text.pomp_msg_init
+                0x00000000000113b0       0x40 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x00000000000113b0                pomp_msg_init
+ .text.pomp_msg_finish
+                0x00000000000113f0      0x124 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x00000000000113f0                pomp_msg_finish
+ *fill*         0x0000000000011514        0xc 
+ .text.pomp_msg_clear
+                0x0000000000011520       0x30 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x0000000000011520                pomp_msg_clear
+ .text.pomp_msg_destroy
+                0x0000000000011550       0x26 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x0000000000011550                pomp_msg_destroy
+ *fill*         0x0000000000011576        0xa 
+ .text.pomp_msg_get_id
+                0x0000000000011580        0xb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x0000000000011580                pomp_msg_get_id
+ *fill*         0x000000000001158b        0x5 
+ .text.pomp_msg_get_buffer
+                0x0000000000011590       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x0000000000011590                pomp_msg_get_buffer
+ *fill*         0x00000000000115a3        0xd 
+ .text.pomp_msg_writev
+                0x00000000000115b0       0xb4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x00000000000115b0                pomp_msg_writev
+ *fill*         0x0000000000011664        0xc 
+ .text.pomp_msg_write
+                0x0000000000011670       0xac /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x0000000000011670                pomp_msg_write
+ *fill*         0x000000000001171c        0x4 
+ .text.pomp_msg_write_argv
+                0x0000000000011720       0xc4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x0000000000011720                pomp_msg_write_argv
+ *fill*         0x00000000000117e4        0xc 
+ .text.pomp_msg_readv
+                0x00000000000117f0       0x94 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x00000000000117f0                pomp_msg_readv
+ *fill*         0x0000000000011884        0xc 
+ .text.pomp_msg_read
+                0x0000000000011890       0xb1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x0000000000011890                pomp_msg_read
+ *fill*         0x0000000000011941        0xf 
+ .text.pomp_msg_dump
+                0x0000000000011950       0x94 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x0000000000011950                pomp_msg_dump
+ *fill*         0x00000000000119e4        0xc 
+ .text.pomp_msg_adump
+                0x00000000000119f0       0x9c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                0x00000000000119f0                pomp_msg_adump
+ *fill*         0x0000000000011a8c        0x4 
+ .text.pomp_prot_reset_state
+                0x0000000000011a90       0x35 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ *fill*         0x0000000000011ac5        0xb 
+ .text.pomp_prot_check_magic.part.1
+                0x0000000000011ad0       0x6d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ *fill*         0x0000000000011b3d        0x3 
+ .text.copy.constprop.3
+                0x0000000000011b40       0x43 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ *fill*         0x0000000000011b83        0xd 
+ .text.pomp_prot_new
+                0x0000000000011b90       0x25 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+                0x0000000000011b90                pomp_prot_new
+ *fill*         0x0000000000011bb5        0xb 
+ .text.pomp_prot_destroy
+                0x0000000000011bc0       0x2e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+                0x0000000000011bc0                pomp_prot_destroy
+ *fill*         0x0000000000011bee        0x2 
+ .text.pomp_prot_decode_msg
+                0x0000000000011bf0      0x45b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+                0x0000000000011bf0                pomp_prot_decode_msg
+ *fill*         0x000000000001204b        0x5 
+ .text.pomp_prot_release_msg
+                0x0000000000012050       0x46 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+                0x0000000000012050                pomp_prot_release_msg
+ *fill*         0x0000000000012096        0xa 
+ .text.pomp_timer_fd_destroy
+                0x00000000000120a0       0x32 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ *fill*         0x00000000000120d2        0xe 
+ .text.pomp_timer_fd_new
+                0x00000000000120e0      0x110 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ .text.pomp_timer_posix_cb
+                0x00000000000121f0       0x6d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ *fill*         0x000000000001225d        0x3 
+ .text.pomp_timer_fd_cb
+                0x0000000000012260      0x2c4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ *fill*         0x0000000000012524        0xc 
+ .text.pomp_timer_posix_destroy
+                0x0000000000012530       0x4c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ *fill*         0x000000000001257c        0x4 
+ .text.pomp_timer_posix_sighandler
+                0x0000000000012580       0x76 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ *fill*         0x00000000000125f6        0xa 
+ .text.pomp_timer_fd_set
+                0x0000000000012600      0x10f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ *fill*         0x000000000001270f        0x1 
+ .text.pomp_timer_fd_clear
+                0x0000000000012710       0x16 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ *fill*         0x0000000000012726        0xa 
+ .text.pomp_timer_posix_set
+                0x0000000000012730      0x10f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ *fill*         0x000000000001283f        0x1 
+ .text.pomp_timer_posix_clear
+                0x0000000000012840       0x16 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ *fill*         0x0000000000012856        0xa 
+ .text.pomp_timer_posix_new
+                0x0000000000012860      0x69b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ *fill*         0x0000000000012efb        0x5 
+ .text.pomp_timer_new
+                0x0000000000012f00        0x9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+                0x0000000000012f00                pomp_timer_new
+ *fill*         0x0000000000012f09        0x7 
+ .text.pomp_timer_destroy
+                0x0000000000012f10        0xa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+                0x0000000000012f10                pomp_timer_destroy
+ *fill*         0x0000000000012f1a        0x6 
+ .text.pomp_timer_set
+                0x0000000000012f20        0xf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+                0x0000000000012f20                pomp_timer_set
+ *fill*         0x0000000000012f2f        0x1 
+ .text.pomp_timer_set_periodic
+                0x0000000000012f30        0xa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+                0x0000000000012f30                pomp_timer_set_periodic
+ *fill*         0x0000000000012f3a        0x6 
+ .text.pomp_timer_clear
+                0x0000000000012f40        0xa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+                0x0000000000012f40                pomp_timer_clear
+ *fill*         0x0000000000012f4a        0x6 
+ .text.pomp_internal_set_timer_impl
+                0x0000000000012f50       0x41 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+                0x0000000000012f50                pomp_internal_set_timer_impl
+ *fill*         0x0000000000012f91        0xf 
+ .text.pomp_watchdog_thread_cb
+                0x0000000000012fa0      0x124 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+ *fill*         0x00000000000130c4        0xc 
+ .text.pomp_watchdog_stop
+                0x00000000000130d0       0xb8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+                0x00000000000130d0                pomp_watchdog_stop
+ *fill*         0x0000000000013188        0x8 
+ .text.pomp_watchdog_start
+                0x0000000000013190      0x167 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+                0x0000000000013190                pomp_watchdog_start
+ *fill*         0x00000000000132f7        0x9 
+ .text.pomp_watchdog_enter
+                0x0000000000013300       0xca /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+                0x0000000000013300                pomp_watchdog_enter
+ *fill*         0x00000000000133ca        0x6 
+ .text.pomp_watchdog_leave
+                0x00000000000133d0       0x4b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+                0x00000000000133d0                pomp_watchdog_leave
+ *fill*         0x000000000001341b        0x5 
+ .text.pomp_watchdog_init
+                0x0000000000013420       0x35 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+                0x0000000000013420                pomp_watchdog_init
+ *fill*         0x0000000000013455        0xb 
+ .text.pomp_watchdog_clear
+                0x0000000000013460       0x42 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+                0x0000000000013460                pomp_watchdog_clear
+ *(.gnu.warning)
+
+.fini           0x00000000000134a4        0x9
+ *(SORT_NONE(.fini))
+ .fini          0x00000000000134a4        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x00000000000134a4                _fini
+ .fini          0x00000000000134a8        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+
+.rodata         0x00000000000134b0      0xf1e
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.8
+                0x00000000000134b0       0x1f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+ .rodata.str1.1
+                0x00000000000134cf       0x65 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+ .rodata.str1.1
+                0x0000000000013534       0x37 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+ *fill*         0x000000000001356b        0x5 
+ .rodata.str1.8
+                0x0000000000013570       0x4d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+ .rodata.str1.1
+                0x00000000000135bd       0xb1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                                         0xcc (size before relaxing)
+ *fill*         0x000000000001366e        0x2 
+ .rodata.str1.8
+                0x0000000000013670      0x119 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ .rodata.str1.1
+                0x0000000000013789      0x22d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                                        0x258 (size before relaxing)
+ *fill*         0x00000000000139b6        0x2 
+ .rodata.str1.8
+                0x00000000000139b8       0xcb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ .rodata.str1.1
+                0x0000000000013a83       0xd0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ *fill*         0x0000000000013b53        0x1 
+ .rodata        0x0000000000013b54      0x140 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ *fill*         0x0000000000013c94        0x4 
+ .rodata.str1.8
+                0x0000000000013c98      0x138 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ .rodata.str1.8
+                0x0000000000013dd0       0xc8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ .rodata.str1.1
+                0x0000000000013e98       0x5a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                                         0x5d (size before relaxing)
+ *fill*         0x0000000000013ef2        0x2 
+ .rodata        0x0000000000013ef4       0xd0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ .rodata.str1.1
+                0x0000000000013fc4       0x1a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+                                         0x6d (size before relaxing)
+ *fill*         0x0000000000013fde        0x2 
+ .rodata.str1.8
+                0x0000000000013fe0       0x9e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ .rodata.str1.1
+                0x000000000001407e        0x5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_log.c.o
+ .rodata.str1.1
+                0x0000000000014083       0xc1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                                        0x12c (size before relaxing)
+ *fill*         0x0000000000014144        0x4 
+ .rodata.str1.8
+                0x0000000000014148       0x7f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .rodata.str1.1
+                0x00000000000141c7       0x4e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+ *fill*         0x0000000000014215        0x3 
+ .rodata.str1.8
+                0x0000000000014218       0x25 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ .rodata.str1.1
+                0x000000000001423d       0x26 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ *fill*         0x0000000000014263        0x1 
+ .rodata        0x0000000000014264       0x1c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ .rodata.str1.1
+                0x0000000000014280       0x99 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+                                         0xf1 (size before relaxing)
+ *fill*         0x0000000000014319        0x7 
+ .rodata.str1.8
+                0x0000000000014320       0x78 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+                                         0x77 (size before relaxing)
+ .rodata.str1.1
+                0x0000000000014398       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x00000000000143d0      0x82c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x00000000000143d0      0x82c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+                0x00000000000143d0                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x0000000000014c00     0x2d5c
+ *(.eh_frame)
+ .eh_frame      0x0000000000014c00       0x40 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000014c40       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000014c58      0x168 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+                                        0x180 (size before relaxing)
+ .eh_frame      0x0000000000014dc0      0x398 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                                        0x3c8 (size before relaxing)
+ .eh_frame      0x0000000000015158      0x528 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                                        0x540 (size before relaxing)
+ .eh_frame      0x0000000000015680      0x798 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                                        0x7c8 (size before relaxing)
+ .eh_frame      0x0000000000015e18      0x4d8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                                        0x4f0 (size before relaxing)
+ .eh_frame      0x00000000000162f0      0x360 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                                        0x378 (size before relaxing)
+ .eh_frame      0x0000000000016650      0x350 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+                                        0x380 (size before relaxing)
+ .eh_frame      0x00000000000169a0      0x7e0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                                        0x820 (size before relaxing)
+ .eh_frame      0x0000000000017180      0x2a8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                                        0x2c0 (size before relaxing)
+ .eh_frame      0x0000000000017428      0x110 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+                                        0x128 (size before relaxing)
+ .eh_frame      0x0000000000017538      0x2f8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+                                        0x328 (size before relaxing)
+ .eh_frame      0x0000000000017830      0x128 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+                                        0x140 (size before relaxing)
+ .eh_frame      0x0000000000017958        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000217c90                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000217c90        0x8
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000217c90        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.fini_array     0x0000000000217c98        0x8
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000217c98        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x0000000000217ca0      0x140
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x0000000000217ca0       0x70 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+                0x0000000000217ca0                pomp_evt_posix_ops
+                0x0000000000217ce0                pomp_evt_fd_ops
+ *fill*         0x0000000000217d10       0x10 
+ .data.rel.ro.local
+                0x0000000000217d20       0x80 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                0x0000000000217d20                pomp_loop_poll_ops
+                0x0000000000217d60                pomp_loop_epoll_ops
+ .data.rel.ro.local
+                0x0000000000217da0       0x40 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+                0x0000000000217da0                pomp_timer_posix_ops
+                0x0000000000217dc0                pomp_timer_fd_ops
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x0000000000217de0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynamic        0x0000000000217de0      0x200
+ *(.dynamic)
+ .dynamic       0x0000000000217de0      0x200 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000217de0                _DYNAMIC
+
+.got            0x0000000000217fe0       0x20
+ *(.got)
+ .got           0x0000000000217fe0       0x20 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x0000000000218fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000218000      0x520
+ *(.got.plt)
+ .got.plt       0x0000000000218000      0x520 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000218000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000000000218520       0x50
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local
+                0x0000000000218520        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                0x0000000000218520                __dso_handle
+ .data.rel.local
+                0x0000000000218528        0x8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ *fill*         0x0000000000218530       0x10 
+ .data.rel.local
+                0x0000000000218540       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_log.c.o
+                0x0000000000218540                __ulog_cookie_pomp
+ .data.rel.local
+                0x0000000000218560        0x8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .data.rel.local
+                0x0000000000218568        0x8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+
+.tm_clone_table
+                0x0000000000218570        0x0
+ .tm_clone_table
+                0x0000000000218570        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .tm_clone_table
+                0x0000000000218570        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.data1
+ *(.data1)
+                0x0000000000218570                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x0000000000218570                . = .
+                0x0000000000218570                __bss_start = .
+
+.bss            0x0000000000218570        0x8
+ *(.dynbss)
+ .dynbss        0x0000000000218570        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000218570        0x1 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *(COMMON)
+                0x0000000000218578                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x0000000000218571        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x0000000000218578                . = ALIGN (0x8)
+                0x0000000000218578                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x0000000000618578        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x0000000000618578                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x0000000000618578                . = ALIGN (0x8)
+                0x0000000000618578                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x0000000000618578                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x29
+ *(.comment)
+ .comment       0x0000000000000000       0x29 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                                         0x2a (size before relaxing)
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_log.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+ .comment       0x0000000000000029       0x2a /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x1200
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x70 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+ .debug_aranges
+                0x0000000000000070      0x1b0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+ .debug_aranges
+                0x0000000000000220      0x1c0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ .debug_aranges
+                0x00000000000003e0      0x2c0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ .debug_aranges
+                0x00000000000006a0      0x1f0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ .debug_aranges
+                0x0000000000000890      0x1a0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ .debug_aranges
+                0x0000000000000a30      0x180 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ .debug_aranges
+                0x0000000000000bb0       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_log.c.o
+ .debug_aranges
+                0x0000000000000bd0      0x2b0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .debug_aranges
+                0x0000000000000e80      0x120 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+ .debug_aranges
+                0x0000000000000fa0       0x90 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ .debug_aranges
+                0x0000000000001030      0x140 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ .debug_aranges
+                0x0000000000001170       0x90 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x2380a
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x199f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+ .debug_info    0x000000000000199f     0x243f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+ .debug_info    0x0000000000003dde     0x451f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ .debug_info    0x00000000000082fd     0x50c5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ .debug_info    0x000000000000d3c2     0x34cf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ .debug_info    0x0000000000010891     0x2c77 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ .debug_info    0x0000000000013508     0x2585 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ .debug_info    0x0000000000015a8d     0x105e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_log.c.o
+ .debug_info    0x0000000000016aeb     0x493f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .debug_info    0x000000000001b42a     0x1e6b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+ .debug_info    0x000000000001d295     0x1e38 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ .debug_info    0x000000000001f0cd     0x2eeb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ .debug_info    0x0000000000021fb8     0x1852 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+
+.debug_abbrev   0x0000000000000000     0x367b
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x326 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+ .debug_abbrev  0x0000000000000326      0x4df /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+ .debug_abbrev  0x0000000000000805      0x4f1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ .debug_abbrev  0x0000000000000cf6      0x504 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ .debug_abbrev  0x00000000000011fa      0x4a3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ .debug_abbrev  0x000000000000169d      0x475 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ .debug_abbrev  0x0000000000001b12      0x4ba /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ .debug_abbrev  0x0000000000001fcc      0x17c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_log.c.o
+ .debug_abbrev  0x0000000000002148      0x64c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .debug_abbrev  0x0000000000002794      0x2f5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+ .debug_abbrev  0x0000000000002a89      0x3d4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ .debug_abbrev  0x0000000000002e5d      0x4fb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ .debug_abbrev  0x0000000000003358      0x323 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+
+.debug_line     0x0000000000000000     0x6ef0
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x50b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+ .debug_line    0x000000000000050b      0x7a3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+ .debug_line    0x0000000000000cae      0xc86 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ .debug_line    0x0000000000001934      0xfa2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ .debug_line    0x00000000000028d6      0xbfe /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ .debug_line    0x00000000000034d4      0x888 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ .debug_line    0x0000000000003d5c      0x7aa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ .debug_line    0x0000000000004506      0x2c5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_log.c.o
+ .debug_line    0x00000000000047cb      0xf7e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .debug_line    0x0000000000005749      0x5aa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+ .debug_line    0x0000000000005cf3      0x4e7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ .debug_line    0x00000000000061da      0x89d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ .debug_line    0x0000000000006a77      0x479 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x38f0
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0xaba /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+                                        0xcd6 (size before relaxing)
+ .debug_str     0x0000000000000aba      0x292 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+                                        0xdce (size before relaxing)
+ .debug_str     0x0000000000000d4c      0xbe0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+                                       0x18a9 (size before relaxing)
+ .debug_str     0x000000000000192c      0x676 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+                                       0x1555 (size before relaxing)
+ .debug_str     0x0000000000001fa2      0x313 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+                                       0x1032 (size before relaxing)
+ .debug_str     0x00000000000022b5      0x2de /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+                                        0xf38 (size before relaxing)
+ .debug_str     0x0000000000002593      0x210 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+                                        0xe2a (size before relaxing)
+ .debug_str     0x00000000000027a3       0x27 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_log.c.o
+                                        0xabd (size before relaxing)
+ .debug_str     0x00000000000027ca      0x7ab /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+                                       0x1577 (size before relaxing)
+ .debug_str     0x0000000000002f75      0x116 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+                                        0xe3a (size before relaxing)
+ .debug_str     0x000000000000308b      0x1de /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+                                        0xe24 (size before relaxing)
+ .debug_str     0x0000000000003269      0x523 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+                                       0x11ee (size before relaxing)
+ .debug_str     0x000000000000378c      0x164 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+                                        0xd22 (size before relaxing)
+
+.debug_loc      0x0000000000000000    0x202aa
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0xd1e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+ .debug_loc     0x0000000000000d1e     0x1f67 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+ .debug_loc     0x0000000000002c85     0x4df2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ .debug_loc     0x0000000000007a77     0x5330 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ .debug_loc     0x000000000000cda7     0x428a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ .debug_loc     0x0000000000011031     0x3017 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ .debug_loc     0x0000000000014048     0x1e75 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ .debug_loc     0x0000000000015ebd     0x5453 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .debug_loc     0x000000000001b310     0x120c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+ .debug_loc     0x000000000001c51c     0x12b4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ .debug_loc     0x000000000001d7d0     0x21e6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ .debug_loc     0x000000000001f9b6      0x8f4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x6120
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000      0x210 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_addr.c.o
+ .debug_ranges  0x0000000000000210      0x450 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_buffer.c.o
+ .debug_ranges  0x0000000000000660      0xe90 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_conn.c.o
+ .debug_ranges  0x00000000000014f0     0x1900 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_ctx.c.o
+ .debug_ranges  0x0000000000002df0      0x710 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_decoder.c.o
+ .debug_ranges  0x0000000000003500      0x620 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_encoder.c.o
+ .debug_ranges  0x0000000000003b20      0x860 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_evt.c.o
+ .debug_ranges  0x0000000000004380      0xec0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_loop.c.o
+ .debug_ranges  0x0000000000005240      0x1a0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_msg.c.o
+ .debug_ranges  0x00000000000053e0      0x320 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_prot.c.o
+ .debug_ranges  0x0000000000005700      0x910 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_timer.c.o
+ .debug_ranges  0x0000000000006010      0x110 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libpomp/obj/src/pomp_watchdog.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(out/olympe-linux/build/libpomp/libpomp.so elf64-x86-64)

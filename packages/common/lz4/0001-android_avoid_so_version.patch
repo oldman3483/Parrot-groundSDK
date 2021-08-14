@@ -1,0 +1,12 @@
+diff --git a/CMakeLists.txt b/CMakeLists.txt
+index f5efe94..1c497e7 100644
+--- a/CMakeLists.txt
++++ b/CMakeLists.txt
+@@ -47,7 +47,6 @@ if(BUILD_LIBS)
+     
+     set_target_properties(liblz4 PROPERTIES
+     OUTPUT_NAME lz4
+-    SOVERSION "${CPACK_PACKAGE_VERSION_MAJOR}.${CPACK_PACKAGE_VERSION_MINOR}"
+     )
+         
+     install(TARGETS liblz4

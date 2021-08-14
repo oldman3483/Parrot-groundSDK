@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zxli/code/parrot-groundsdk/packages/common/json/debug.h
+stdlib.h
+-
+
+/home/zxli/code/parrot-groundsdk/packages/common/json/printbuf.h
+
+/home/zxli/code/parrot-groundsdk/packages/common/json/tests/test_printbuf.c
+assert.h
+-
+limits.h
+-
+stddef.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+debug.h
+/home/zxli/code/parrot-groundsdk/packages/common/json/tests/debug.h
+printbuf.h
+/home/zxli/code/parrot-groundsdk/packages/common/json/tests/printbuf.h
+

@@ -1,0 +1,1286 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libfutils.so                  /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o (time_local_parse)
+libulog.so                    /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o (ulog_log_write)
+libjson-c.so.5                /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o (json_object_new_object@@JSONC_0.14)
+libm.so.6                     /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o (asinf@@GLIBC_2.2.5)
+libc.so.6                     /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o (strncmp@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libfutils.so
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libulog.so
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libjson-c.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libm.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libm.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libmvec_nonshared.a
+LOAD /lib/x86_64-linux-gnu/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x2c0
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x2c0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x00000000000004b0      0xba0
+ *(.dynsym)
+ .dynsym        0x00000000000004b0      0xba0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000001050      0xc36
+ *(.dynstr)
+ .dynstr        0x0000000000001050      0xc36 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000001c86       0xf8
+ *(.gnu.version)
+ .gnu.version   0x0000000000001c86       0xf8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000001d80        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000001d80        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000001d80       0x90
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000001d80       0x90 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000001e10       0xc0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_date_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_date_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_location_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_location_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_fov_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_fov_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_thermal_alignment_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_thermal_alignment_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_thermal_conversion_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_thermal_conversion_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_thermal_scale_factor_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_thermal_scale_factor_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_streaming_sdes_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_streaming_sdes_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_streaming_sdp_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_streaming_sdp_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_recording_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_recording_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_to_json
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_session_to_str
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_buffer_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_buffer_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_write_u16
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_write_i16
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_read_f64_i32
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_read_i16.constprop.5
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_to_json
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_to_csv
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_csv_header
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_mime_type
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_ext_timestamp_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_ext_timestamp_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_ext_followme_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_ext_followme_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_ext_automation_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_ext_automation_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_ext_thermal_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_ext_thermal_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_read_u16
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_v1_streaming_basic_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_v1_streaming_basic_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_v1_streaming_extended_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_v1_streaming_extended_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_v1_recording_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_v1_recording_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_read_i16.constprop.3
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_v2_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_v2_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_v3_write
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_v3_read
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_location
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_speed_ned
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_air_speed
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_ground_distance
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_drone_euler
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_drone_quat
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_frame_euler
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_frame_quat
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_frame_base_euler
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_frame_base_quat
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_frame_timestamp
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_camera_pan
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_camera_tilt
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_exposure_time
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_gain
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_awb_r_gain
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_awb_b_gain
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_picture_h_fov
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_picture_v_fov
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_link_goodput
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_link_quality
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_wifi_rssi
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_battery_pencentage
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_flying_state
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.vmeta_frame_get_piloting_mode
+                0x0000000000001e10        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.local
+                0x0000000000001e10       0x30 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000001e40       0x60 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000001ea0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000001ea0       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000001eb8       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000001ed0      0x6f0
+ *(.rela.plt)
+ .rela.plt      0x0000000000001ed0      0x6f0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x00000000000025c0       0x17
+ *(SORT_NONE(.init))
+ .init          0x00000000000025c0       0x12 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x00000000000025c0                _init
+ .init          0x00000000000025d2        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x00000000000025e0      0x4b0
+ *(.plt)
+ .plt           0x00000000000025e0      0x4b0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.plt.got        0x0000000000002a90        0x8
+ *(.plt.got)
+ .plt.got       0x0000000000002a90        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000002aa0    0x13568
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ .text.unlikely.vmeta_location_adjust_read
+                0x0000000000002aa0       0x48 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ .text.unlikely.vmeta_write_u16
+                0x0000000000002ae8       0x21 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ .text.unlikely.vmeta_read_f64_i32
+                0x0000000000002b09       0x72 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ .text.unlikely.vmeta_write_u16
+                0x0000000000002b7b       0x21 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ *fill*         0x0000000000002b9c        0x4 
+ .text          0x0000000000002ba0       0xda /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *fill*         0x0000000000002c7a        0x6 
+ .text.vmeta_session_date_write
+                0x0000000000002c80       0xb3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x0000000000002c80                vmeta_session_date_write
+ *fill*         0x0000000000002d33        0xd 
+ .text.vmeta_session_date_read
+                0x0000000000002d40      0x169 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x0000000000002d40                vmeta_session_date_read
+ *fill*         0x0000000000002ea9        0x7 
+ .text.vmeta_session_location_write
+                0x0000000000002eb0      0x137 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x0000000000002eb0                vmeta_session_location_write
+ *fill*         0x0000000000002fe7        0x9 
+ .text.vmeta_session_location_read
+                0x0000000000002ff0      0x1ec /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x0000000000002ff0                vmeta_session_location_read
+ *fill*         0x00000000000031dc        0x4 
+ .text.vmeta_session_fov_write
+                0x00000000000031e0      0x107 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x00000000000031e0                vmeta_session_fov_write
+ *fill*         0x00000000000032e7        0x9 
+ .text.vmeta_session_fov_read
+                0x00000000000032f0       0xe7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x00000000000032f0                vmeta_session_fov_read
+ *fill*         0x00000000000033d7        0x9 
+ .text.vmeta_session_thermal_alignment_write
+                0x00000000000033e0       0xf7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x00000000000033e0                vmeta_session_thermal_alignment_write
+ *fill*         0x00000000000034d7        0x9 
+ .text.vmeta_session_thermal_alignment_read
+                0x00000000000034e0       0xe7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x00000000000034e0                vmeta_session_thermal_alignment_read
+ *fill*         0x00000000000035c7        0x9 
+ .text.vmeta_session_thermal_conversion_write
+                0x00000000000035d0      0x127 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x00000000000035d0                vmeta_session_thermal_conversion_write
+ *fill*         0x00000000000036f7        0x9 
+ .text.vmeta_session_thermal_conversion_read
+                0x0000000000003700      0x107 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x0000000000003700                vmeta_session_thermal_conversion_read
+ *fill*         0x0000000000003807        0x9 
+ .text.vmeta_session_thermal_scale_factor_write
+                0x0000000000003810       0x9b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x0000000000003810                vmeta_session_thermal_scale_factor_write
+ *fill*         0x00000000000038ab        0x5 
+ .text.vmeta_session_thermal_scale_factor_read
+                0x00000000000038b0       0xe7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x00000000000038b0                vmeta_session_thermal_scale_factor_read
+ *fill*         0x0000000000003997        0x9 
+ .text.vmeta_session_streaming_sdes_write
+                0x00000000000039a0      0x57c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x00000000000039a0                vmeta_session_streaming_sdes_write
+ *fill*         0x0000000000003f1c        0x4 
+ .text.vmeta_session_streaming_sdes_read
+                0x0000000000003f20      0x7d6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x0000000000003f20                vmeta_session_streaming_sdes_read
+ *fill*         0x00000000000046f6        0xa 
+ .text.vmeta_session_streaming_sdp_write
+                0x0000000000004700      0x57c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x0000000000004700                vmeta_session_streaming_sdp_write
+ *fill*         0x0000000000004c7c        0x4 
+ .text.vmeta_session_streaming_sdp_read
+                0x0000000000004c80      0x74d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x0000000000004c80                vmeta_session_streaming_sdp_read
+ *fill*         0x00000000000053cd        0x3 
+ .text.vmeta_session_recording_write
+                0x00000000000053d0      0x64c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x00000000000053d0                vmeta_session_recording_write
+ *fill*         0x0000000000005a1c        0x4 
+ .text.vmeta_session_recording_read
+                0x0000000000005a20      0xcb1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x0000000000005a20                vmeta_session_recording_read
+ *fill*         0x00000000000066d1        0xf 
+ .text.vmeta_session_to_json
+                0x00000000000066e0      0x5dc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x00000000000066e0                vmeta_session_to_json
+ *fill*         0x0000000000006cbc        0x4 
+ .text.vmeta_session_to_str
+                0x0000000000006cc0      0x83c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x0000000000006cc0                vmeta_session_to_str
+ *fill*         0x00000000000074fc        0x4 
+ .text.vmeta_buffer_read
+                0x0000000000007500      0x175 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ *fill*         0x0000000000007675        0xb 
+ .text.vmeta_buffer_write
+                0x0000000000007680      0x175 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ *fill*         0x00000000000077f5        0xb 
+ .text.vmeta_write_u16
+                0x0000000000007800       0xdf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ *fill*         0x00000000000078df        0x1 
+ .text.vmeta_write_i16
+                0x00000000000078e0       0xdf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ *fill*         0x00000000000079bf        0x1 
+ .text.vmeta_read_f64_i32
+                0x00000000000079c0       0xff /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ *fill*         0x0000000000007abf        0x1 
+ .text.vmeta_read_i16.constprop.5
+                0x0000000000007ac0       0xe7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ *fill*         0x0000000000007ba7        0x9 
+ .text.vmeta_flying_state_str
+                0x0000000000007bb0       0xb8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000007bb0                vmeta_flying_state_str
+ *fill*         0x0000000000007c68        0x8 
+ .text.vmeta_piloting_mode_str
+                0x0000000000007c70       0x78 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000007c70                vmeta_piloting_mode_str
+ *fill*         0x0000000000007ce8        0x8 
+ .text.vmeta_followme_anim_str
+                0x0000000000007cf0       0x68 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000007cf0                vmeta_followme_anim_str
+ *fill*         0x0000000000007d58        0x8 
+ .text.vmeta_automation_anim_str
+                0x0000000000007d60      0x128 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000007d60                vmeta_automation_anim_str
+ *fill*         0x0000000000007e88        0x8 
+ .text.vmeta_thermal_calib_state_str
+                0x0000000000007e90       0x2c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000007e90                vmeta_thermal_calib_state_str
+ *fill*         0x0000000000007ebc        0x4 
+ .text.vmeta_frame_type_str
+                0x0000000000007ec0       0x78 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000007ec0                vmeta_frame_type_str
+ *fill*         0x0000000000007f38        0x8 
+ .text.vmeta_frame_write
+                0x0000000000007f40      0x1b2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000007f40                vmeta_frame_write
+ *fill*         0x00000000000080f2        0xe 
+ .text.vmeta_frame_read
+                0x0000000000008100      0x3d1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000008100                vmeta_frame_read
+ *fill*         0x00000000000084d1        0xf 
+ .text.vmeta_frame_to_json
+                0x00000000000084e0      0x19a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x00000000000084e0                vmeta_frame_to_json
+ *fill*         0x000000000000867a        0x6 
+ .text.vmeta_frame_to_csv
+                0x0000000000008680      0x19a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000008680                vmeta_frame_to_csv
+ *fill*         0x000000000000881a        0x6 
+ .text.vmeta_frame_csv_header
+                0x0000000000008820      0x15a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000008820                vmeta_frame_csv_header
+ *fill*         0x000000000000897a        0x6 
+ .text.vmeta_frame_get_mime_type
+                0x0000000000008980       0xad /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000008980                vmeta_frame_get_mime_type
+ *fill*         0x0000000000008a2d        0x3 
+ .text.vmeta_frame_ext_timestamp_write
+                0x0000000000008a30      0x2f9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000008a30                vmeta_frame_ext_timestamp_write
+ *fill*         0x0000000000008d29        0x7 
+ .text.vmeta_frame_ext_timestamp_read
+                0x0000000000008d30      0x389 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000008d30                vmeta_frame_ext_timestamp_read
+ *fill*         0x00000000000090b9        0x7 
+ .text.vmeta_frame_ext_followme_write
+                0x00000000000090c0      0x479 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x00000000000090c0                vmeta_frame_ext_followme_write
+ *fill*         0x0000000000009539        0x7 
+ .text.vmeta_frame_ext_followme_read
+                0x0000000000009540      0x52b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000009540                vmeta_frame_ext_followme_read
+ *fill*         0x0000000000009a6b        0x5 
+ .text.vmeta_frame_ext_automation_write
+                0x0000000000009a70      0x4a9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000009a70                vmeta_frame_ext_automation_write
+ *fill*         0x0000000000009f19        0x7 
+ .text.vmeta_frame_ext_automation_read
+                0x0000000000009f20      0x538 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x0000000000009f20                vmeta_frame_ext_automation_read
+ *fill*         0x000000000000a458        0x8 
+ .text.vmeta_frame_ext_thermal_write
+                0x000000000000a460      0x4b8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x000000000000a460                vmeta_frame_ext_thermal_write
+ *fill*         0x000000000000a918        0x8 
+ .text.vmeta_frame_ext_thermal_read
+                0x000000000000a920      0x5ff /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                0x000000000000a920                vmeta_frame_ext_thermal_read
+ *fill*         0x000000000000af1f        0x1 
+ .text.vmeta_json_add_location
+                0x000000000000af20       0xb9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+                0x000000000000af20                vmeta_json_add_location
+ *fill*         0x000000000000afd9        0x7 
+ .text.vmeta_json_add_quaternion
+                0x000000000000afe0       0xb6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+                0x000000000000afe0                vmeta_json_add_quaternion
+ *fill*         0x000000000000b096        0xa 
+ .text.vmeta_json_add_euler
+                0x000000000000b0a0       0x96 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+                0x000000000000b0a0                vmeta_json_add_euler
+ *fill*         0x000000000000b136        0xa 
+ .text.vmeta_json_add_xyz
+                0x000000000000b140       0x96 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+                0x000000000000b140                vmeta_json_add_xyz
+ *fill*         0x000000000000b1d6        0xa 
+ .text.vmeta_json_add_ned
+                0x000000000000b1e0       0x96 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+                0x000000000000b1e0                vmeta_json_add_ned
+ *fill*         0x000000000000b276        0xa 
+ .text.vmeta_json_add_fov
+                0x000000000000b280       0xa1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+                0x000000000000b280                vmeta_json_add_fov
+ *fill*         0x000000000000b321        0xf 
+ .text.vmeta_json_add_thermal_conversion
+                0x000000000000b330      0x145 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+                0x000000000000b330                vmeta_json_add_thermal_conversion
+ *fill*         0x000000000000b475        0xb 
+ .text.vmeta_json_add_thermal_spot
+                0x000000000000b480       0xa5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+                0x000000000000b480                vmeta_json_add_thermal_spot
+ *fill*         0x000000000000b525        0xb 
+ .text.vmeta_csv_add_location
+                0x000000000000b530       0x6f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+                0x000000000000b530                vmeta_csv_add_location
+ *fill*         0x000000000000b59f        0x1 
+ .text.vmeta_csv_add_quaternion
+                0x000000000000b5a0       0x4b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+                0x000000000000b5a0                vmeta_csv_add_quaternion
+ *fill*         0x000000000000b5eb        0x5 
+ .text.vmeta_csv_add_euler
+                0x000000000000b5f0       0x42 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+                0x000000000000b5f0                vmeta_csv_add_euler
+ *fill*         0x000000000000b632        0xe 
+ .text.vmeta_csv_add_xyz
+                0x000000000000b640       0x42 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+                0x000000000000b640                vmeta_csv_add_xyz
+ *fill*         0x000000000000b682        0xe 
+ .text.vmeta_csv_add_ned
+                0x000000000000b690       0x42 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+                0x000000000000b690                vmeta_csv_add_ned
+ *fill*         0x000000000000b6d2        0xe 
+ .text.vmeta_csv_add_thermal_spot
+                0x000000000000b6e0       0x64 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+                0x000000000000b6e0                vmeta_csv_add_thermal_spot
+ *fill*         0x000000000000b744        0xc 
+ .text.vmeta_buffer_write
+                0x000000000000b750      0x175 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ *fill*         0x000000000000b8c5        0xb 
+ .text.vmeta_buffer_read
+                0x000000000000b8d0      0x175 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ *fill*         0x000000000000ba45        0xb 
+ .text.vmeta_write_i16
+                0x000000000000ba50       0xdf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ *fill*         0x000000000000bb2f        0x1 
+ .text.vmeta_read_u16
+                0x000000000000bb30       0xe7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ *fill*         0x000000000000bc17        0x9 
+ .text.vmeta_read_i16.constprop.5
+                0x000000000000bc20       0xe7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ *fill*         0x000000000000bd07        0x9 
+ .text.vmeta_frame_v1_streaming_basic_write
+                0x000000000000bd10      0x4e5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                0x000000000000bd10                vmeta_frame_v1_streaming_basic_write
+ *fill*         0x000000000000c1f5        0xb 
+ .text.vmeta_frame_v1_streaming_basic_read
+                0x000000000000c200      0x64a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                0x000000000000c200                vmeta_frame_v1_streaming_basic_read
+ *fill*         0x000000000000c84a        0x6 
+ .text.vmeta_frame_v1_streaming_basic_to_json
+                0x000000000000c850       0xeb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                0x000000000000c850                vmeta_frame_v1_streaming_basic_to_json
+ *fill*         0x000000000000c93b        0x5 
+ .text.vmeta_frame_v1_streaming_basic_to_csv
+                0x000000000000c940      0x1f3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                0x000000000000c940                vmeta_frame_v1_streaming_basic_to_csv
+ *fill*         0x000000000000cb33        0xd 
+ .text.vmeta_frame_v1_streaming_extended_write
+                0x000000000000cb40      0x765 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                0x000000000000cb40                vmeta_frame_v1_streaming_extended_write
+ *fill*         0x000000000000d2a5        0xb 
+ .text.vmeta_frame_v1_streaming_extended_read
+                0x000000000000d2b0      0x8d8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                0x000000000000d2b0                vmeta_frame_v1_streaming_extended_read
+ *fill*         0x000000000000db88        0x8 
+ .text.vmeta_frame_v1_streaming_extended_to_json
+                0x000000000000db90      0x1cc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                0x000000000000db90                vmeta_frame_v1_streaming_extended_to_json
+ *fill*         0x000000000000dd5c        0x4 
+ .text.vmeta_frame_v1_streaming_extended_to_csv
+                0x000000000000dd60      0x1ba /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                0x000000000000dd60                vmeta_frame_v1_streaming_extended_to_csv
+ *fill*         0x000000000000df1a        0x6 
+ .text.vmeta_frame_v1_streaming_extended_csv_header
+                0x000000000000df20       0x1c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                0x000000000000df20                vmeta_frame_v1_streaming_extended_csv_header
+ *fill*         0x000000000000df3c        0x4 
+ .text.vmeta_frame_v1_streaming_basic_csv_header
+                0x000000000000df40        0x5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                0x000000000000df40                vmeta_frame_v1_streaming_basic_csv_header
+ *fill*         0x000000000000df45        0xb 
+ .text.vmeta_frame_v1_recording_write
+                0x000000000000df50      0x71f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                0x000000000000df50                vmeta_frame_v1_recording_write
+ *fill*         0x000000000000e66f        0x1 
+ .text.vmeta_frame_v1_recording_read
+                0x000000000000e670      0x6be /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                0x000000000000e670                vmeta_frame_v1_recording_read
+ *fill*         0x000000000000ed2e        0x2 
+ .text.vmeta_frame_v1_recording_to_json
+                0x000000000000ed30      0x1ea /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                0x000000000000ed30                vmeta_frame_v1_recording_to_json
+ *fill*         0x000000000000ef1a        0x6 
+ .text.vmeta_frame_v1_recording_to_csv
+                0x000000000000ef20      0x1c6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                0x000000000000ef20                vmeta_frame_v1_recording_to_csv
+ *fill*         0x000000000000f0e6        0xa 
+ .text.vmeta_frame_v1_recording_csv_header
+                0x000000000000f0f0       0x1c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                0x000000000000f0f0                vmeta_frame_v1_recording_csv_header
+ *fill*         0x000000000000f10c        0x4 
+ .text.vmeta_buffer_write
+                0x000000000000f110       0xf7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ *fill*         0x000000000000f207        0x9 
+ .text.vmeta_buffer_read
+                0x000000000000f210       0xf7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ *fill*         0x000000000000f307        0x9 
+ .text.vmeta_write_i16
+                0x000000000000f310       0xdf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ *fill*         0x000000000000f3ef        0x1 
+ .text.vmeta_read_u16
+                0x000000000000f3f0       0xe7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ *fill*         0x000000000000f4d7        0x9 
+ .text.vmeta_read_i16.constprop.3
+                0x000000000000f4e0       0xe7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ *fill*         0x000000000000f5c7        0x9 
+ .text.vmeta_frame_v2_write
+                0x000000000000f5d0      0x744 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+                0x000000000000f5d0                vmeta_frame_v2_write
+ *fill*         0x000000000000fd14        0xc 
+ .text.vmeta_frame_v2_read
+                0x000000000000fd20      0xaed /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+                0x000000000000fd20                vmeta_frame_v2_read
+ *fill*         0x000000000001080d        0x3 
+ .text.vmeta_frame_v2_to_json
+                0x0000000000010810      0x2c7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+                0x0000000000010810                vmeta_frame_v2_to_json
+ *fill*         0x0000000000010ad7        0x9 
+ .text.vmeta_frame_v2_to_csv
+                0x0000000000010ae0      0x36f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+                0x0000000000010ae0                vmeta_frame_v2_to_csv
+ *fill*         0x0000000000010e4f        0x1 
+ .text.vmeta_frame_v2_csv_header
+                0x0000000000010e50       0x1c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+                0x0000000000010e50                vmeta_frame_v2_csv_header
+ *fill*         0x0000000000010e6c        0x4 
+ .text.vmeta_buffer_write
+                0x0000000000010e70       0xf7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ *fill*         0x0000000000010f67        0x9 
+ .text.vmeta_buffer_read
+                0x0000000000010f70       0xf7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ *fill*         0x0000000000011067        0x9 
+ .text.vmeta_write_i16
+                0x0000000000011070       0xdf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ *fill*         0x000000000001114f        0x1 
+ .text.vmeta_read_u16
+                0x0000000000011150       0xe7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ *fill*         0x0000000000011237        0x9 
+ .text.vmeta_read_i16.constprop.3
+                0x0000000000011240       0xe7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ *fill*         0x0000000000011327        0x9 
+ .text.vmeta_frame_v3_write
+                0x0000000000011330      0x86a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+                0x0000000000011330                vmeta_frame_v3_write
+ *fill*         0x0000000000011b9a        0x6 
+ .text.vmeta_frame_v3_read
+                0x0000000000011ba0      0xce4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+                0x0000000000011ba0                vmeta_frame_v3_read
+ *fill*         0x0000000000012884        0xc 
+ .text.vmeta_frame_v3_to_json
+                0x0000000000012890      0x402 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+                0x0000000000012890                vmeta_frame_v3_to_json
+ *fill*         0x0000000000012c92        0xe 
+ .text.vmeta_frame_v3_to_csv
+                0x0000000000012ca0      0x5b8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+                0x0000000000012ca0                vmeta_frame_v3_to_csv
+ *fill*         0x0000000000013258        0x8 
+ .text.vmeta_frame_v3_csv_header
+                0x0000000000013260       0x1c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+                0x0000000000013260                vmeta_frame_v3_csv_header
+ *fill*         0x000000000001327c        0x4 
+ .text.vmeta_euler_to_quat
+                0x0000000000013280      0x1e2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000013280                vmeta_euler_to_quat
+ *fill*         0x0000000000013462        0xe 
+ .text.vmeta_quat_to_euler
+                0x0000000000013470      0x152 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000013470                vmeta_quat_to_euler
+ *fill*         0x00000000000135c2        0xe 
+ .text.vmeta_frame_get_location
+                0x00000000000135d0      0x198 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x00000000000135d0                vmeta_frame_get_location
+ *fill*         0x0000000000013768        0x8 
+ .text.vmeta_frame_get_speed_ned
+                0x0000000000013770      0x1c8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000013770                vmeta_frame_get_speed_ned
+ *fill*         0x0000000000013938        0x8 
+ .text.vmeta_frame_get_air_speed
+                0x0000000000013940      0x175 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000013940                vmeta_frame_get_air_speed
+ *fill*         0x0000000000013ab5        0xb 
+ .text.vmeta_frame_get_ground_distance
+                0x0000000000013ac0      0x198 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000013ac0                vmeta_frame_get_ground_distance
+ *fill*         0x0000000000013c58        0x8 
+ .text.vmeta_frame_get_drone_euler
+                0x0000000000013c60      0x1b8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000013c60                vmeta_frame_get_drone_euler
+ *fill*         0x0000000000013e18        0x8 
+ .text.vmeta_frame_get_drone_quat
+                0x0000000000013e20      0x1a8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000013e20                vmeta_frame_get_drone_quat
+ *fill*         0x0000000000013fc8        0x8 
+ .text.vmeta_frame_get_frame_euler
+                0x0000000000013fd0      0x1d8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000013fd0                vmeta_frame_get_frame_euler
+ *fill*         0x00000000000141a8        0x8 
+ .text.vmeta_frame_get_frame_quat
+                0x00000000000141b0      0x1d8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x00000000000141b0                vmeta_frame_get_frame_quat
+ *fill*         0x0000000000014388        0x8 
+ .text.vmeta_frame_get_frame_base_euler
+                0x0000000000014390      0x17f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000014390                vmeta_frame_get_frame_base_euler
+ *fill*         0x000000000001450f        0x1 
+ .text.vmeta_frame_get_frame_base_quat
+                0x0000000000014510      0x16f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000014510                vmeta_frame_get_frame_base_quat
+ *fill*         0x000000000001467f        0x1 
+ .text.vmeta_frame_get_frame_timestamp
+                0x0000000000014680      0x1cf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000014680                vmeta_frame_get_frame_timestamp
+ *fill*         0x000000000001484f        0x1 
+ .text.vmeta_frame_get_camera_pan
+                0x0000000000014850      0x1d8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000014850                vmeta_frame_get_camera_pan
+ *fill*         0x0000000000014a28        0x8 
+ .text.vmeta_frame_get_camera_tilt
+                0x0000000000014a30      0x1d8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000014a30                vmeta_frame_get_camera_tilt
+ *fill*         0x0000000000014c08        0x8 
+ .text.vmeta_frame_get_exposure_time
+                0x0000000000014c10      0x1e8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000014c10                vmeta_frame_get_exposure_time
+ *fill*         0x0000000000014df8        0x8 
+ .text.vmeta_frame_get_gain
+                0x0000000000014e00      0x1e8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000014e00                vmeta_frame_get_gain
+ *fill*         0x0000000000014fe8        0x8 
+ .text.vmeta_frame_get_awb_r_gain
+                0x0000000000014ff0      0x16f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000014ff0                vmeta_frame_get_awb_r_gain
+ *fill*         0x000000000001515f        0x1 
+ .text.vmeta_frame_get_awb_b_gain
+                0x0000000000015160      0x16f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000015160                vmeta_frame_get_awb_b_gain
+ *fill*         0x00000000000152cf        0x1 
+ .text.vmeta_frame_get_picture_h_fov
+                0x00000000000152d0      0x16f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x00000000000152d0                vmeta_frame_get_picture_h_fov
+ *fill*         0x000000000001543f        0x1 
+ .text.vmeta_frame_get_picture_v_fov
+                0x0000000000015440      0x16f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000015440                vmeta_frame_get_picture_v_fov
+ *fill*         0x00000000000155af        0x1 
+ .text.vmeta_frame_get_link_goodput
+                0x00000000000155b0      0x16f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x00000000000155b0                vmeta_frame_get_link_goodput
+ *fill*         0x000000000001571f        0x1 
+ .text.vmeta_frame_get_link_quality
+                0x0000000000015720      0x16f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000015720                vmeta_frame_get_link_quality
+ *fill*         0x000000000001588f        0x1 
+ .text.vmeta_frame_get_wifi_rssi
+                0x0000000000015890      0x1e8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000015890                vmeta_frame_get_wifi_rssi
+ *fill*         0x0000000000015a78        0x8 
+ .text.vmeta_frame_get_battery_pencentage
+                0x0000000000015a80      0x1e8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000015a80                vmeta_frame_get_battery_pencentage
+ *fill*         0x0000000000015c68        0x8 
+ .text.vmeta_frame_get_flying_state
+                0x0000000000015c70      0x1c8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000015c70                vmeta_frame_get_flying_state
+ *fill*         0x0000000000015e38        0x8 
+ .text.vmeta_frame_get_piloting_mode
+                0x0000000000015e40      0x1c8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x0000000000015e40                vmeta_frame_get_piloting_mode
+ *(.gnu.warning)
+
+.fini           0x0000000000016008        0x9
+ *(SORT_NONE(.fini))
+ .fini          0x0000000000016008        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000016008                _fini
+ .fini          0x000000000001600c        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+
+.rodata         0x0000000000016020     0x28a4
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000016020      0x6c7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                                        0x741 (size before relaxing)
+ *fill*         0x00000000000166e7        0x1 
+ .rodata.str1.8
+                0x00000000000166e8      0x188 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+ *fill*         0x0000000000016870       0x10 
+ .rodata        0x0000000000016880      0x3e9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+ *fill*         0x0000000000016c69        0x7 
+ .rodata.cst8   0x0000000000016c70       0x10 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+ .rodata.str1.1
+                0x0000000000016c80      0x1a2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                                        0x1c5 (size before relaxing)
+ *fill*         0x0000000000016e22       0x1e 
+ .rodata        0x0000000000016e40      0x312 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ *fill*         0x0000000000017152        0x6 
+ .rodata.str1.8
+                0x0000000000017158      0x1a6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ *fill*         0x00000000000172fe        0x2 
+ .rodata.cst8   0x0000000000017300       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                                         0x28 (size before relaxing)
+ .rodata.cst4   0x0000000000017320        0x8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ .rodata.str1.1
+                0x0000000000017328       0x73 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+                                         0x81 (size before relaxing)
+ .rodata.str1.1
+                0x000000000001739b       0x5c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+ .rodata.str1.1
+                0x00000000000173f7       0xcc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                                        0x107 (size before relaxing)
+ *fill*         0x00000000000174c3        0x5 
+ .rodata.str1.8
+                0x00000000000174c8      0x320 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ *fill*         0x00000000000177e8       0x18 
+ .rodata        0x0000000000017800      0x165 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ *fill*         0x0000000000017965        0x3 
+ .rodata.cst4   0x0000000000017968       0x10 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ .rodata.cst8   0x0000000000017978       0x18 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                                         0x28 (size before relaxing)
+ .rodata.str1.1
+                0x0000000000017990       0x47 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+                                        0x12a (size before relaxing)
+ *fill*         0x00000000000179d7        0x1 
+ .rodata.str1.8
+                0x00000000000179d8      0x2db /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ *fill*         0x0000000000017cb3        0xd 
+ .rodata        0x0000000000017cc0       0x75 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ .rodata.cst8   0x0000000000017d35       0x38 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ *fill*         0x0000000000017d35        0x3 
+ .rodata.cst4   0x0000000000017d38        0x8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+                                         0x18 (size before relaxing)
+ .rodata.str1.1
+                0x0000000000017d40       0xd0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+                                        0x1de (size before relaxing)
+ .rodata.str1.8
+                0x0000000000017e10      0x538 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ *fill*         0x0000000000018348        0x8 
+ .rodata        0x0000000000018350       0x75 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ .rodata.cst8   0x00000000000183c5       0x38 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ .rodata.cst4   0x00000000000183c5       0x10 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ .rodata.str1.1
+                0x00000000000183c5        0x6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                                         0x33 (size before relaxing)
+ *fill*         0x00000000000183cb       0x15 
+ .rodata        0x00000000000183e0      0x4d9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+ *fill*         0x00000000000188b9        0x3 
+ .rodata.cst4   0x00000000000188bc        0x8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x00000000000188c4      0x434
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x00000000000188c4      0x434 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                0x00000000000188c4                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x0000000000018cf8     0x288c
+ *(.eh_frame)
+ .eh_frame      0x0000000000018cf8       0x40 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000018d38       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000018d50      0x5f0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                                        0x608 (size before relaxing)
+ .eh_frame      0x0000000000019340      0x890 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                                        0x8a8 (size before relaxing)
+ .eh_frame      0x0000000000019bd0      0x1d0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+                                        0x1e8 (size before relaxing)
+ .eh_frame      0x0000000000019da0       0xa8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+                                         0xc0 (size before relaxing)
+ .eh_frame      0x0000000000019e48      0x600 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                                        0x618 (size before relaxing)
+ .eh_frame      0x000000000001a448      0x2f0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+                                        0x308 (size before relaxing)
+ .eh_frame      0x000000000001a738      0x308 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+                                        0x320 (size before relaxing)
+ .eh_frame      0x000000000001aa40      0xb40 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                                        0xb58 (size before relaxing)
+ .eh_frame      0x000000000001b580        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000000000021bdc0                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x000000000021bdc0        0x8
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x000000000021bdc0        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.fini_array     0x000000000021bdc8        0x8
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x000000000021bdc8        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x000000000021bdd0        0x0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x000000000021bdd0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynamic        0x000000000021bdd0      0x210
+ *(.dynamic)
+ .dynamic       0x000000000021bdd0      0x210 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x000000000021bdd0                _DYNAMIC
+
+.got            0x000000000021bfe0       0x20
+ *(.got)
+ .got           0x000000000021bfe0       0x20 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x000000000021cfe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x000000000021c000      0x268
+ *(.got.plt)
+ .got.plt       0x000000000021c000      0x268 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x000000000021c000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000000000021c280       0x40
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local
+                0x000000000021c280        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                0x000000000021c280                __dso_handle
+ *fill*         0x000000000021c288       0x18 
+ .data.rel.local
+                0x000000000021c2a0       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                0x000000000021c2a0                __ulog_cookie_vmeta
+
+.tm_clone_table
+                0x000000000021c2c0        0x0
+ .tm_clone_table
+                0x000000000021c2c0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .tm_clone_table
+                0x000000000021c2c0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000021c2c0                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x000000000021c2c0                . = .
+                0x000000000021c2c0                __bss_start = .
+
+.bss            0x000000000021c2c0        0x8
+ *(.dynbss)
+ .dynbss        0x000000000021c2c0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000021c2c0        0x1 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *(COMMON)
+                0x000000000021c2c8                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x000000000021c2c1        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000021c2c8                . = ALIGN (0x8)
+                0x000000000021c2c8                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000061c2c8        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000061c2c8                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000061c2c8                . = ALIGN (0x8)
+                0x000000000061c2c8                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x000000000061c2c8                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x29
+ *(.comment)
+ .comment       0x0000000000000000       0x29 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                                         0x2a (size before relaxing)
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+ .comment       0x0000000000000029       0x2a /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x930
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x160 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+ .debug_aranges
+                0x0000000000000160      0x1d0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ .debug_aranges
+                0x0000000000000330       0xa0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+ .debug_aranges
+                0x00000000000003d0       0x80 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+ .debug_aranges
+                0x0000000000000450      0x180 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ .debug_aranges
+                0x00000000000005d0       0xc0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ .debug_aranges
+                0x0000000000000690       0xd0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ .debug_aranges
+                0x0000000000000760      0x1d0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x2c370
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x8145 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+ .debug_info    0x0000000000008145     0x8b60 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ .debug_info    0x0000000000010ca5     0x186d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+ .debug_info    0x0000000000012512      0xbe8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+ .debug_info    0x00000000000130fa     0x9b39 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ .debug_info    0x000000000001cc33     0x4f7f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ .debug_info    0x0000000000021bb2     0x6054 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ .debug_info    0x0000000000027c06     0x476a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+
+.debug_abbrev   0x0000000000000000     0x2109
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x56e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+ .debug_abbrev  0x000000000000056e      0x52d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ .debug_abbrev  0x0000000000000a9b      0x206 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+ .debug_abbrev  0x0000000000000ca1      0x209 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+ .debug_abbrev  0x0000000000000eaa      0x4d3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ .debug_abbrev  0x000000000000137d      0x4af /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ .debug_abbrev  0x000000000000182c      0x4e0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ .debug_abbrev  0x0000000000001d0c      0x3fd /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+
+.debug_line     0x0000000000000000     0x85f9
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000     0x16da /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+ .debug_line    0x00000000000016da     0x1973 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ .debug_line    0x000000000000304d      0x43e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+ .debug_line    0x000000000000348b      0x300 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+ .debug_line    0x000000000000378b     0x1c50 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ .debug_line    0x00000000000053db      0xe09 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ .debug_line    0x00000000000061e4     0x10d2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ .debug_line    0x00000000000072b6     0x1343 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x2501
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0xf56 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+                                       0x1086 (size before relaxing)
+ .debug_str     0x0000000000000f56      0xf76 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+                                       0x169c (size before relaxing)
+ .debug_str     0x0000000000001ecc       0x98 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+                                        0x715 (size before relaxing)
+ .debug_str     0x0000000000001f64       0xb5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+                                        0x61e (size before relaxing)
+ .debug_str     0x0000000000002019       0xc3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+                                        0xf27 (size before relaxing)
+ .debug_str     0x00000000000020dc       0x45 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+                                        0xeb5 (size before relaxing)
+ .debug_str     0x0000000000002121       0x90 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+                                       0x126d (size before relaxing)
+ .debug_str     0x00000000000021b1      0x350 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+                                       0x1280 (size before relaxing)
+
+.debug_loc      0x0000000000000000    0x434d8
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0xa7dd /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+ .debug_loc     0x000000000000a7dd     0xf89a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ .debug_loc     0x000000000001a077     0x177c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+ .debug_loc     0x000000000001b7f3      0x9ae /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+ .debug_loc     0x000000000001c1a1    0x1030f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ .debug_loc     0x000000000002c4b0     0x7768 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ .debug_loc     0x0000000000033c18     0x8c21 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ .debug_loc     0x000000000003c839     0x6c9f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000    0x10f50
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0x1610 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_session.c.o
+ .debug_ranges  0x0000000000001610     0x49c0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame.c.o
+ .debug_ranges  0x0000000000005fd0       0x90 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_json.c.o
+ .debug_ranges  0x0000000000006060      0x1c0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_csv.c.o
+ .debug_ranges  0x0000000000006220     0x53e0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v1.c.o
+ .debug_ranges  0x000000000000b600     0x1df0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v2.c.o
+ .debug_ranges  0x000000000000d3f0     0x2140 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_frame_v3.c.o
+ .debug_ranges  0x000000000000f530     0x1a20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libvideo-metadata/obj/src/vmeta_utils.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(out/olympe-linux/build/libvideo-metadata/libvideo-metadata.so elf64-x86-64)

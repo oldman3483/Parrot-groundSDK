@@ -1,0 +1,962 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libpomp.so                    /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o (pomp_conn_get_peer_addr)
+libfutils.so                  /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o (futils_hash_destroy)
+libulog.so                    /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o (ulog_log_write)
+librt.so.1                    /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o (clock_gettime@@GLIBC_2.2.5)
+libpthread.so.0               /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o (write@@GLIBC_2.2.5)
+libc.so.6                     /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o (strncmp@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_log.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_log.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_log.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_log.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+ .text          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+ .data          0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+ .bss           0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_log.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libpomp.so
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libfutils.so
+LOAD /home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/libulog.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libm.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libm.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libmvec_nonshared.a
+LOAD /lib/x86_64-linux-gnu/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0       0xf0
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0       0xf0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x00000000000002e0      0xb70
+ *(.dynsym)
+ .dynsym        0x00000000000002e0      0xb70 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000000e50      0x89c
+ *(.dynstr)
+ .dynstr        0x0000000000000e50      0x89c /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x00000000000016ec       0xf4
+ *(.gnu.version)
+ .gnu.version   0x00000000000016ec       0xf4 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x00000000000017e0        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000000017e0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x00000000000017e0       0xa0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000000017e0       0xa0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000001880       0xc0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.do_fd_read
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.check_magic.part.1
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.do_fd_write_buf.isra.2
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_destroy
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.do_tx
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_loop_release.part.13
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_ref
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_unref
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_stop
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_resolve
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_decode
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.fd_cb
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_encode
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_send_ctrl_msg
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_reset
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_new
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_send_handshake
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_notify_buf
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_ip_proxy_destroy
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_ip_proxy_set_udp_remote
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_ip_proxy_new
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_channel_send_msg_ip_connected
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.slave_raw_cb
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_channel_disconnect_ip_slave
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.slave_disconnect_idle_cb
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.ftp_data_proxy_open
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.ip_slave_queue_timer_cb
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.slave_event_cb
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.slave_send_cb
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_channel_send_msg_ip_connect
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_channel_ipmaster_event
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_channel_ipmaster_raw
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_channel_stop
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_channel_open_internal
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_channel_close_internal
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_channel_put_buf
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_send_proxy_ip_resolve_ack
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_channel_recv_ctrl_msg
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.open_channel
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.get_chann
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.ip_proxy_raw_cb
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.ip_proxy_event_cb
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_ip_proxy_open
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_ip_proxy_channel_connected
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_ip_proxy_resolution
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_ip_init_pending_resolve_req
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.text.mux_ip_proxy_open_timeout_cb
+                0x0000000000001880        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.local
+                0x0000000000001880       0x30 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x00000000000018b0       0x60 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000001910        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000001910       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000001928       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000001940      0x930
+ *(.rela.plt)
+ .rela.plt      0x0000000000001940      0x930 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000002270       0x17
+ *(SORT_NONE(.init))
+ .init          0x0000000000002270       0x12 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x0000000000002270                _init
+ .init          0x0000000000002282        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000002290      0x630
+ *(.plt)
+ .plt           0x0000000000002290      0x630 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.plt.got        0x00000000000028c0        0x8
+ *(.plt.got)
+ .plt.got       0x00000000000028c0        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x00000000000028d0     0x80da
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000000000028d0       0xda /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *fill*         0x00000000000029aa        0x6 
+ .text.reset_decode
+                0x00000000000029b0       0x82 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ *fill*         0x0000000000002a32        0xe 
+ .text.do_fd_read
+                0x0000000000002a40      0x1a0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ .text.rx_thread
+                0x0000000000002be0       0x63 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ *fill*         0x0000000000002c43        0xd 
+ .text.check_magic.part.1
+                0x0000000000002c50       0x75 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ *fill*         0x0000000000002cc5        0xb 
+ .text.do_fd_write_buf.isra.2
+                0x0000000000002cd0      0x162 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ *fill*         0x0000000000002e32        0xe 
+ .text.do_fd_write
+                0x0000000000002e40       0xe3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ *fill*         0x0000000000002f23        0xd 
+ .text.tx_thread
+                0x0000000000002f30       0x9d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ *fill*         0x0000000000002fcd        0x3 
+ .text.do_fdeof.part.6
+                0x0000000000002fd0       0x41 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ *fill*         0x0000000000003011        0xf 
+ .text.mux_destroy
+                0x0000000000003020      0x2a0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ .text.do_tx    0x00000000000032c0      0x123 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ *fill*         0x00000000000033e3        0xd 
+ .text.mux_loop_acquire.part.12
+                0x00000000000033f0       0xdb /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ *fill*         0x00000000000034cb        0x5 
+ .text.mux_loop_release.part.13
+                0x00000000000034d0       0xaf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ *fill*         0x000000000000357f        0x1 
+ .text.copy.constprop.16
+                0x0000000000003580       0x43 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ *fill*         0x00000000000035c3        0xd 
+ .text.mux_ref  0x00000000000035d0       0x75 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x00000000000035d0                mux_ref
+ *fill*         0x0000000000003645        0xb 
+ .text.mux_unref
+                0x0000000000003650       0x8f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000003650                mux_unref
+ *fill*         0x00000000000036df        0x1 
+ .text.mux_get_loop
+                0x00000000000036e0       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x00000000000036e0                mux_get_loop
+ *fill*         0x00000000000036f3        0xd 
+ .text.mux_get_remote_version
+                0x0000000000003700        0xf /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000003700                mux_get_remote_version
+ *fill*         0x000000000000370f        0x1 
+ .text.mux_stop
+                0x0000000000003710      0x1dc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000003710                mux_stop
+ *fill*         0x00000000000038ec        0x4 
+ .text.mux_run  0x00000000000038f0       0xa0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x00000000000038f0                mux_run
+ .text.mux_get_host_address
+                0x0000000000003990       0x78 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000003990                mux_get_host_address
+ *fill*         0x0000000000003a08        0x8 
+ .text.mux_add_pending_resolve
+                0x0000000000003a10      0x126 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000003a10                mux_add_pending_resolve
+ *fill*         0x0000000000003b36        0xa 
+ .text.mux_resolve
+                0x0000000000003b40      0x186 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000003b40                mux_resolve
+ *fill*         0x0000000000003cc6        0xa 
+ .text.mux_find_channel
+                0x0000000000003cd0       0x54 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000003cd0                mux_find_channel
+ *fill*         0x0000000000003d24        0xc 
+ .text.mux_decode
+                0x0000000000003d30      0x8ce /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000003d30                mux_decode
+ *fill*         0x00000000000045fe        0x2 
+ .text.rx_evt_cb
+                0x0000000000004600       0xa7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ *fill*         0x00000000000046a7        0x9 
+ .text.fd_cb    0x00000000000046b0       0xd1 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ *fill*         0x0000000000004781        0xf 
+ .text.mux_encode
+                0x0000000000004790      0x190 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000004790                mux_encode
+ .text.mux_add_channel
+                0x0000000000004920       0xb4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000004920                mux_add_channel
+ *fill*         0x00000000000049d4        0xc 
+ .text.mux_remove_channel
+                0x00000000000049e0       0xc7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x00000000000049e0                mux_remove_channel
+ *fill*         0x0000000000004aa7        0x9 
+ .text.mux_remove_channels
+                0x0000000000004ab0       0x55 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000004ab0                mux_remove_channels
+ *fill*         0x0000000000004b05        0xb 
+ .text.mux_loop_acquire
+                0x0000000000004b10       0x1b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000004b10                mux_loop_acquire
+ *fill*         0x0000000000004b2b        0x5 
+ .text.mux_loop_release
+                0x0000000000004b30       0x1b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000004b30                mux_loop_release
+ *fill*         0x0000000000004b4b        0x5 
+ .text.mux_send_ctrl_msg_with_payload
+                0x0000000000004b50      0x157 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000004b50                mux_send_ctrl_msg_with_payload
+ *fill*         0x0000000000004ca7        0x9 
+ .text.mux_send_ctrl_msg
+                0x0000000000004cb0        0x9 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000004cb0                mux_send_ctrl_msg
+ *fill*         0x0000000000004cb9        0x7 
+ .text.mux_reset
+                0x0000000000004cc0      0x119 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000004cc0                mux_reset
+ *fill*         0x0000000000004dd9        0x7 
+ .text.mux_new  0x0000000000004de0      0x51d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000004de0                mux_new
+ *fill*         0x00000000000052fd        0x3 
+ .text.mux_send_handshake
+                0x0000000000005300       0x67 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000005300                mux_send_handshake
+ *fill*         0x0000000000005367        0x9 
+ .text.mux_notify_buf
+                0x0000000000005370       0x8c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000005370                mux_notify_buf
+ *fill*         0x00000000000053fc        0x4 
+ .text.mux_ip_proxy_destroy
+                0x0000000000005400      0x138 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000005400                mux_ip_proxy_destroy
+ *fill*         0x0000000000005538        0x8 
+ .text.mux_ip_proxy_from_id
+                0x0000000000005540       0x3a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000005540                mux_ip_proxy_from_id
+ *fill*         0x000000000000557a        0x6 
+ .text.mux_ip_proxy_get_local_info
+                0x0000000000005580       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000005580                mux_ip_proxy_get_local_info
+ *fill*         0x00000000000055aa        0x6 
+ .text.mux_ip_proxy_get_peerport
+                0x00000000000055b0       0x10 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x00000000000055b0                mux_ip_proxy_get_peerport
+ .text.mux_ip_proxy_set_udp_remote
+                0x00000000000055c0      0x219 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x00000000000055c0                mux_ip_proxy_set_udp_remote
+ *fill*         0x00000000000057d9        0x7 
+ .text.mux_ip_proxy_set_udp_redirect_port
+                0x00000000000057e0      0x12b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x00000000000057e0                mux_ip_proxy_set_udp_redirect_port
+ *fill*         0x000000000000590b        0x5 
+ .text.mux_ip_proxy_new
+                0x0000000000005910      0x29b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000005910                mux_ip_proxy_new
+ *fill*         0x0000000000005bab        0x5 
+ .text.mux_set_remote_version
+                0x0000000000005bb0       0x14 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x0000000000005bb0                mux_set_remote_version
+ *fill*         0x0000000000005bc4        0xc 
+ .text.ftp_data_proxy_close
+                0x0000000000005bd0        0x2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ *fill*         0x0000000000005bd2        0xe 
+ .text.slave_ip_socket_cb
+                0x0000000000005be0        0x4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ *fill*         0x0000000000005be4        0xc 
+ .text.mux_channel_send_msg_ip_connected
+                0x0000000000005bf0       0xd2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ *fill*         0x0000000000005cc2        0xe 
+ .text.slave_raw_cb
+                0x0000000000005cd0       0x85 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ *fill*         0x0000000000005d55        0xb 
+ .text.mux_channel_destroy
+                0x0000000000005d60       0x54 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ *fill*         0x0000000000005db4        0xc 
+ .text.mux_channel_disconnect_ip_slave
+                0x0000000000005dc0      0x119 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ *fill*         0x0000000000005ed9        0x7 
+ .text.slave_disconnect_idle_cb
+                0x0000000000005ee0       0x6f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ *fill*         0x0000000000005f4f        0x1 
+ .text.ftp_data_proxy_open
+                0x0000000000005f50      0x22f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ *fill*         0x000000000000617f        0x1 
+ .text.ip_slave_queue_timer_cb
+                0x0000000000006180      0x19f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ *fill*         0x000000000000631f        0x1 
+ .text.slave_event_cb
+                0x0000000000006320      0x269 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ *fill*         0x0000000000006589        0x7 
+ .text.slave_send_cb
+                0x0000000000006590       0xd0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ .text.mux_channel_send_msg_ip_connect
+                0x0000000000006660       0xe2 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+                0x0000000000006660                mux_channel_send_msg_ip_connect
+ *fill*         0x0000000000006742        0xe 
+ .text.mux_channel_ipmaster_event
+                0x0000000000006750      0x263 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+                0x0000000000006750                mux_channel_ipmaster_event
+ *fill*         0x00000000000069b3        0xd 
+ .text.mux_channel_ipmaster_raw
+                0x00000000000069c0      0x347 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+                0x00000000000069c0                mux_channel_ipmaster_raw
+ *fill*         0x0000000000006d07        0x9 
+ .text.mux_channel_alloc_queue
+                0x0000000000006d10       0x6c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+                0x0000000000006d10                mux_channel_alloc_queue
+ *fill*         0x0000000000006d7c        0x4 
+ .text.mux_channel_stop
+                0x0000000000006d80      0x10d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+                0x0000000000006d80                mux_channel_stop
+ *fill*         0x0000000000006e8d        0x3 
+ .text.mux_channel_open_internal
+                0x0000000000006e90      0x297 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ *fill*         0x0000000000007127        0x9 
+ .text.mux_channel_open
+                0x0000000000007130       0x8c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+                0x0000000000007130                mux_channel_open
+ *fill*         0x00000000000071bc        0x4 
+ .text.mux_channel_close_internal
+                0x00000000000071c0      0x14f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ *fill*         0x000000000000730f        0x1 
+ .text.mux_channel_close
+                0x0000000000007310       0x57 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+                0x0000000000007310                mux_channel_close
+ *fill*         0x0000000000007367        0x9 
+ .text.mux_channel_open_ip
+                0x0000000000007370      0x144 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+                0x0000000000007370                mux_channel_open_ip
+ *fill*         0x00000000000074b4        0xc 
+ .text.mux_channel_put_buf
+                0x00000000000074c0      0x543 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+                0x00000000000074c0                mux_channel_put_buf
+ *fill*         0x0000000000007a03        0xd 
+ .text.mux_send_proxy_ip_resolve_ack
+                0x0000000000007a10      0x121 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+                0x0000000000007a10                mux_send_proxy_ip_resolve_ack
+ *fill*         0x0000000000007b31        0xf 
+ .text.mux_channel_recv_ctrl_msg
+                0x0000000000007b40     0x17fc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+                0x0000000000007b40                mux_channel_recv_ctrl_msg
+ *fill*         0x000000000000933c        0x4 
+ .text.mux_queue_get_buf_internal
+                0x0000000000009340      0x18c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+ *fill*         0x00000000000094cc        0x4 
+ .text.mux_queue_new
+                0x00000000000094d0       0x94 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+                0x00000000000094d0                mux_queue_new
+ *fill*         0x0000000000009564        0xc 
+ .text.mux_queue_stop
+                0x0000000000009570       0x36 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+                0x0000000000009570                mux_queue_stop
+ *fill*         0x00000000000095a6        0xa 
+ .text.mux_queue_destroy
+                0x00000000000095b0       0x8b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+                0x00000000000095b0                mux_queue_destroy
+ *fill*         0x000000000000963b        0x5 
+ .text.mux_queue_put_buf
+                0x0000000000009640      0x16a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+                0x0000000000009640                mux_queue_put_buf
+ *fill*         0x00000000000097aa        0x6 
+ .text.mux_queue_get_buf
+                0x00000000000097b0        0x7 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+                0x00000000000097b0                mux_queue_get_buf
+ *fill*         0x00000000000097b7        0x9 
+ .text.mux_queue_try_get_buf
+                0x00000000000097c0       0x87 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+                0x00000000000097c0                mux_queue_try_get_buf
+ *fill*         0x0000000000009847        0x9 
+ .text.mux_queue_timed_get_buf
+                0x0000000000009850       0x16 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+                0x0000000000009850                mux_queue_timed_get_buf
+ *fill*         0x0000000000009866        0xa 
+ .text.open_channel
+                0x0000000000009870      0x18f /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+ *fill*         0x00000000000099ff        0x1 
+ .text.get_chann
+                0x0000000000009a00       0xd6 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+ *fill*         0x0000000000009ad6        0xa 
+ .text.ip_proxy_raw_cb
+                0x0000000000009ae0      0x1d4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+ *fill*         0x0000000000009cb4        0xc 
+ .text.ip_proxy_event_cb
+                0x0000000000009cc0      0x347 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+ *fill*         0x000000000000a007        0x9 
+ .text.mux_ip_proxy_remote_update
+                0x000000000000a010       0x39 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+                0x000000000000a010                mux_ip_proxy_remote_update
+ *fill*         0x000000000000a049        0x7 
+ .text.mux_ip_proxy_close
+                0x000000000000a050       0x47 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+                0x000000000000a050                mux_ip_proxy_close
+ *fill*         0x000000000000a097        0x9 
+ .text.mux_ip_proxy_open
+                0x000000000000a0a0      0x333 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+                0x000000000000a0a0                mux_ip_proxy_open
+ *fill*         0x000000000000a3d3        0xd 
+ .text.mux_ip_proxy_channel_connected
+                0x000000000000a3e0       0x9e /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+                0x000000000000a3e0                mux_ip_proxy_channel_connected
+ *fill*         0x000000000000a47e        0x2 
+ .text.mux_ip_proxy_udp_local_send
+                0x000000000000a480       0x46 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+                0x000000000000a480                mux_ip_proxy_udp_local_send
+ *fill*         0x000000000000a4c6        0xa 
+ .text.mux_ip_proxy_get_remote_host
+                0x000000000000a4d0       0x13 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+                0x000000000000a4d0                mux_ip_proxy_get_remote_host
+ *fill*         0x000000000000a4e3        0xd 
+ .text.mux_ip_proxy_get_remote_port
+                0x000000000000a4f0        0xd /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+                0x000000000000a4f0                mux_ip_proxy_get_remote_port
+ *fill*         0x000000000000a4fd        0x3 
+ .text.mux_ip_proxy_get_remote_addr
+                0x000000000000a500        0xc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+                0x000000000000a500                mux_ip_proxy_get_remote_addr
+ *fill*         0x000000000000a50c        0x4 
+ .text.mux_ip_clear_pending_req
+                0x000000000000a510       0x7b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+                0x000000000000a510                mux_ip_clear_pending_req
+ *fill*         0x000000000000a58b        0x5 
+ .text.mux_ip_proxy_resolution
+                0x000000000000a590      0x30d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+                0x000000000000a590                mux_ip_proxy_resolution
+ *fill*         0x000000000000a89d        0x3 
+ .text.mux_ip_init_pending_resolve_req
+                0x000000000000a8a0       0xb8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+                0x000000000000a8a0                mux_ip_init_pending_resolve_req
+ *fill*         0x000000000000a958        0x8 
+ .text.mux_ip_proxy_open_timeout_cb
+                0x000000000000a960       0x4a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+ *(.gnu.warning)
+
+.fini           0x000000000000a9ac        0x9
+ *(SORT_NONE(.fini))
+ .fini          0x000000000000a9ac        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x000000000000a9ac                _fini
+ .fini          0x000000000000a9b0        0x5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+
+.rodata         0x000000000000a9c0     0x1118
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x000000000000a9c0      0x200 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                                        0x205 (size before relaxing)
+ .rodata.str1.8
+                0x000000000000abc0       0x7b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ *fill*         0x000000000000ac3b        0x1 
+ .rodata        0x000000000000ac3c       0x1c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ .rodata.str1.1
+                0x000000000000ac58      0x40c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+                                        0x44e (size before relaxing)
+ *fill*         0x000000000000b064        0x4 
+ .rodata.str1.8
+                0x000000000000b068      0x710 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ *fill*         0x000000000000b778        0x8 
+ .rodata        0x000000000000b780      0x2a5 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ .rodata.str1.1
+                0x000000000000ba25      0x40c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_log.c.o
+                                          0x4 (size before relaxing)
+ .rodata.str1.1
+                0x000000000000ba25       0x67 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+                                         0xb9 (size before relaxing)
+ *fill*         0x000000000000ba8c        0x4 
+ .rodata.str1.8
+                0x000000000000ba90       0x48 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+                                         0x70 (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x000000000000bad8      0x30c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x000000000000bad8      0x30c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                0x000000000000bad8                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x000000000000bde8     0x12b0
+ *(.eh_frame)
+ .eh_frame      0x000000000000bde8       0x40 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x000000000000be28       0x18 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x000000000000be40      0x8c0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                                        0x8d8 (size before relaxing)
+ .eh_frame      0x000000000000c700      0x588 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+                                        0x5a0 (size before relaxing)
+ .eh_frame      0x000000000000cc88      0x160 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+                                        0x178 (size before relaxing)
+ .eh_frame      0x000000000000cde8      0x2ac /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+                                        0x2c8 (size before relaxing)
+ .eh_frame      0x000000000000d094        0x4 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000000000020ddb0                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x000000000020ddb0        0x8
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x000000000020ddb0        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.fini_array     0x000000000020ddb8        0x8
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x000000000020ddb8        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x000000000020ddc0        0x0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x000000000020ddc0        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+
+.dynamic        0x000000000020ddc0      0x220
+ *(.dynamic)
+ .dynamic       0x000000000020ddc0      0x220 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x000000000020ddc0                _DYNAMIC
+
+.got            0x000000000020dfe0       0x20
+ *(.got)
+ .got           0x000000000020dfe0       0x20 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x000000000020efe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x000000000020e000      0x328
+ *(.got.plt)
+ .got.plt       0x000000000020e000      0x328 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+                0x000000000020e000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000000000020e340       0x40
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local
+                0x000000000020e340        0x8 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                0x000000000020e340                __dso_handle
+ *fill*         0x000000000020e348       0x18 
+ .data.rel.local
+                0x000000000020e360       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_log.c.o
+                0x000000000020e360                __ulog_cookie_mux
+
+.tm_clone_table
+                0x000000000020e380        0x0
+ .tm_clone_table
+                0x000000000020e380        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ .tm_clone_table
+                0x000000000020e380        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000020e380                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x000000000020e380                . = .
+                0x000000000020e380                __bss_start = .
+
+.bss            0x000000000020e380        0x8
+ *(.dynbss)
+ .dynbss        0x000000000020e380        0x0 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000020e380        0x1 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+ *(COMMON)
+                0x000000000020e388                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x000000000020e381        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000020e388                . = ALIGN (0x8)
+                0x000000000020e388                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000060e388        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000060e388                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000060e388                . = ALIGN (0x8)
+                0x000000000060e388                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x000000000060e388                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x29
+ *(.comment)
+ .comment       0x0000000000000000       0x29 /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o
+                                         0x2a (size before relaxing)
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_log.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+ .comment       0x0000000000000029       0x2a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+ .comment       0x0000000000000029       0x2a /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x680
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x300 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ .debug_aranges
+                0x0000000000000300      0x1a0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ .debug_aranges
+                0x00000000000004a0       0x20 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_log.c.o
+ .debug_aranges
+                0x00000000000004c0       0xa0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+ .debug_aranges
+                0x0000000000000560      0x120 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xf2e3
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x5e0a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ .debug_info    0x0000000000005e0a     0x5a84 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ .debug_info    0x000000000000b88e      0x4dc /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_log.c.o
+ .debug_info    0x000000000000bd6a      0xf76 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+ .debug_info    0x000000000000cce0     0x2603 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+
+.debug_abbrev   0x0000000000000000     0x12dc
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x588 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ .debug_abbrev  0x0000000000000588      0x56a /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ .debug_abbrev  0x0000000000000af2       0xfa /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_log.c.o
+ .debug_abbrev  0x0000000000000bec      0x2c4 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+ .debug_abbrev  0x0000000000000eb0      0x42c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+
+.debug_line     0x0000000000000000     0x30b6
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000     0x10ef /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ .debug_line    0x00000000000010ef     0x129d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ .debug_line    0x000000000000238c      0x160 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_log.c.o
+ .debug_line    0x00000000000024ec      0x407 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+ .debug_line    0x00000000000028f3      0x7c3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x2323
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x17a3 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+                                       0x19db (size before relaxing)
+ .debug_str     0x00000000000017a3      0x887 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+                                       0x182a (size before relaxing)
+ .debug_str     0x000000000000202a       0x25 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_log.c.o
+                                        0x48a (size before relaxing)
+ .debug_str     0x000000000000204f      0x10c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+                                        0x85b (size before relaxing)
+ .debug_str     0x000000000000215b      0x1c8 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+                                       0x1140 (size before relaxing)
+
+.debug_loc      0x0000000000000000    0x13ac6
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x7276 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ .debug_loc     0x0000000000007276     0x938d /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ .debug_loc     0x0000000000010603      0xc28 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+ .debug_loc     0x000000000001122b     0x289b /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x3e50
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0x16f0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux.c.o
+ .debug_ranges  0x00000000000016f0     0x1d10 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_channel.c.o
+ .debug_ranges  0x0000000000003400      0x160 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_queue.c.o
+ .debug_ranges  0x0000000000003560      0x8f0 /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/libmux/obj/src/mux_ip_proxy.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(out/olympe-linux/build/libmux/libmux.so elf64-x86-64)

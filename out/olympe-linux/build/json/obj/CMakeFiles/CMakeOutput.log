@@ -1,0 +1,1365 @@
+The target system is: Linux -  - x64
+The host system is: Linux - 5.4.0-42-generic - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu;-isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include;-std=gnu99;-pipe;-O2;-g;-ffunction-sections;-DALCHEMY_BUILD;;-m64;-fPIC;-msse;-msse2;-mssse3;;;;-Wno-error
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/3.10.2/CompilerIdC/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ce622/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_ce622.dir/build.make CMakeFiles/cmTC_ce622.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ce622.dir/testCCompiler.c.o
+/usr/bin/cc   -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -o CMakeFiles/cmTC_ce622.dir/testCCompiler.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_ce622
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ce622.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_ce622.dir/testCCompiler.c.o  -o cmTC_ce622 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b03e5/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_b03e5.dir/build.make CMakeFiles/cmTC_b03e5.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b03e5.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc   -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -o CMakeFiles/cmTC_b03e5.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_b03e5
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b03e5.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt  -v -rdynamic CMakeFiles/cmTC_b03e5.dir/CMakeCCompilerABI.c.o  -o cmTC_b03e5 
+Using built-in specs.
+COLLECT_GCC=/usr/bin/cc
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
+OFFLOAD_TARGET_NAMES=nvptx-none
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 7.5.0-3ubuntu1~18.04' --with-bugurl=file:///usr/share/doc/gcc-7/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++ --prefix=/usr --with-gcc-major-version-only --program-suffix=-7 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-bootstrap --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-libmpx --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-isystem' '/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu' '-isystem' '/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include' '-std=gnu99' '-pipe' '-O2' '-g' '-ffunction-sections' '-D' 'ALCHEMY_BUILD' '-fPIC' '-msse' '-msse2' '-mssse3' '-Wno-error' '-O2' '-m64' '-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu' '-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib' '-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu' '-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib' '-pthread' '-v' '-rdynamic' '-o' 'cmTC_b03e5' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cctHNIUf.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_b03e5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. -rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -lrt CMakeFiles/cmTC_b03e5.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lpthread -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-isystem' '/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu' '-isystem' '/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include' '-std=gnu99' '-pipe' '-O2' '-g' '-ffunction-sections' '-D' 'ALCHEMY_BUILD' '-fPIC' '-msse' '-msse2' '-mssse3' '-Wno-error' '-O2' '-m64' '-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu' '-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib' '-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu' '-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib' '-pthread' '-v' '-rdynamic' '-o' 'cmTC_b03e5' '-mtune=generic' '-march=x86-64'
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_b03e5/fast"]
+  ignore line: [make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp']
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_b03e5.dir/build.make CMakeFiles/cmTC_b03e5.dir/build]
+  ignore line: [make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_b03e5.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc   -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -o CMakeFiles/cmTC_b03e5.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_b03e5]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b03e5.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt  -v -rdynamic CMakeFiles/cmTC_b03e5.dir/CMakeCCompilerABI.c.o  -o cmTC_b03e5 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/cc]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
+  ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none]
+  ignore line: [OFFLOAD_TARGET_DEFAULT=1]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 7.5.0-3ubuntu1~18.04' --with-bugurl=file:///usr/share/doc/gcc-7/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++ --prefix=/usr --with-gcc-major-version-only --program-suffix=-7 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-bootstrap --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-libmpx --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) ]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-isystem' '/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu' '-isystem' '/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include' '-std=gnu99' '-pipe' '-O2' '-g' '-ffunction-sections' '-D' 'ALCHEMY_BUILD' '-fPIC' '-msse' '-msse2' '-mssse3' '-Wno-error' '-O2' '-m64' '-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu' '-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib' '-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu' '-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib' '-pthread' '-v' '-rdynamic' '-o' 'cmTC_b03e5' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cctHNIUf.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_b03e5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. -rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -lrt CMakeFiles/cmTC_b03e5.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lpthread -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cctHNIUf.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lpthread] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-pie] ==> ignore
+    arg [-znow] ==> ignore
+    arg [-zrelro] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_b03e5] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
+    arg [-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu] ==> dir [/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu]
+    arg [-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib] ==> dir [/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib]
+    arg [-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu] ==> dir [/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu]
+    arg [-L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib] ==> dir [/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/7] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib]
+    arg [-L/lib/x86_64-linux-gnu] ==> dir [/lib/x86_64-linux-gnu]
+    arg [-L/lib/../lib] ==> dir [/lib/../lib]
+    arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
+    arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
+    arg [-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu] ==> ignore
+    arg [-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib] ==> ignore
+    arg [-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu] ==> ignore
+    arg [-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib] ==> ignore
+    arg [-lrt] ==> lib [rt]
+    arg [CMakeFiles/cmTC_b03e5.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--push-state] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--pop-state] ==> ignore
+    arg [-lpthread] ==> lib [pthread]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--push-state] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--pop-state] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o] ==> ignore
+  collapse library dir [/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu] ==> [/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu]
+  collapse library dir [/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib] ==> [/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib]
+  collapse library dir [/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu] ==> [/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib] ==> [/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/7] ==> [/usr/lib/gcc/x86_64-linux-gnu/7]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib] ==> [/usr/lib]
+  collapse library dir [/lib/x86_64-linux-gnu] ==> [/lib/x86_64-linux-gnu]
+  collapse library dir [/lib/../lib] ==> [/lib]
+  collapse library dir [/usr/lib/x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/../lib] ==> [/usr/lib]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> [/usr/lib]
+  implicit libs: [rt;gcc;gcc_s;pthread;c;gcc;gcc_s]
+  implicit dirs: [/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu;/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib;/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu;/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib;/usr/lib/gcc/x86_64-linux-gnu/7;/usr/lib/x86_64-linux-gnu;/usr/lib;/lib/x86_64-linux-gnu;/lib]
+  implicit fwks: []
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7e8ad/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_7e8ad.dir/build.make CMakeFiles/cmTC_7e8ad.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7e8ad.dir/feature_tests.c.o
+/usr/bin/cc   -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -std=c11 -o CMakeFiles/cmTC_7e8ad.dir/feature_tests.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/feature_tests.c
+Linking C executable cmTC_7e8ad
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7e8ad.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_7e8ad.dir/feature_tests.c.o  -o cmTC_7e8ad 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c99] compiler features compiled with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_90e90/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_90e90.dir/build.make CMakeFiles/cmTC_90e90.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_90e90.dir/feature_tests.c.o
+/usr/bin/cc   -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -std=c99 -o CMakeFiles/cmTC_90e90.dir/feature_tests.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/feature_tests.c
+Linking C executable cmTC_90e90
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_90e90.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_90e90.dir/feature_tests.c.o  -o cmTC_90e90 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c90] compiler features compiled with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8549c/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_8549c.dir/build.make CMakeFiles/cmTC_8549c.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8549c.dir/feature_tests.c.o
+/usr/bin/cc   -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -std=c90 -o CMakeFiles/cmTC_8549c.dir/feature_tests.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/feature_tests.c
+Linking C executable cmTC_8549c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8549c.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_8549c.dir/feature_tests.c.o  -o cmTC_8549c 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:0c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:0c_variadic_macros
+Determining if the include file sys/resource.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4babe/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_4babe.dir/build.make CMakeFiles/cmTC_4babe.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4babe.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -o CMakeFiles/cmTC_4babe.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_4babe
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4babe.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_4babe.dir/CheckIncludeFile.c.o  -o cmTC_4babe 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the getrusage exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_eae99/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_eae99.dir/build.make CMakeFiles/cmTC_eae99.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_eae99.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -o CMakeFiles/cmTC_eae99.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_eae99
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_eae99.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_eae99.dir/CheckSymbolExists.c.o  -o cmTC_eae99 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/resource.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getrusage
+  return ((int*)(&getrusage))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the include file fcntl.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9ce29/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_9ce29.dir/build.make CMakeFiles/cmTC_9ce29.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9ce29.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_9ce29.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_9ce29
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9ce29.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_9ce29.dir/CheckIncludeFile.c.o  -o cmTC_9ce29 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file inttypes.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ebdb8/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_ebdb8.dir/build.make CMakeFiles/cmTC_ebdb8.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ebdb8.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_ebdb8.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_ebdb8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ebdb8.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_ebdb8.dir/CheckIncludeFile.c.o  -o cmTC_ebdb8 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file stdarg.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2e131/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_2e131.dir/build.make CMakeFiles/cmTC_2e131.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2e131.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_2e131.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_2e131
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2e131.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_2e131.dir/CheckIncludeFile.c.o  -o cmTC_2e131 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file strings.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_070b2/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_070b2.dir/build.make CMakeFiles/cmTC_070b2.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_070b2.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_070b2.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_070b2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_070b2.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_070b2.dir/CheckIncludeFile.c.o  -o cmTC_070b2 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file string.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7b23e/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_7b23e.dir/build.make CMakeFiles/cmTC_7b23e.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7b23e.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_7b23e.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_7b23e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7b23e.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_7b23e.dir/CheckIncludeFile.c.o  -o cmTC_7b23e 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file syslog.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_736a4/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_736a4.dir/build.make CMakeFiles/cmTC_736a4.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_736a4.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_736a4.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_736a4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_736a4.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_736a4.dir/CheckIncludeFile.c.o  -o cmTC_736a4 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if files stdlib.h;stdarg.h;string.h;float.h exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8b581/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_8b581.dir/build.make CMakeFiles/cmTC_8b581.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8b581.dir/CheckIncludeFiles.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_8b581.dir/CheckIncludeFiles.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTC_8b581
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8b581.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_8b581.dir/CheckIncludeFiles.c.o  -o cmTC_8b581 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file unistd.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c5a7c/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_c5a7c.dir/build.make CMakeFiles/cmTC_c5a7c.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c5a7c.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_c5a7c.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_c5a7c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c5a7c.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_c5a7c.dir/CheckIncludeFile.c.o  -o cmTC_c5a7c 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7f9b0/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_7f9b0.dir/build.make CMakeFiles/cmTC_7f9b0.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7f9b0.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_7f9b0.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_7f9b0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7f9b0.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_7f9b0.dir/CheckIncludeFile.c.o  -o cmTC_7f9b0 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file dlfcn.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_59607/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_59607.dir/build.make CMakeFiles/cmTC_59607.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_59607.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_59607.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_59607
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_59607.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_59607.dir/CheckIncludeFile.c.o  -o cmTC_59607 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file endian.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_159ad/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_159ad.dir/build.make CMakeFiles/cmTC_159ad.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_159ad.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_159ad.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_159ad
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_159ad.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_159ad.dir/CheckIncludeFile.c.o  -o cmTC_159ad 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file limits.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8607a/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_8607a.dir/build.make CMakeFiles/cmTC_8607a.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8607a.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_8607a.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_8607a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8607a.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_8607a.dir/CheckIncludeFile.c.o  -o cmTC_8607a 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file locale.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7a709/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_7a709.dir/build.make CMakeFiles/cmTC_7a709.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7a709.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_7a709.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_7a709
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7a709.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_7a709.dir/CheckIncludeFile.c.o  -o cmTC_7a709 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file memory.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6bee4/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_6bee4.dir/build.make CMakeFiles/cmTC_6bee4.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6bee4.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_6bee4.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_6bee4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6bee4.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_6bee4.dir/CheckIncludeFile.c.o  -o cmTC_6bee4 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9fa9a/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_9fa9a.dir/build.make CMakeFiles/cmTC_9fa9a.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9fa9a.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_9fa9a.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_9fa9a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9fa9a.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_9fa9a.dir/CheckIncludeFile.c.o  -o cmTC_9fa9a 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file stdlib.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_30600/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_30600.dir/build.make CMakeFiles/cmTC_30600.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_30600.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_30600.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_30600
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_30600.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_30600.dir/CheckIncludeFile.c.o  -o cmTC_30600 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file sys/cdefs.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_028a5/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_028a5.dir/build.make CMakeFiles/cmTC_028a5.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_028a5.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_028a5.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_028a5
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_028a5.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_028a5.dir/CheckIncludeFile.c.o  -o cmTC_028a5 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file sys/param.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e961f/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_e961f.dir/build.make CMakeFiles/cmTC_e961f.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e961f.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_e961f.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_e961f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e961f.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_e961f.dir/CheckIncludeFile.c.o  -o cmTC_e961f 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file sys/stat.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_258e5/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_258e5.dir/build.make CMakeFiles/cmTC_258e5.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_258e5.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_258e5.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_258e5
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_258e5.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_258e5.dir/CheckIncludeFile.c.o  -o cmTC_258e5 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining if the INFINITY exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2213b/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_2213b.dir/build.make CMakeFiles/cmTC_2213b.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2213b.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_2213b.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_2213b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2213b.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_2213b.dir/CheckSymbolExists.c.o  -o cmTC_2213b -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <math.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef INFINITY
+  return ((int*)(&INFINITY))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the isinf exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8c76b/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_8c76b.dir/build.make CMakeFiles/cmTC_8c76b.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8c76b.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_8c76b.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_8c76b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8c76b.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_8c76b.dir/CheckSymbolExists.c.o  -o cmTC_8c76b -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <math.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef isinf
+  return ((int*)(&isinf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the isnan exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d2ad8/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_d2ad8.dir/build.make CMakeFiles/cmTC_d2ad8.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d2ad8.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_d2ad8.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_d2ad8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d2ad8.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_d2ad8.dir/CheckSymbolExists.c.o  -o cmTC_d2ad8 -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <math.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef isnan
+  return ((int*)(&isnan))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the nan exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_35067/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_35067.dir/build.make CMakeFiles/cmTC_35067.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_35067.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_35067.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_35067
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_35067.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_35067.dir/CheckSymbolExists.c.o  -o cmTC_35067 -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <math.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef nan
+  return ((int*)(&nan))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the snprintf exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e6771/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_e6771.dir/build.make CMakeFiles/cmTC_e6771.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e6771.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_e6771.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_e6771
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e6771.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_e6771.dir/CheckSymbolExists.c.o  -o cmTC_e6771 -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef snprintf
+  return ((int*)(&snprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the vasprintf exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a6838/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_a6838.dir/build.make CMakeFiles/cmTC_a6838.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a6838.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_a6838.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_a6838
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a6838.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_a6838.dir/CheckSymbolExists.c.o  -o cmTC_a6838 -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef vasprintf
+  return ((int*)(&vasprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the vsnprintf exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d34db/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_d34db.dir/build.make CMakeFiles/cmTC_d34db.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d34db.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_d34db.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_d34db
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d34db.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_d34db.dir/CheckSymbolExists.c.o  -o cmTC_d34db -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef vsnprintf
+  return ((int*)(&vsnprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the vprintf exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a91b2/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_a91b2.dir/build.make CMakeFiles/cmTC_a91b2.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a91b2.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_a91b2.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_a91b2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a91b2.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_a91b2.dir/CheckSymbolExists.c.o  -o cmTC_a91b2 -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef vprintf
+  return ((int*)(&vprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the open exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2d8f1/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_2d8f1.dir/build.make CMakeFiles/cmTC_2d8f1.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2d8f1.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_2d8f1.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_2d8f1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2d8f1.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_2d8f1.dir/CheckSymbolExists.c.o  -o cmTC_2d8f1 -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <fcntl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef open
+  return ((int*)(&open))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the realloc exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1c37c/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_1c37c.dir/build.make CMakeFiles/cmTC_1c37c.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1c37c.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_1c37c.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_1c37c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1c37c.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_1c37c.dir/CheckSymbolExists.c.o  -o cmTC_1c37c -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef realloc
+  return ((int*)(&realloc))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the setlocale exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_eed04/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_eed04.dir/build.make CMakeFiles/cmTC_eed04.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_eed04.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_eed04.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_eed04
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_eed04.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_eed04.dir/CheckSymbolExists.c.o  -o cmTC_eed04 -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <locale.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef setlocale
+  return ((int*)(&setlocale))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the uselocale exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a972b/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_a972b.dir/build.make CMakeFiles/cmTC_a972b.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a972b.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_a972b.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_a972b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a972b.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_a972b.dir/CheckSymbolExists.c.o  -o cmTC_a972b -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <locale.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef uselocale
+  return ((int*)(&uselocale))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the strcasecmp exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_98e4c/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_98e4c.dir/build.make CMakeFiles/cmTC_98e4c.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_98e4c.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_98e4c.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_98e4c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_98e4c.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_98e4c.dir/CheckSymbolExists.c.o  -o cmTC_98e4c -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <strings.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strcasecmp
+  return ((int*)(&strcasecmp))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the strncasecmp exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4c56e/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_4c56e.dir/build.make CMakeFiles/cmTC_4c56e.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4c56e.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_4c56e.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_4c56e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4c56e.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_4c56e.dir/CheckSymbolExists.c.o  -o cmTC_4c56e -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <strings.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strncasecmp
+  return ((int*)(&strncasecmp))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the strdup exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_35214/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_35214.dir/build.make CMakeFiles/cmTC_35214.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_35214.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_35214.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_35214
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_35214.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_35214.dir/CheckSymbolExists.c.o  -o cmTC_35214 -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strdup
+  return ((int*)(&strdup))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the strerror exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4bb24/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_4bb24.dir/build.make CMakeFiles/cmTC_4bb24.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4bb24.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_4bb24.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_4bb24
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4bb24.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_4bb24.dir/CheckSymbolExists.c.o  -o cmTC_4bb24 -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strerror
+  return ((int*)(&strerror))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the vsyslog exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ae3fd/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_ae3fd.dir/build.make CMakeFiles/cmTC_ae3fd.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ae3fd.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_ae3fd.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_ae3fd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ae3fd.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_ae3fd.dir/CheckSymbolExists.c.o  -o cmTC_ae3fd -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <syslog.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef vsyslog
+  return ((int*)(&vsyslog))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the strtoll exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3318a/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_3318a.dir/build.make CMakeFiles/cmTC_3318a.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3318a.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_3318a.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_3318a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3318a.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_3318a.dir/CheckSymbolExists.c.o  -o cmTC_3318a -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strtoll
+  return ((int*)(&strtoll))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the strtoull exist passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4d9fb/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_4d9fb.dir/build.make CMakeFiles/cmTC_4d9fb.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4d9fb.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_4d9fb.dir/CheckSymbolExists.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_4d9fb
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4d9fb.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_4d9fb.dir/CheckSymbolExists.c.o  -o cmTC_4d9fb -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+File /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strtoull
+  return ((int*)(&strtoull))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_03c6a/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_03c6a.dir/build.make CMakeFiles/cmTC_03c6a.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_03c6a.dir/CheckIncludeFile.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_03c6a.dir/CheckIncludeFile.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_03c6a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_03c6a.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_03c6a.dir/CheckIncludeFile.c.o  -o cmTC_03c6a 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining size of int passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f4bab/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_f4bab.dir/build.make CMakeFiles/cmTC_f4bab.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f4bab.dir/SIZEOF_INT.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_f4bab.dir/SIZEOF_INT.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CheckTypeSize/SIZEOF_INT.c
+Linking C executable cmTC_f4bab
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f4bab.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_f4bab.dir/SIZEOF_INT.c.o  -o cmTC_f4bab -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining size of int64_t passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_194d9/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_194d9.dir/build.make CMakeFiles/cmTC_194d9.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_194d9.dir/SIZEOF_INT64_T.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_194d9.dir/SIZEOF_INT64_T.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CheckTypeSize/SIZEOF_INT64_T.c
+Linking C executable cmTC_194d9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_194d9.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_194d9.dir/SIZEOF_INT64_T.c.o  -o cmTC_194d9 -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining size of long passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_286fc/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_286fc.dir/build.make CMakeFiles/cmTC_286fc.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_286fc.dir/SIZEOF_LONG.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_286fc.dir/SIZEOF_LONG.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CheckTypeSize/SIZEOF_LONG.c
+Linking C executable cmTC_286fc
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_286fc.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_286fc.dir/SIZEOF_LONG.c.o  -o cmTC_286fc -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining size of long long passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_76c5c/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_76c5c.dir/build.make CMakeFiles/cmTC_76c5c.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_76c5c.dir/SIZEOF_LONG_LONG.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_76c5c.dir/SIZEOF_LONG_LONG.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CheckTypeSize/SIZEOF_LONG_LONG.c
+Linking C executable cmTC_76c5c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_76c5c.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_76c5c.dir/SIZEOF_LONG_LONG.c.o  -o cmTC_76c5c -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining size of size_t passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_02fdf/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_02fdf.dir/build.make CMakeFiles/cmTC_02fdf.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_02fdf.dir/SIZEOF_SIZE_T.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_02fdf.dir/SIZEOF_SIZE_T.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CheckTypeSize/SIZEOF_SIZE_T.c
+Linking C executable cmTC_02fdf
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_02fdf.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_02fdf.dir/SIZEOF_SIZE_T.c.o  -o cmTC_02fdf -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Determining size of ssize_t passed with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f0ebd/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_f0ebd.dir/build.make CMakeFiles/cmTC_f0ebd.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f0ebd.dir/SIZEOF_SSIZE_T.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error  -fPIE   -o CMakeFiles/cmTC_f0ebd.dir/SIZEOF_SSIZE_T.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CheckTypeSize/SIZEOF_SSIZE_T.c
+Linking C executable cmTC_f0ebd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f0ebd.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error    -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_f0ebd.dir/SIZEOF_SSIZE_T.c.o  -o cmTC_f0ebd -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+
+Performing C SOURCE FILE Test HAVE_ATOMIC_BUILTINS succeeded with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c3890/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_c3890.dir/build.make CMakeFiles/cmTC_c3890.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c3890.dir/src.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error -DHAVE_ATOMIC_BUILTINS -fPIE   -o CMakeFiles/cmTC_c3890.dir/src.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_c3890
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c3890.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error -DHAVE_ATOMIC_BUILTINS   -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_c3890.dir/src.c.o  -o cmTC_c3890 -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { int i, x = 0; i = __sync_add_and_fetch(&x,1); return x; }
+Performing C SOURCE FILE Test HAVE___THREAD succeeded with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6f94e/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_6f94e.dir/build.make CMakeFiles/cmTC_6f94e.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6f94e.dir/src.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error -DHAVE___THREAD -fPIE   -o CMakeFiles/cmTC_6f94e.dir/src.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_6f94e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6f94e.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error -DHAVE___THREAD   -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_6f94e.dir/src.c.o  -o cmTC_6f94e -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+Source file was:
+__thread int x = 0; int main() { return 0; }
+Performing C SOURCE FILE Test REENTRANT_WORKS succeeded with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8f442/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_8f442.dir/build.make CMakeFiles/cmTC_8f442.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8f442.dir/src.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error -ffunction-sections -fdata-sections -Werror -Wall -Wcast-qual -Wno-error=deprecated-declarations -Wextra -Wwrite-strings -Wno-unused-parameter -Wstrict-prototypes -DREENTRANT_WORKS -fPIE   -o CMakeFiles/cmTC_8f442.dir/src.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_8f442
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8f442.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error -ffunction-sections -fdata-sections -Werror -Wall -Wcast-qual -Wno-error=deprecated-declarations -Wextra -Wwrite-strings -Wno-unused-parameter -Wstrict-prototypes -DREENTRANT_WORKS   -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_8f442.dir/src.c.o  -o cmTC_8f442 -lm 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+	/* uClibc toolchains without threading barf when _REENTRANT is defined */
+	#define _REENTRANT 1
+	#include <sys/types.h>
+	int main (void)
+	{
+	  return 0;
+	}
+	
+Performing C SOURCE FILE Test BSYMBOLIC_WORKS succeeded with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f7918/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_f7918.dir/build.make CMakeFiles/cmTC_f7918.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f7918.dir/src.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error -ffunction-sections -fdata-sections -Werror -Wall -Wcast-qual -Wno-error=deprecated-declarations -Wextra -Wwrite-strings -Wno-unused-parameter -Wstrict-prototypes -DBSYMBOLIC_WORKS -fPIE   -o CMakeFiles/cmTC_f7918.dir/src.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_f7918
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f7918.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error -ffunction-sections -fdata-sections -Werror -Wall -Wcast-qual -Wno-error=deprecated-declarations -Wextra -Wwrite-strings -Wno-unused-parameter -Wstrict-prototypes -DBSYMBOLIC_WORKS   -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_f7918.dir/src.c.o  -o cmTC_f7918 -lm -Wl,-Bsymbolic-functions 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+	int main (void)
+	{
+	  return 0;
+	}
+	
+Performing C SOURCE FILE Test VERSION_SCRIPT_WORKS succeeded with the following output:
+Change Dir: /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e688c/fast"
+make[1]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_e688c.dir/build.make CMakeFiles/cmTC_e688c.dir/build
+make[2]: Entering directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e688c.dir/src.c.o
+/usr/bin/cc -D_GNU_SOURCE  -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error -ffunction-sections -fdata-sections -Werror -Wall -Wcast-qual -Wno-error=deprecated-declarations -Wextra -Wwrite-strings -Wno-unused-parameter -Wstrict-prototypes -DVERSION_SCRIPT_WORKS -fPIE   -o CMakeFiles/cmTC_e688c.dir/src.c.o   -c /home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_e688c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e688c.dir/link.txt --verbose=1
+/usr/bin/cc -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include/x86_64-linux-gnu -isystem/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/include -std=gnu99 -pipe -O2 -g -ffunction-sections -DALCHEMY_BUILD  -m64 -fPIC -msse -msse2 -mssse3    -Wno-error -ffunction-sections -fdata-sections -Werror -Wall -Wcast-qual -Wno-error=deprecated-declarations -Wextra -Wwrite-strings -Wno-unused-parameter -Wstrict-prototypes -DVERSION_SCRIPT_WORKS   -O2  -m64  -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -L/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/lib -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib/x86_64-linux-gnu -Wl,-rpath-link=/home/zxli/code/parrot-groundsdk/out/olympe-linux/staging/usr/lib  -pthread -lrt   -rdynamic CMakeFiles/cmTC_e688c.dir/src.c.o  -o cmTC_e688c -lm -Wl,--version-script,/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/check-version-script.sym 
+make[2]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/zxli/code/parrot-groundsdk/out/olympe-linux/build/json/obj/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+	int main (void)
+	{
+	  return 0;
+	}
+	
